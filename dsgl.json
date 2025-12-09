@@ -1,0 +1,2292 @@
+[
+  {
+    "Label": "part of",
+    "Description": "this instrument. Information may be inserted in this column, or information in it may be edited, in any published version of this instrument.",
+    "SubStructures": [
+      {
+        "Label": "Authority",
+        "Description": "This instrument is made under paragraph 112(2A)(aa) of the Customs Act 1901.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Schedules",
+        "Description": "Each instrument that is specified in a Schedule to this instrument is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this instrument has effect according to its terms.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Division 2\u2014Simplified outline of the Defence and Strategic Goods List",
+        "Description": "The Defence and Strategic Goods List is divided into 2 Parts.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Part 1",
+    "Description": "of the List covers defence and related goods, that is goods and technologies designed or adapted for use by armed forces or goods that are inherently lethal. These goods include:",
+    "SubStructures": [
+      {
+        "Label": "military goods",
+        "Description": "being goods or technology that is designed or adapted for military purposes, including their parts and accessories",
+        "SubStructures": []
+      },
+      {
+        "Label": "non-military lethal goods",
+        "Description": "being equipment that is inherently lethal, incapacitating or destructive, such as non-military firearms, non-military ammunition and commercial explosives and initiators",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Part 2",
+    "Description": "of the List covers those goods that have a dual use. Dual-use goods comprise equipment and technologies developed to meet commercial needs but which may be used either as military components, or for the development or production of military systems or weapons of mass destruction.",
+    "SubStructures": [
+      {
+        "Label": "Category 1",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 2",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 3",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 4",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 5",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 6",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 7",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 8",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 9",
+        "Description": "string",
+        "SubStructures": []
+      },
+      {
+        "Label": "Category 10",
+        "Description": "string",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Category": "Category 0",
+    "Title": "\u2014 Nuclear Materials",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 1",
+    "Title": "\u2014 Materials, Chemicals, Microorganisms and Toxins",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 2",
+    "Title": "\u2014 Materials Processing",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 3",
+    "Title": "\u2014 Electronics",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 4",
+    "Title": "\u2014 Computers",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 5",
+    "Title": "Telecommunications and Information Security",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 6",
+    "Title": "\u2014 Sensors and Lasers",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 7",
+    "Title": "Navigation and Avionics",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Category": "Category 8",
+    "Title": "\u2014 Marine",
+    "Text": {
+      "Label": "string",
+      "Description": "string",
+      "SubStructures": [
+        {
+          "Label": "string",
+          "Description": "string",
+          "SubStructures": []
+        }
+      ]
+    }
+  },
+  {
+    "Label": "Category 9",
+    "Description": "\u2014 Aerospace and Propulsion.",
+    "SubStructures": []
+  },
+  {
+    "Label": "part of",
+    "Description": "the control text.",
+    "SubStructures": [
+      {
+        "Label": "Incorporated goods",
+        "Description": "The object of the controls contained in the Defence and Strategic Goods List should not be defeated by the export of any non-controlled goods (including plant) containing one or more controlled components when the controlled component or components are the principal element of the goods and can feasibly be removed or used for other purposes.",
+        "SubStructures": []
+      },
+      {
+        "Label": "New and used goods",
+        "Description": "Goods specified in the Defence and Strategic Goods List include both new and used goods.",
+        "SubStructures": []
+      },
+      {
+        "Label": "CAS numbers",
+        "Description": "In some instances, chemicals are listed by name and CAS number. The list applies to chemicals of the same structural formula (e.g. hydrates, isotopically-labelled forms or all possible stereoisomers) regardless of name or CAS number. CAS numbers are shown to assist in identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because: (a) some forms of the listed chemical have different CAS numbers; and (b) mixtures containing a listed chemical may also have different CAS numbers.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Source code",
+        "Description": "\u201cSource code\u201d items are controlled either by \u201csoftware\u201d or by \u201csoftware\u201d and \u201ctechnology\u201d controls, except when such \u201csource code\u201d items are explicitly decontrolled.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Medical equipment",
+        "Description": "Equipment specially designed for medical end-use that incorporates an item controlled in the Dual-Use List is not controlled.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Nuclear technology note (NTN)",
+        "Description": "To be read in conjunction with",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "string",
+    "Description": "string",
+    "SubStructures": [
+      {
+        "Label": "string",
+        "Description": "string",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Category": "Category 0",
+    "Title": "is controlled according to the provisions of Category 0.",
+    "Text": {
+      "3.82": "\u201cTechnology\u201d for the \u201cdevelopment\u201d, \u201cproduction\u201d or \u201cuse\u201d of goods under control remains under control even when applicable to non-controlled goods.",
+      "3.83": "The approval of goods for export also authorises the export to the same end-user of the minimum \u201ctechnology\u201d required for the installation, operation, maintenance and repair of the goods.",
+      "3.84": "Controls on \u201ctechnology\u201d transfer do not apply to information \u201cin the public domain\u201d or to \u201cfundamental research\u201d.",
+      "3.9": {
+        "General technology note (GTN)": "This note applies to all technology controls in Categories 1 to 9 of the Dual-Use List.",
+        "3.91": "The export of \u201ctechnology\u201d which is \u201crequired\u201d for the \u201cdevelopment\u201d, \u201cproduction\u201d or \u201cuse\u201d of goods controlled in Categories 1 to 9, is controlled according to the provisions of Categories 1 to 9.",
+        "3.92": "\u201cTechnology\u201d \u201crequired\u201d for the \u201cdevelopment\u201d, \u201cproduction\u201d or \u201cuse\u201d of goods under control remains under control even when applicable to non-controlled goods.",
+        "3.93": "Controls do not apply to that \u201ctechnology\u201d which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those goods which are not controlled or whose export has been authorised.",
+        "Note": "This does not release such \u201ctechnology\u201d specified by 1E002.e, 1E002.f, 8E002.a and 8E002.b.",
+        "3.94": "Controls on \u201ctechnology\u201d transfer do not apply to information \u201cin the public domain\u201d, to \u201cfundamental research\u201d or to the minimum necessary information for patent applications."
+      },
+      "3.10": {
+        "General software note (GSN)": "This note applies to all software controls in the Defence and Strategic Goods List.",
+        "3.101": "The Defence and Strategic Goods List does not control \u201csoftware\u201d which is any of the following: (1) generally available to the public by being: (a) sold from stock at retail selling points, without restriction, by means of: 1. over the counter transactions; or 2. mail order transactions; or 3. electronic transactions; or 4. telephone order transactions; and (b) designed for installation by the user without further substantial support by the supplier;"
+      }
+    }
+  },
+  {
+    "Label": "Category 5",
+    "Description": "- Part 2 (\u201cInformation Security\u201d)",
+    "SubStructures": [
+      {
+        "Label": "string",
+        "Description": "string",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Category 5",
+    "Description": "- Part 2 (\u201cInformation Security\u201d)",
+    "SubStructures": [
+      {
+        "Label": "3.11 General \u201cinformation security\u201d note (GISN)",
+        "Description": "\u201cInformation security\u201d items or functions should be considered against the provisions in",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Category 5",
+    "Description": "Part 2, even if they are components, \u201csoftware\u201d or functions of other items.",
+    "SubStructures": [
+      {
+        "Label": "Clinical trials note",
+        "Description": "Clinical trials where the clinical trial involve a therapeutic product which is entered on the Australian Register of Therapeutic Goods or which is, or is proposed to be, the subject of an exemption or approval pursuant to the Therapeutic Goods Act 1989, Therapeutic Goods Regulations 1990 or Therapeutic Goods (Medical Devices) Regulations 2002 are not controlled."
+      },
+      {
+        "Label": "Division 4\u2014Definitions",
+        "Description": "Definitions of terms between \u2018single quotation marks\u2019 are given in a Technical Note to the relevant item."
+      },
+      {
+        "Label": "Division 4\u2014Definitions",
+        "Description": "Definitions of terms between \u201cdouble quotation marks\u201d are as follows:"
+      }
+    ]
+  },
+  {
+    "Label": "Category references",
+    "Description": "are given in brackets after the defined term.",
+    "SubStructures": [
+      {
+        "Label": "Accuracy",
+        "Description": "usually measured in terms of inaccuracy, means the maximum deviation, positive or negative, of an indicated value from an accepted standard or true value.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Active flight control systems",
+        "Description": "are systems that function to prevent undesirable aircraft and missile motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Active pixel",
+        "Description": "is a minimum (single) element of the solid state array which has a photoelectric transfer function when exposed to light (electromagnetic) radiation.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Additives",
+        "Description": "means substances used in explosive formulations to improve their properties.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Adjusted Peak Performance",
+        "Description": "is an adjusted peak rate at which digital computers perform 64-bit or larger floating point additions and multiplications, and is expressed in Weighted TeraFLOPS (WT) with units of 1012 adjusted floating point operations per second.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Aircraft",
+        "Description": "means a fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Airship",
+        "Description": "means a power-driven airborne vehicle that is kept buoyant by a body of gas (usually helium, formerly hydrogen) which is lighter than air.",
+        "SubStructures": []
+      },
+      {
+        "Label": "All compensations available",
+        "Description": "means after all feasible measures available to the manufacturer to minimise all systematic positioning errors for the particular machine-tool model are considered.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Allocated by the ITU",
+        "Description": "means the allocation of frequency bands according to the current edition of the ITU Radio Regulations for primary, permitted and secondary services.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Angle random walk",
+        "Description": "means the angular error build up with time that is due to white noise in angular rate. (IEEE STD 528-2001)",
+        "SubStructures": []
+      },
+      {
+        "Label": "Angular position deviation",
+        "Description": "means the maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Asymmetric algorithm",
+        "Description": "means a cryptographic algorithm using different, mathematically related keys for encryption and decryption.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Authentication",
+        "Description": "means verifying the identity of a user, process or device, often as a prerequisite to allowing access to resources in an information system. This includes verifying the origin or content of a message or other information, and all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorised access.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Automated Command and Control Systems",
+        "Description": "means electronic systems, through which information essential to the effective operation of the grouping, major formation, tactical formation, unit, ship, subunit or weapons under command is entered, processed and transmitted. This is achieved by the use of computer and other specialised hardware designed to support the functions of a military command and control organisation. The main functions of an automated command and control system are: the efficient automated collection, accumulation, storage and processing of information; the display of the situation and the circumstances affecting the preparation and conduct of combat operations; operational and tactical calculations for the allocation of resources among force groupings or elements of the operational order of battle or battle deployment according to the mission or stage of the operation; the preparation of data for appreciation of the situation and decision-making at any point during operation or battle; computer simulation of operations.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Average output power",
+        "Description": "means the total laser output energy in joules divided by the laser duration in seconds.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Basic gate propagation delay time",
+        "Description": "means the propagation delay time value corresponding to the basic gate used in a monolithic integrated circuit. For a \u2018family\u2019 of monolithic integrated circuits, this may be specified either as the propagation delay time per typical gate within the given \u2018family\u2019 or as the typical propagation delay time per gate within the given \u2018family\u2019.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.",
+    "SubStructures": []
+  },
+  {
+    "Label": "part of",
+    "Description": "an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.",
+    "SubStructures": [
+      {
+        "Label": "Discrete component",
+        "Description": "a separately packaged circuit element with its own external connections",
+        "SubStructures": []
+      },
+      {
+        "Label": "End-effectors",
+        "Description": "grippers, active tooling units and any other tooling that is attached to the baseplate on the end of a robot manipulator arm",
+        "SubStructures": []
+      },
+      {
+        "Label": "Active tooling units",
+        "Description": "devices for applying motive power, process energy or sensing to the workpiece",
+        "SubStructures": []
+      },
+      {
+        "Label": "Energetic materials",
+        "Description": "substances or mixtures that react chemically to release energy required for their intended application. Explosives, pyrotechnics and propellants are subclasses of energetic materials",
+        "SubStructures": []
+      },
+      {
+        "Label": "Equivalent Density",
+        "Description": "the mass of an optic per unit optical area projected onto the optical surface",
+        "SubStructures": []
+      },
+      {
+        "Label": "Equivalent standards",
+        "Description": "comparable national or international standards recognised by one or more Wassenaar Arrangement Participating States and applicable to the relevant entry",
+        "SubStructures": []
+      },
+      {
+        "Label": "Explosives",
+        "Description": "solid, liquid or gaseous substances or mixtures of substances which, in their application as primary, booster, or main charges in warheads, demolition and other applications, are required to detonate",
+        "SubStructures": []
+      },
+      {
+        "Label": "Expression Vectors",
+        "Description": "carriers (e.g., plasmid or virus) used to introduce genetic material into host cells",
+        "SubStructures": []
+      },
+      {
+        "Label": "Fibrous or filamentary materials",
+        "Description": "continuous monofilaments, continuous yarns and rovings, tapes, fabrics, random mats and braids, chopped fibres, staple fibres, coherent fibre blankets, whiskers, either monocrystalline or polycrystalline, of any length, aromatic polyamide pulp",
+        "SubStructures": []
+      },
+      {
+        "Label": "Film type integrated circuit",
+        "Description": "an array of circuit elements and metallic interconnections formed by deposition of a thick or thin film on an insulating substrate",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.",
+    "SubStructures": []
+  },
+  {
+    "Label": "part per",
+    "Description": "million of a final specified output frequency equal to or greater than 1 GHz.",
+    "SubStructures": [
+      {
+        "Label": "Fuel cell",
+        "Description": "an electrochemical device that converts chemical energy directly into Direct Current (DC) electricity by consuming fuel from an external source.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Full Authority Digital Engine Control Systems (FADEC Systems)",
+        "Description": "an electronic control system for gas turbine or combined cycle engines utilising a digital computer to control the variables required to regulate engine thrust or shaft power output throughout the engine operating range from the beginning of fuel metering to fuel shutoff.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Fundamental research",
+        "Description": "basic or applied research conducted in circumstances where the results of the research are intended for public disclosure, or would ordinarily be published or shared broadly, and are not subject to any restrictions on disclosure (however imposed) for purposes connected with the security or defence of Australia or any foreign country.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Fusible",
+        "Description": "capable of being cross-linked or polymerised further (cured) by the use of heat, radiation, catalysts, etc., or that can be melted without pyrolysis (charring).",
+        "SubStructures": []
+      },
+      {
+        "Label": "Gate-All-Around Field-Effect Transistor (GAAFET)",
+        "Description": "A device having a single or multiple semiconductor conduction channel element(s) with a common gate structure that surrounds and controls current in all of the semiconductor conduction channel elements. This definition includes nanosheet or nanowire field-effect and surrounding gate transistors and other GAAFET semiconductor channel element structures.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Guidance set",
+        "Description": "systems that integrate the process of measuring and computing a vehicle\u2019s position and velocity (i.e. navigation) with that of computing and sending commands to the vehicle\u2019s flight control systems to correct the trajectory.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Hard selectors",
+        "Description": "data or a set of data, related to an individual (e.g., family name, given name, email address, street address, phone number or group affiliations).",
+        "SubStructures": []
+      },
+      {
+        "Label": "Hybrid computer",
+        "Description": "equipment which can accept data, process data in both analogue and digital representations, and provide output of data.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Hybrid integrated circuit",
+        "Description": "any combination of integrated circuit(s), or integrated circuit with \u2018circuit elements\u2019 or \u2018discrete components\u2019 connected together to perform specific function(s), and having all of the following characteristics: containing at least one unencapsulated device, connected together using typical IC production methods, replaceable as an entity, not normally capable of being disassembled.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.",
+    "SubStructures": [
+      {
+        "Label": "Discrete component",
+        "Description": "a separately packaged circuit element with its own external connections."
+      },
+      {
+        "Label": "Image enhancement",
+        "Description": "the processing of externally derived information-bearing images by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform). This does not include algorithms using only linear or rotational transformation of a single image, such as translation, feature extraction, registration or false coloration."
+      },
+      {
+        "Label": "Immunotoxin",
+        "Description": "a conjugate of one cell specific monoclonal antibody and a toxin or sub-unit of toxin, that selectively affects diseased cells."
+      },
+      {
+        "Label": "Information security",
+        "Description": "all the means and functions ensuring the accessibility, confidentiality or integrity of information or communications, excluding the means and functions intended to safeguard against malfunctions. This includes cryptography, cryptographic activation, cryptanalysis, protection against compromising emanations and computer security."
+      },
+      {
+        "Label": "Cryptanalysis",
+        "Description": "the analysis of a cryptographic system or its inputs and outputs to derive confidential variables or sensitive data, including clear text."
+      },
+      {
+        "Label": "Instantaneous bandwidth",
+        "Description": "the bandwidth over which output power remains constant within 3 dB without adjustment of other operating parameters."
+      },
+      {
+        "Label": "Insulation",
+        "Description": "applied to the components of a rocket motor, i.e. the case, nozzle, inlets, case closures, and includes cured or semi-cured compounded rubber sheet stock containing an insulating or refractory material. It may also be incorporated as stress relief boots or flaps."
+      },
+      {
+        "Label": "Interior lining",
+        "Description": "suited for the bond interface between the solid propellant and the case or insulating liner. Usually a liquid polymer based dispersion of refractory or insulating materials, e.g. carbon filled hydroxyl terminated polybutadiene (HTPB) or other polymer with added curing agents sprayed or screeded over a case interior."
+      },
+      {
+        "Label": "Interleaved Analogue-to-Digital Converter (ADC)",
+        "Description": "devices that have multiple ADC units that sample the same analogue input at different times such that when the outputs are aggregated, the analogue input has been effectively sampled and converted at a higher sampling rate."
+      },
+      {
+        "Label": "In the public domain",
+        "Description": "technology or software which has been made available without restrictions upon its further dissemination (copyright restrictions do not remove technology or software from being in the public domain)."
+      },
+      {
+        "Label": "Intrinsic Magnetic Gradiometer",
+        "Description": "a single magnetic field gradient sensing element and associated electronics the output of which is a measure of magnetic field gradient."
+      },
+      {
+        "Label": "Intrusion software",
+        "Description": "Software specially designed or modified to avoid detection by monitoring tools, or to defeat protective countermeasures, of a computer or network-capable device, and performing data extraction, information modification, or modification of the standard execution path of a program or process in order to allow the execution of externally provided instructions."
+      },
+      {
+        "Label": "Isolated live cultures",
+        "Description": "includes live cultures in dormant form and in dried preparations."
+      },
+      {
+        "Label": "Isostatic presses",
+        "Description": "equipment capable of pressurising a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material."
+      },
+      {
+        "Label": "Laser",
+        "Description": "an item that produces spatially and temporally coherent light through amplification by stimulated emission of radiation."
+      },
+      {
+        "Label": "Laser duration",
+        "Description": "the time over which a laser emits laser radiation, which for pulsed lasers corresponds to the time over which a single pulse or series of consecutive pulses is emitted."
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.",
+    "SubStructures": [
+      {
+        "Label": "Monolithic Microwave Integrated Circuit (MMIC)",
+        "Description": "a monolithic integrated circuit that operates at microwave or millimeter wave frequencies",
+        "SubStructures": []
+      },
+      {
+        "Label": "Monospectral imaging sensors",
+        "Description": "capable of acquisition of imaging data from one discrete spectral band",
+        "SubStructures": []
+      },
+      {
+        "Label": "Multichip integrated circuit",
+        "Description": "two or more monolithic integrated circuits bonded to a common substrate",
+        "SubStructures": []
+      },
+      {
+        "Label": "Multiple channel Analogue-to-Digital Converter (ADC)",
+        "Description": "devices that integrate more than one ADC, designed so that each ADC has a separate analogue input",
+        "SubStructures": []
+      },
+      {
+        "Label": "Multispectral imaging sensors",
+        "Description": "capable of simultaneous or serial acquisition of imaging data from two or more discrete spectral bands. Sensors having more than twenty discrete spectral bands are sometimes referred to as hyperspectral imaging sensors.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Natural uranium",
+        "Description": "uranium containing the mixtures of isotopes occurring in nature",
+        "SubStructures": []
+      },
+      {
+        "Label": "Network access controller",
+        "Description": "a physical interface to a distributed switching network. It uses a common medium which operates throughout at the same digital transfer rate using arbitration for transmission. Independently from any other, it selects data packets or data groups addressed to it. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Nuclear reactor",
+        "Description": "the items within or attached directly to the reactor vessel, the equipment which controls the level of power in the core, and the components which normally contain, come into direct contact with or control the primary coolant of the reactor core",
+        "SubStructures": []
+      },
+      {
+        "Label": "Numerical control",
+        "Description": "the automatic control of a process performed by a device that makes use of numeric data usually introduced as the operation is in progress",
+        "SubStructures": []
+      },
+      {
+        "Label": "Object code",
+        "Description": "an equipment executable form of a convenient expression of one or more processes (source code) which has been converted by programming system",
+        "SubStructures": []
+      },
+      {
+        "Label": "Operations, Administration or Maintenance (OAM)",
+        "Description": "performing tasks related to establishing or managing accounts or privileges of users or administrators, settings of an item, authentication data, monitoring or managing the operating condition or performance of an item, managing logs or audit data",
+        "SubStructures": []
+      },
+      {
+        "Label": "Optical integrated circuit",
+        "Description": "a monolithic integrated circuit or a hybrid integrated circuit, containing one or more parts designed to function as a photosensor or photoemitter or to perform optical or electro-optical functions",
+        "SubStructures": []
+      },
+      {
+        "Label": "Optical switching",
+        "Description": "the routing or switching of signals in optical form without conversion to electrical signals",
+        "SubStructures": []
+      },
+      {
+        "Label": "Overall current density",
+        "Description": "the total number of ampere-turns in the coil divided by the total cross-",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "the coil (comprising the superconducting filaments, the metallic matrix in which the superconducting filaments are embedded, the encapsulating material, any cooling channels, etc.)",
+    "Description": "Peak power means the highest level of power attained in the laser duration. Personal area network is a data communication system having all of the following characteristics: (a) allows an arbitrary number of independent or interconnected data devices to communicate directly with each other; and (b) is confined to the communication between devices within the immediate physical vicinity of an individual person or device controller (e.g., single room, office or automobile).",
+    "SubStructures": [
+      {
+        "Label": "Data device",
+        "Description": "Equipment capable of transmitting or receiving sequences of digital information",
+        "SubStructures": []
+      },
+      {
+        "Label": "local area network",
+        "Description": "extends beyond the geographical area of the personal area network",
+        "SubStructures": []
+      },
+      {
+        "Label": "Precursors",
+        "Description": "specialty chemicals used in the manufacture of military explosives",
+        "SubStructures": []
+      },
+      {
+        "Label": "Pressure transducers",
+        "Description": "devices that convert pressure measurements into an electrical signal",
+        "SubStructures": []
+      },
+      {
+        "Label": "Principal element",
+        "Description": "as it applies in Category 4, is a principal element when its replacement value is more than 35% of the total value of the system of which it is an element. Element value is the price paid for the element by the manufacturer of the system, or by the system integrator. Total value is the normal international selling price to unrelated parties at the point of manufacture or consolidation of shipment.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Production",
+        "Description": "all production phases, such as: construction, production engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance",
+        "SubStructures": []
+      },
+      {
+        "Label": "Production equipment",
+        "Description": "tooling, templates, jigs, mandrels, moulds, dies, fixtures, alignment mechanisms, test equipment, other machinery and components therefor, limited to those specially designed or modified for development or for one or more phases of production",
+        "SubStructures": []
+      },
+      {
+        "Label": "Production facilities",
+        "Description": "equipment and specially designed software therefor integrated into installations for development or for one or more phases of production",
+        "SubStructures": []
+      },
+      {
+        "Label": "Program(s)",
+        "Description": "a sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer",
+        "SubStructures": []
+      },
+      {
+        "Label": "Propellants",
+        "Description": "Substances or mixtures that react chemically to produce large volumes of hot gases at controlled rates to perform mechanical work",
+        "SubStructures": []
+      },
+      {
+        "Label": "Pulse compression",
+        "Description": "the coding and processing of a radar signal pulse of long time duration to one of short time duration, while maintaining the benefits of high pulse energy",
+        "SubStructures": []
+      },
+      {
+        "Label": "Pulse duration",
+        "Description": "the duration of a laser pulse measured at Full Width Half Intensity (FWHI) levels",
+        "SubStructures": []
+      },
+      {
+        "Label": "Pulsed laser",
+        "Description": "a laser having a pulse duration that is less than or equal to 0.25 seconds",
+        "SubStructures": []
+      },
+      {
+        "Label": "Pyrotechnic(s)",
+        "Description": "mixtures of solid or liquid fuels and oxidisers which, when ignited, undergo an energetic chemical reaction at a controlled rate intended to produce specific time delays, or quantities of heat, noise, smoke, visible light or infrared radiation. Pyrophorics are a subclass of pyrotechnics, which contain no oxidisers but ignite spontaneously on contact with air",
+        "SubStructures": []
+      },
+      {
+        "Label": "Quantum cryptography",
+        "Description": "a family of techniques for the establishment of a shared key for cryptography by measuring the quantum-mechanical properties of a physical system (including those physical properties explicitly governed by quantum optics, quantum field theory, or quantum electrodynamics)",
+        "SubStructures": []
+      },
+      {
+        "Label": "Radar frequency agility",
+        "Description": "any technique which changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth",
+        "SubStructures": []
+      },
+      {
+        "Label": "Radar spread spectrum",
+        "Description": "any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding",
+        "SubStructures": []
+      },
+      {
+        "Label": "Radiant sensitivity",
+        "Description": "Radiant sensitivity (mA/W) = 0.807 x (wavelength in nm) x Quantum Efficiency (QE). QE is usually expressed as a percentage; however, for the purposes of this formula QE is expressed as a decimal number less than one, e.g., 78% is 0.78",
+        "SubStructures": []
+      },
+      {
+        "Label": "Real time processing",
+        "Description": "the processing of data by a computer system providing a required level of service, as a function of available resources, within a guaranteed response time, regardless of the load of the system, when stimulated by an external event",
+        "SubStructures": []
+      },
+      {
+        "Label": "Repeatability",
+        "Description": "the closeness of agreement among repeated measurements of the same variable under the same operating conditions when changes in conditions or non-operating periods occur between measurements. (Reference: IEEE STD 528-2001 (one sigma standard deviation))",
+        "SubStructures": []
+      },
+      {
+        "Label": "Required",
+        "Description": "as applied to technology, refers to only that portion of technology which is peculiarly responsible for achieving or extending the controlled performance levels, characteristics or functions. Such required technology may be shared by different goods",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "a vertical array of storage bins and designed to access the contents of those bins for storage or retrieval.",
+    "SubStructures": []
+  },
+  {
+    "Label": "part of",
+    "Description": "an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.",
+    "SubStructures": [
+      {
+        "Label": "Substrate blanks",
+        "Description": "monolithic compounds with dimensions suitable for the production of optical elements such as mirrors or optical windows",
+        "SubStructures": []
+      },
+      {
+        "Label": "Sub-unit of toxin",
+        "Description": "a structurally and functionally discrete component of a whole toxin",
+        "SubStructures": []
+      },
+      {
+        "Label": "Superalloy",
+        "Description": "nickel-, cobalt- or iron-base alloys having a stress rupture life greater than 1,000 hours at 400 MPa and an ultimate tensile strength greater than 850 MPa, at 922 K (649\u00b0C) or higher",
+        "SubStructures": []
+      },
+      {
+        "Label": "Superconductive",
+        "Description": "materials, i.e., metals, alloys or compounds, which can lose all electrical resistance, i.e., which can attain infinite electrical conductivity and carry very large electrical currents without Joule heating",
+        "SubStructures": []
+      },
+      {
+        "Label": "Super-High Power Laser (SHPL)",
+        "Description": "a laser capable of delivering (the total or any portion of) the output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW",
+        "SubStructures": []
+      },
+      {
+        "Label": "Superplastic forming",
+        "Description": "a deformation process using heat for metals that are normally characterised by low values of elongation (less than 20%) at the breaking point as determined at room temperature by conventional tensile strength testing, in order to achieve elongations during processing which are at least 2 times those values",
+        "SubStructures": []
+      },
+      {
+        "Label": "Symmetric algorithm",
+        "Description": "a cryptographic algorithm using an identical key for both encryption and decryption",
+        "SubStructures": []
+      },
+      {
+        "Label": "Tape",
+        "Description": "a material constructed of interlaced or unidirectional monofilaments, strands, rovings, tows, or yarns, etc., usually preimpregnated with resin",
+        "SubStructures": []
+      },
+      {
+        "Label": "Technology",
+        "Description": "specific information necessary for the development, production or use of a product. This information takes the form of 'technical data' or 'technical assistance'. Specified technology for the Dual-Use List is defined in the General Technology Note and in the Dual-Use List. Specified technology for the Munitions List is defined in ML22",
+        "SubStructures": []
+      },
+      {
+        "Label": "Three dimensional integrated circuit",
+        "Description": "collection of semiconductor dies or active device layers, integrated together, and having through semiconductor via connections passing completely through an interposer, substrate, die or layer to establish interconnections between the device layers. An interposer is an interface that enables electrical connections",
+        "SubStructures": []
+      },
+      {
+        "Label": "Tilting spindle",
+        "Description": "a tool-holding spindle which alters, during the machining process, the angular position of its centre line with respect to any other axis",
+        "SubStructures": []
+      },
+      {
+        "Label": "Time constant",
+        "Description": "the time taken from the application of a light stimulus for the current increment to reach a value of 1-1/e times the final value (i.e., 63% of the final value)",
+        "SubStructures": []
+      },
+      {
+        "Label": "Tip shroud",
+        "Description": "a stationary ring component (solid or segmented) attached to the inner surface of the engine turbine casing or a feature at the outer tip of the turbine blade, which primarily provides a gas seal between the stationary and rotating components",
+        "SubStructures": []
+      },
+      {
+        "Label": "Total control of flight",
+        "Description": "an automated control of aircraft state variables and flight path to meet mission objectives responding to real time changes in data regarding objectives, hazards or other aircraft",
+        "SubStructures": []
+      },
+      {
+        "Label": "Total digital transfer rate",
+        "Description": "the number of bits, including line coding, overhead and so forth per unit time passing between corresponding equipment in a digital transmission system",
+        "SubStructures": []
+      },
+      {
+        "Label": "Tow",
+        "Description": "a bundle of monofilaments, usually approximately parallel",
+        "SubStructures": []
+      },
+      {
+        "Label": "Toxins",
+        "Description": "toxins in the form of deliberately isolated preparations or mixtures, no matter how produced, other than toxins present as contaminants of other materials such as pathological specimens, crops, foodstuffs or seed stocks of microorganisms",
+        "SubStructures": []
+      },
+      {
+        "Label": "Tunable",
+        "Description": "the ability of a laser to produce a continuous output at all wavelengths over a range of several laser transitions. A line selectable laser produces discrete wavelengths within one laser transition and is not considered tunable",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "the IR spectrum;",
+    "SubStructures": []
+  },
+  {
+    "Category": "part in",
+    "Title": "320",
+    "Text": {
+      "2": "Ion sources constructed of or protected by nickel, nickel-copper alloys with a nickel content of 60% by weight or more, or nickel-chrome alloys;",
+      "3": "Electron bombardment ionisation sources; and",
+      "4": "Having a collector system suitable for isotopic analysis.",
+      "0": {
+        "B": {
+          "003": {
+            "Label": "Plant for the conversion of uranium and equipment specially designed or prepared therefor",
+            "Description": "Systems for the conversion of uranium ore concentrates to UO3; Systems for the conversion of UO3 to UF6; Systems for the conversion of UO3 to UO2; Systems for the conversion of UO2 to UF4; Systems for the conversion of UF4 to UF6; Systems for the conversion of UF4 to uranium metal; Systems for the conversion of UF6 to UO2; Systems for the conversion of UF6 to UF4; Systems for the conversion of UO2 to UCl4."
+          },
+          "004": {
+            "Label": "Plant for the production or concentration of heavy water, deuterium and deuterium compounds and specially designed or prepared equipment and components therefor",
+            "Description": "Plant for the production of heavy water, deuterium or deuterium compounds, as follows: Water-hydrogen sulphide exchange plants; Ammonia-hydrogen exchange plants; Equipment and components, as follows: Water-hydrogen sulphide exchange towers with diameters 1.5 m or greater and capable of operating at pressures greater than or equal to 2 MPa (300 psi); Single stage, low head (i.e. 0.2 MPa or 30 psi) centrifugal blowers or compressors for hydrogen sulphide gas circulation (i.e. gas containing more than 70% by weight hydrogen sulphide H2S) with a throughput capacity greater than or equal to 56 m3/second (120,000 SCFM) when operating at pressures greater than or equal to 1.8 MPa (260 psi) suction and having seals designed for wet H2S service; Ammonia-hydrogen exchange towers greater than or equal to 35 m (114.3 ft) in height with diameters of 1.5 m (4.9 ft) to 2.5 m (8.2 ft) capable of operating at pressures greater than 15 MPa (2225 psi); Tower internals, including stage contactors, and stage pumps, including those which are submersible, for heavy water production utilising the ammonia-hydrogen exchange process; Ammonia crackers with operating pressures greater than or equal to 3 MPa (450 psi) for heavy water production utilising the ammonia-hydrogen exchange process; Infrared absorption analysers capable of on-line hydrogen/deuterium ratio analysis where deuterium concentrations are equal to or greater than 90% by weight; Catalytic burners for the conversion of enriched deuterium gas into heavy water utilising the ammonia-hydrogen exchange process; Complete heavy water upgrade systems, or columns therefor, for the upgrade of heavy water to reactor-grade deuterium concentration; Ammonia synthesis converters or synthesis units specially designed or prepared for heavy water production utilising the ammonia-hydrogen exchange process."
+          },
+          "005": {
+            "Label": "Plant for the fabrication of \u201cnuclear reactor\u201d fuel elements and specially designed or prepared equipment therefor",
+            "Description": "A plant for the fabrication of \u201cnuclear reactor\u201d fuel elements includes equipment which: Normally comes into direct contact with or directly processes or controls the production flow of nuclear materials; Seals the nuclear materials within the cladding; Checks the integrity of the cladding or the seal; Checks the finish treatment of the sealed fuel; or Is used for assembling reactor fuel elements."
+          },
+          "006": {
+            "Label": "Plant for the reprocessing of irradiated \u201cnuclear reactor\u201d fuel elements, and specially designed or prepared equipment and components therefor",
+            "Description": "Plant for the reprocessing of irradiated \u201cnuclear reactor\u201d fuel elements including equipment and components which normally come into direct contact with and directly control the irradiated fuel and the major nuclear material and fission product processing streams; Irradiated fuel element decladding equipment and chopping machines, i.e. remotely operated equipment specially designed or prepared for use in a reprocessing plant specified by (a) above and intended to expose or prepare the irradiated nuclear material in fuel assemblies, bundles or rods for processing; Dissolver vessels or dissolvers employing mechanical devices specially designed or prepared for use in a reprocessing plant as identified above, intended for dissolution of irradiated nuclear fuel and which are capable of withstanding hot, highly corrosive liquid, and which can be remotely loaded, operated, and maintained; Solvent extractors and solvent extraction equipment i.e. specially designed or prepared solvent extractors such as packed or pulse columns, miser settlers or centrifugal contactors for use in a plant for the reprocessing of irradiated fuel. Solvent extractors must be resistant to the corrosive effect of nitric acid. Solvent extractors are normally fabricated to extremely high standards (including special welding and inspection and quality assurance and qualit"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Label": "part or",
+    "Description": "a structure. These machines have the ability to cut and restart individual \u2018filament band\u2019 courses during the laying process.",
+    "SubStructures": [
+      {
+        "Label": "Fibre/tow-placement machines",
+        "Description": "have the ability to place one or more \u2018filament bands\u2019 having widths less than or equal to 25.4 mm. This refers to the minimum width of material the machine can place, regardless of the upper capability of the machine.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Tape-laying machines",
+        "Description": "have the ability to place one or more \u2018filament bands\u2019 having widths less than or equal to 304.8 mm, but cannot place \u2018filaments bands\u2019 with a width equal to or less than 25.4 mm. This refers to the minimum width of material the machine can place, regardless of the upper capability of the machine.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "section area",
+    "Description": "less than 0.28 x 10-4 mm2 (6 \u00b5m in diameter for circular \u2018filaments\u2019)",
+    "SubStructures": []
+  },
+  {
+    "Label": "section of",
+    "Description": "the conductor;",
+    "SubStructures": []
+  },
+  {
+    "Label": "part before",
+    "Description": "the \"matrix\" is introduced to form a \"composite\".",
+    "SubStructures": [
+      {
+        "Label": "Metals and compounds, as follows",
+        "Description": "Metals in particle sizes of less than 60 \u00b5m whether spherical, atomised, spheroidal, flaked or ground, manufactured from material consisting of 99% or more of zirconium, magnesium and alloys thereof",
+        "SubStructures": [
+          {
+            "Label": "Technical Note",
+            "Description": "For the purposes of 1C011.a., the natural content of hafnium in the zirconium (typically 2% to 7%) is counted with the zirconium."
+          }
+        ]
+      },
+      {
+        "Label": "Materials as follows",
+        "Description": "These materials are typically used for nuclear heat sources.",
+        "SubStructures": [
+          {
+            "Label": "Technical Note",
+            "Description": "For the purposes of 1C012., these materials are typically used for nuclear heat sources."
+          }
+        ]
+      },
+      {
+        "Label": "Materials and devices for reduced observables such as radar reflectivity, ultraviolet/infrared signatures and acoustic signatures, other than those specified by 1C001, usable in \u2018missiles\u2019, \u2018missile\u2019 subsystems or unmanned aerial vehicles specified by 9A012 or 9A112.a.",
+        "Description": "1C101 includes: Structural materials and coatings specially designed for reduced radar reflectivity; Coatings, including paints, specially designed for reduced or tailored reflectivity or emissivity in the microwave, infrared or ultraviolet regions of the electromagnetic spectrum.",
+        "SubStructures": [
+          {
+            "Label": "Note 2",
+            "Description": "1C101 does not include coatings when specially used for the thermal control of satellites."
+          }
+        ]
+      },
+      {
+        "Label": "Resaturated pyrolised carbon-carbon materials designed for space launch vehicles specified by 9A004 or sounding rockets specified by 9A104."
+      },
+      {
+        "Label": "Graphite and ceramic materials, other than those specified by 1C007, as follows",
+        "Description": "Fine grain graphites with a bulk density of 1.72 g/cm3 or greater, measured at 288 K (15\u00b0C), and having a grain size of 100 \u00b5m or less, usable for rocket nozzles and re-entry vehicle nose tips, which can be machined to various products.",
+        "SubStructures": [
+          {
+            "Label": "N.B.",
+            "Description": "See also 0C004."
+          },
+          {
+            "Label": "Pyrolytic or fibrous reinforced graphites, usable for rocket nozzles and re-entry vehicle nose tips usable in \"missiles\", space launch vehicles specified by 9A004 or sounding rockets specified by 9A104;",
+            "Description": "See also 0C004."
+          },
+          {
+            "Label": "Ceramic composite materials (dielectric constant less than 6 at any frequency from 100 MHz to 100 GHz) for use in radomes usable in \"missiles\", space launch vehicles specified by 9A004 or sounding rockets specified by 9A104;"
+          },
+          {
+            "Label": "Bulk machinable silicon-carbide reinforced unfired ceramic, usable for nose tips usable in \"missiles\", space launch vehicles specified by 9A004 or sounding rockets specified by 9A104;"
+          },
+          {
+            "Label": "Reinforced silicon-carbide ceramic composites, usable for nose tips, re-entry vehicles and nozzle flaps usable in \"missiles\", space launch vehicles specified by 9A004 or sounding rockets specified by 9A104."
+          },
+          {
+            "Label": "Bulk machinable ceramic composite materials consisting of an 'Ultra High Temperature Ceramic (UHTC)' matrix with a melting point equal to or greater than 300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "part hafnium",
+    "Description": "to 500 parts zirconium by weight, as follows: metal, alloys containing more than 50% zirconium by weight, compounds, manufactures thereof, waste or scrap of any of the foregoing.",
+    "SubStructures": [
+      {
+        "Label": "Tritium, tritium compounds, mixtures containing tritium in which the ratio of tritium to hydrogen atoms exceeds 1",
+        "Description": null,
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "part in",
+    "Description": "1000, and products or devices containing any of the foregoing.",
+    "SubStructures": []
+  },
+  {
+    "Label": "part of",
+    "Description": "a radial rolling bearing incorporating one or more raceways (ISO 5593:1997)",
+    "SubStructures": [
+      {
+        "Label": "Radial ball bearings",
+        "Description": "other than those specified by 2A001, having all tolerances specified in accordance with ISO 492 Tolerance Class 2 (or ANSI/ABMA Std 20 Tolerance Class ABEC\u20139 or other national equivalents), or better and having all of the following characteristics",
+        "SubStructures": []
+      },
+      {
+        "Label": "Crucibles",
+        "Description": "made of materials resistant to liquid actinide metals",
+        "SubStructures": [
+          {
+            "Label": "Crucibles",
+            "Description": "having both of the following characteristics",
+            "SubStructures": []
+          },
+          {
+            "Label": "Crucibles",
+            "Description": "having both of the following characteristics",
+            "SubStructures": []
+          },
+          {
+            "Label": "Crucibles",
+            "Description": "having all of the following characteristics",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "Valves",
+        "Description": "having all of the following characteristics",
+        "SubStructures": []
+      },
+      {
+        "Label": "Test, Inspection and Production Equipment",
+        "Description": "",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Category": "Category 2",
+    "Title": "list refers to each linear axis there will be as many 'stated \"unidirectional positioning repeatability\"'-values as there are linear axes;",
+    "Text": "e. If any axis of a machine model not specified by 2B001.a. to 2B001.c. has a 'stated \"unidirectional positioning repeatability\"' equal to or less than the specified \"unidirectional positioning repeatability\" of each machine tool model plus 0.7 \u03bcm, the builder should be required to reaffirm the accuracy level once every eighteen months. 6. For the purposes of 2B, measurement uncertainty for the \"unidirectional positioning repeatability\" of machine tools, as defined in the International Standard ISO 230-2:2014 or national equivalents, shall not be considered. 7. For the purposes of 2B, the measurement of axes shall be made according to test procedures in 5.3.2. of ISO 230-2:2014. Tests for axes longer than 2 meters shall be made over 2 m segments. Axes longer than 4 m require multiple tests (e.g., two tests for axes longer than 4 m and up to 8 m, three tests for axes longer than 8 m and up to 12 m), each over 2 m segments and distributed in equal intervals over the axis length. Test segments are equally spaced along the full axis length, with any excess length equally divided at the beginning, in between, and at the end of the test segments. The smallest \"unidirectional positioning repeatability\"-value of all test segments is to be reported. 8. Removed from DSGL 2023 9. For the purposes of 2B201, measurement uncertainty for the positioning accuracy of machine tools, as defined in the International Standard ISO 230/2:2014 or national equivalents, shall not be considered. 2. B. 001. Machine tools and any combination thereof, for removing (or cutting) metals, ceramics or \u201ccomposites\u201d, which, according to the manufacturer\u2019s technical specification, can be equipped with electronic devices for \u201cnumerical control\u201d, as follows: N.B.: SEE ALSO 2B201. Note 1: 2B001 does not apply to special purpose machine tools limited to the manufacture of gears. For such machines see 2B003. Note 2: 2B001 does not apply to special purpose machine tools limited to the manufacture of any of the following: a. Crankshafts or camshafts; b. Tools or cutters; c. Extruder worms; or d. Engraved or facetted jewellery parts. e. Dental prostheses. Note 3: A machine tool having at least two of the three turning, milling or grinding capabilities (e.g., a turning machine with milling capability), must be evaluated against each applicable entry 2B001.a., b. or c. Note 4: A machine tool having an additive manufacturing capability in addition to a turning, milling or grinding capability must be evaluated against each applicable entry 2B001.a., b. or c. N.B.: For optical finishing machines, see 2B002. 2. B. 001. a. Machine tools for turning having two or more axes which can be coordinated simultaneously for \u201ccontouring control\u201d having any of the following: 1. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 0.9 \u00b5m along one or more linear axis with a travel length less than 1.0 m; or 2. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 1.1 \u00b5m along one or more linear axis with a travel length equal to or greater than 1.0 m; Note 1: 2B001.a. does not apply to turning machines specially designed for producing contact lenses, having all of the following: a. Machine controller limited to using ophthalmic based software for"
+  },
+  {
+    "Label": "data input; and",
+    "Description": "b. No vacuum chucking.",
+    "SubStructures": [
+      {
+        "Label": "Machine tools for milling having any of the following:",
+        "Description": "2B001.b. does not apply to bar machines (Swissturn), limited to machining only bar feed thru, if maximum bar diameter is equal to or less than 42 mm and there is no capability of mounting chucks. Machines may have drilling or milling capabilities for machining parts with diameters less than 42 mm.",
+        "SubStructures": [
+          {
+            "Label": "Three linear axes plus one rotary axis which can be coordinated simultaneously for \u201ccontouring control\u201d having any of the following:",
+            "Description": "2B001.b.1. a. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 0.9 \u00b5m along one or more linear axis with a travel length less than 1.0 m; or b. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 1.1 \u00b5m along one or more linear axis with a travel length equal to or greater than 1.0 m;"
+          },
+          {
+            "Label": "Five or more axes which can be coordinated simultaneously for \u201ccontouring control\u201d having any of the following:",
+            "Description": "2B001.b.2. a. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 0.9 \u00b5m along one or more linear axis with a travel length less than 1 m; b. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 1.4 \u00b5m along one or more linear axis with a travel length equal to or greater than 1 m and less than 4 m; c. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 6.0 \u00b5m along one or more linear axis with a travel length equal to or greater than 4 m;"
+          },
+          {
+            "Label": "A \u201cunidirectional positioning repeatability\u201d for jig boring machines, equal to or less (better) than 1.1 \u00b5m along one or more linear axis;",
+            "Description": "2B001.b.3."
+          },
+          {
+            "Label": "Fly cutting machines having all of the following:",
+            "Description": "2B001.b.4. a. Spindle \u201crun-out\u201d and \u201ccamming\u201d less (better) than 0.0004 mm TIR; and b. Angular deviation of slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR over 300 mm of travel;"
+          }
+        ]
+      },
+      {
+        "Label": "Machine tools for grinding having any of the following:",
+        "Description": "2B001.c. does not apply to grinding machine as follows: a. Cylindrical external, internal, and external-internal grinding machines, having all of the following: 1. Limited to cylindrical grinding; and 2. Limited to a maximum workpiece capacity of 150 mm outside diameter or length. b. Machines designed specifically as jig grinders that do not have a z-axis or a w-axis, with a \u201cunidirectional positioning repeatability\u201d less (better) than 1.1 \u00b5m. c. Surface grinders;",
+        "SubStructures": [
+          {
+            "Label": "Having all of the following:",
+            "Description": "2B001.c.1. a. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 1.1 \u00b5m along one or more linear axis; and b. Three or four axes which can be coordinated simultaneously for \u201ccontouring control\u201d;"
+          },
+          {
+            "Label": "Five or more axes which can be coordinated simultaneously for \u201ccontouring control\u201d having any of the following;",
+            "Description": "2B001.c.2. a. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 1.1 \u00b5m along one or more linear axis with a travel length less than 1 m; b. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 1.4 \u00b5m along one or more linear axis with a travel length equal to or greater than 1 m and less than 4 m; or c. \u201cUnidirectional positioning repeatability\u201d equal to or less (better) than 6.0 \u00b5m along one or more linear axis with a travel length equal to or greater than 4 m."
+          }
+        ]
+      },
+      {
+        "Label": "Electrical discharge machines (EDM) of the non-wire type which have two or more rotary axes which can be coordinated simultaneously for \u201ccontouring control\u201d;",
+        "Description": "2B001.d."
+      },
+      {
+        "Label": "Machine tools for removing metals, ceramics or \u201ccomposites\u201d, having all of the following:",
+        "Description": "2B001.e. 1. Removing material by means of any of the following: a. Water or other liquid jets, including those employing abrasive additives; b. Electron beam; or c. \u201cLaser\u201d beam; and 2. Having two or more rotary axes and all of the following: a. Can be coordinated simultaneously for \u201ccontouring control\u201d; and b. A positioning \u201caccuracy\u201d of less (better) than 0.003\u00b0;"
+      },
+      {
+        "Label": "Deep-hole-drilling machines and turning machines modified for deep-hole-drilling, having a maximum depth-of-bore capability exceeding 5 m and specially designed components therefor.",
+        "Description": "2B001.f."
+      },
+      {
+        "Label": "Numerically controlled optical finishing machine tools equipped for selective material removal to produce non-spherical optical surfaces having all of the following characteristics:",
+        "Description": "2B002. a. Finishing the form to less (better) than 1.0 \u00b5m; b. Finishing to a roughness less (better) than 100 nm rms; c. Four or more axes which can be coordinated simultaneously for \u201ccontouring control\u201d; and d. Using any of the following processes: 1. Magnetorheological finishing (\u2018MRF\u2019); 2. Electrorheological finishing (\u2018ERF\u2019); 3. \u2018Energetic particle beam finishing\u2019; 4. \u2018Inflatable membrane tool finishing\u2019; or 5. \u2018Fluid jet finishing\u2019;"
+      }
+    ]
+  },
+  {
+    "Label": "part programming",
+    "Description": "\u201csoftware\u201d that generates \u201cnumerical control\u201d codes for machining various parts.",
+    "SubStructures": [
+      {
+        "Label": "2D002",
+        "Description": "\u201cSoftware\u201d for electronic devices, even when residing in an electronic device or system, enabling such a device or such devices or systems to function as a \u201cnumerical control\u201d unit, capable of co-ordinating simultaneously more than four axes for \u201ccontouring control\u201d.",
+        "SubStructures": []
+      },
+      {
+        "Label": "2D003",
+        "Description": "\u201cSoftware\u201d, designed or modified for the operation of equipment specified by 2B002., that converts optical design, workpiece measurements and material removal functions into \u201cnumerical control\u201d commands to achieve the desired workpiece form.",
+        "SubStructures": []
+      },
+      {
+        "Label": "2D101",
+        "Description": "\u201cSoftware\u201d specially designed or modified for the \u201cuse\u201d of equipment specified by 2B104, 2B105, 2B109, 2B116, 2B117 or 2B119 to 2B122.",
+        "SubStructures": []
+      },
+      {
+        "Label": "2D201",
+        "Description": "\u201cSoftware\u201d specially designed for the \u201cuse\u201d of equipment specified by 2B204, 2B206, 2B207, 2B209, 2B219 or 2B227.",
+        "SubStructures": []
+      },
+      {
+        "Label": "2D202",
+        "Description": "\u201cSoftware\u201d specially designed or modified for the \u201cdevelopment\u201d, \u201cproduction\u201d or \u201cuse\u201d of equipment specified by 2B201.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Category": "part programming",
+    "Title": "software that generates numerical control command codes but does not allow direct use of equipment for machining various parts",
+    "Text": {
+      "2D": {
+        "351": {
+          "Description": "Software, other than that specified by 1D003, specially designed for use of equipment specified by 2B351"
+        },
+        "352": {
+          "Description": "Software designed for nucleic acid assemblers and synthesizers, specified by 2B352.i, that is capable of designing and building functional genetic elements from digital sequence data"
+        }
+      },
+      "2E": {
+        "001": {
+          "Description": "Technology according to the General Technology Note for the development of equipment or software specified by 2A, 2B or 2D"
+        },
+        "002": {
+          "Description": "Technology according to the General Technology Note for the production of equipment specified by 2A or 2B"
+        },
+        "003": {
+          "Description": "Other technology",
+          "SubStructures": [
+            {
+              "b": {
+                "Description": "Technology for metal-working manufacturing processes",
+                "SubStructures": [
+                  {
+                    "1": {
+                      "Description": "Technology for the design of tools, dies or fixtures specially designed for superplastic forming, diffusion bonding, or direct-acting hydraulic pressing"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "c": {
+                "Description": "Technology for the development or production of hydraulic stretch-forming machines and dies therefor, for the manufacture of airframe structures"
+              }
+            },
+            {
+              "e": {
+                "Description": "Technology for the development of integration software for incorporation of expert systems for advanced decision support of shop floor operations into numerical control units"
+              }
+            },
+            {
+              "f": {
+                "Description": "Technology for the application of inorganic overlay coatings or inorganic surface modification coatings to non-electronic substrates"
+              }
+            }
+          ]
+        },
+        "101": {
+          "Description": "Technology according to the General Technology Note for the use of equipment or software specified by 2B104, 2B109, 2B116, 2B119 to 2B122 or 2D101"
+        },
+        "201": {
+          "Description": "Technology according to the General Technology Note for the use of equipment or software specified by 2B007.b., 2B007.c., 2A225, 2A226, 2B201, 2B204, 2B206, 2B207, 2B209, 2B225 to 2B233, 2D201 or 2D202"
+        },
+        "301": {
+          "Description": "Technology according to the General Technology Note for the use of goods specified by 2B350 to 2B352"
+        }
+      }
+    }
+  },
+  {
+    "Category": "Category 2",
+    "Title": "does not include \u201ctechnology\u201d for single-step pack cementation of solid aerofoils.",
+    "Text": {
+      "11": "\u2018Polymers\u2019, as follows: polyimide, polyester, polysulphide, polycarbonates and polyurethanes.",
+      "12": "\u2018Modified zirconia\u2019 refers to additions of other metal oxides (e.g., calcia, magnesia, yttria, hafnia, rare earth oxides) to zirconia in order to stabilise certain crystallographic phases and phase compositions. Thermal barrier coatings made of zirconia, modified with calcia or magnesia by mixing or fusion, are not controlled.",
+      "13": "\u2018Titanium alloys\u2019 refers only to aerospace alloys having an ultimate tensile strength of 900 MPa or more measured at 293 K (20\u00b0C).",
+      "14": "\u2018Low-expansion glasses\u2019 refers to glasses which have a coefficient of thermal expansion of 1 x 10-7 K-1 or less measured at 293 K (20\u00b0C).",
+      "15": "\u2018Dielectric layers\u2019 are coatings constructed of multi-layers of insulator materials in which the interference properties of a design composed of materials of various refractive indices are used to reflect, transmit or absorb various wavelength bands. Dielectric layers refers to more than four dielectric layers or dielectric/metal \u201ccomposite\u201d layers.",
+      "16": "\u2018Cemented tungsten carbide\u2019 does not include cutting and forming tool materials consisting of tungsten carbide/(cobalt, nickel), titanium carbide/(cobalt, nickel), chromium carbide/nickel-chromium and chromium carbide/nickel.",
+      "17": "\u201cTechnology\u201d for depositing diamond-like carbon on any of the following is not included: magnetic disk drives and heads, equipment for the manufacture of disposables, valves for faucets, acoustic diaphragms for speakers, engine parts for automobiles, cutting tools, punching-pressing dies, office automation equipment, microphones or medical devices or moulds, for casting or moulding of plastics, manufactured from alloys containing less than 5% beryllium.",
+      "18": "\u2018Silicon carbide\u2019 does not include cutting and forming tool materials.",
+      "19": "Ceramic substrates, as used in this entry, does not include ceramic materials containing 5% by weight, or greater, clay or cement content, either as separate constituents or in combination."
+    },
+    "TABLE": {
+      "DEPOSITION TECHNIQUES": {
+        "TECHNICAL NOTE": {
+          "a": {
+            "Chemical Vapour Deposition (CVD)": "is an overlay coating or surface modification coating process wherein a metal, alloy, \u201ccomposite\u201d, dielectric or ceramic is deposited upon a heated substrate. Gaseous reactants are decomposed or combined in the vicinity of a substrate resulting in the deposition of the desired elemental, alloy or compound material on the substrate. Energy for this decomposition or chemical reaction process may be provided by the heat of the substrate, a glow discharge plasma, or \u201claser\u201d irradiation.",
+            "N.B. 1": "CVD includes the following processes: directed gas flow out-of-pack deposition, pulsating CVD, controlled nucleation thermal deposition (CNTD), plasma enhanced or plasma assisted CVD processes.",
+            "N.B. 2": "Pack denotes a substrate immersed in a powder mixture.",
+            "N.B. 3": "The gaseous reactants used in the out-of-pack process are produced using the same basic reactions and parameters as the pack cementation process, except that the substrate to be coated is not in contact with the powder mixture."
+          },
+          "b": {
+            "Thermal Evaporation-Physical Vapour Deposition (TE-PVD)": "is an overlay coating process conducted in a vacuum with a pressure less than 0.1 Pa wherein a source of thermal energy is used to vaporise the coating material. This process results in the condensation, or deposition, of the evaporated species onto appropriately positioned substrates.",
+            "Additional Information": "The addition of gases to the vacuum chamber during the coating process to synthesise compound coatings is an ordinary modification of the process. The use of ion or electron beams, or plasma, to activate or assist the coating\u2019s deposition is also a common modification in this technique. The use of monitors to provide in-process measurement of optical characteristics and thickness of coatings can be a feature of these processes.",
+            "Specific TE-PVD processes": {
+              "1": "Electron Beam PVD uses an electron beam to heat and evaporate the material which forms the coating;",
+              "2": "Ion Assisted Resistive Heating PVD employs electrically resistive heating sources in combination with impinging ion beam(s) to produce a controlled and uniform flux of evaporated coating species;",
+              "3": "\u201cLaser\u201d Vaporisation uses either pulsed or continuous wave \u201claser\u201d beams to vaporise the material which forms the coating;",
+              "4": "Cathodic Arc Deposition employs a consumable cathode of the material which forms the coating and has an arc discharge established on the surface by a momentary contact of a ground trigger. Controlled motion of arcing erodes the cathode surface creating a highly ionised plasma. The anode can be either a cone attached to the periphery of the cathode, through an insulator, or the chamber. Substrate biasing is used for non line-of-sight deposition;",
+              "N.B.": "This definition does not include random cathodic arc deposition with non-biased substrates.",
+              "5": "Ion Plating is a special mod"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "Label": "part in",
+    "Description": "the same shipment; separate shipments from different sources are allowed, provided the related export documents clearly specify that the shipments are dispatched \u2018as part of\u2019 the imaging systems.",
+    "SubStructures": [
+      {
+        "Label": "Flash X-ray generators or pulsed electron accelerators",
+        "Description": "having either of the following sets of characteristics:",
+        "SubStructures": [
+          {
+            "Label": "Flash X-ray generators or pulsed electron accelerators characteristics 1",
+            "Description": "An accelerator peak electron energy of 500 keV or greater but less than 25 MeV; and with a \u2018figure of merit\u2019 (K) of 0.25 or greater; or"
+          },
+          {
+            "Label": "Flash X-ray generators or pulsed electron accelerators characteristics 2",
+            "Description": "An accelerator peak electron energy of 25 MeV or greater; and a \u2018peak power\u2019 greater than 50 MW."
+          }
+        ]
+      },
+      {
+        "Label": "Frequency changers or generators",
+        "Description": "usable as a variable frequency or fixed frequency motor drive, other than those specified by 0B001.b.13., having all of the following characteristics:",
+        "SubStructures": [
+          {
+            "Label": "Frequency changers or generators characteristics",
+            "Description": "Multiphase output providing a power of 40 VA or greater; Operating at a frequency of 600 Hz or more; and Frequency control better (less) than 0.2%."
+          }
+        ]
+      },
+      {
+        "Label": "High-power direct current power supplies",
+        "Description": "other than those specified by 0B001.j.6., having both of the following characteristics:",
+        "SubStructures": [
+          {
+            "Label": "High-power direct current power supplies characteristics",
+            "Description": "Capable of continuously producing, over a time period of 8 hours, 100 V or greater with current output of 500 A or greater; and Current or voltage stability better than 0.1% over a time period of 8 hours."
+          }
+        ]
+      },
+      {
+        "Label": "High-voltage direct current power supplies",
+        "Description": "other than those specified by 0B001.j.5., having both of the following characteristics:",
+        "SubStructures": [
+          {
+            "Label": "High-voltage direct current power supplies characteristics",
+            "Description": "Capable of continuously producing, over a time period of 8 hours, 20 kV or greater with current output of 1 A or greater; and Current or voltage stability better than 0.1% over a time period of 8 hours."
+          }
+        ]
+      },
+      {
+        "Label": "Switching devices",
+        "Description": "as follows:",
+        "SubStructures": [
+          {
+            "Label": "Cold-cathode tubes",
+            "Description": "whether gas filled or not, operating similarly to a spark gap, having all of the following characteristics:",
+            "SubStructures": [
+              {
+                "Label": "Cold-cathode tubes characteristics",
+                "Description": "Containing three or more electrodes; Anode peak voltage rating of 2.5 kV or more; Anode peak current rating of 100 A or more; and Anode delay time of 10 \u00b5s or less."
+              }
+            ]
+          },
+          {
+            "Label": "Triggered spark-gaps",
+            "Description": "having both of the following characteristics:",
+            "SubStructures": [
+              {
+                "Label": "Triggered spark-gaps characteristics",
+                "Description": "An anode delay time of 15 \u00b5s or less; and Rated for a peak current of 500 A or more."
+              }
+            ]
+          },
+          {
+            "Label": "Modules or assemblies with a fast switching function",
+            "Description": "other than those specified by 3A001.g. or 3A001.h., having all of the following characteristics:",
+            "SubStructures": [
+              {
+                "Label": "Modules or assemblies with a fast switching function characteristics",
+                "Description": "Anode peak voltage rating greater than 2 kV; Anode peak current rating of 500 A or more; and Turn-on time of 1 \u00b5s or less."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "High-current pulse generators",
+        "Description": "as follows:",
+        "SubStructures": [
+          {
+            "Label": "Modular electrical pulse generators (pulsers) characteristics",
+            "Description": "Designed for portable, mobile, or ruggedised-use"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "the pulse generator, they can be a plug-in module to the device or they can be an externally connected device.",
+    "SubStructures": [
+      {
+        "Label": "Neutron generator systems",
+        "Description": "including tubes, having both of the following characteristics: Designed for operation without an external vacuum system; and Having any of the following: Utilising electrostatic acceleration to induce a tritium-deuterium nuclear reaction; or Utilising electrostatic acceleration to induce a deuterium-deuterium nuclear reaction and capable of an output of 3 x 10^9 neutrons/s or greater.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Multipoint initiation systems",
+        "Description": "other than those specified by 1A007, as follows: N.B.: SEE ALSO MUNITIONS LIST. N.B.: See 1A007.b. for detonators. Arrangements using single or multiple detonators designed to nearly simultaneously initiate an explosive surface over greater than 5,000 mm2 from a single firing signal with an initiation timing spread over the surface of less than 2.5 \u00b5s.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Mass spectrometers",
+        "Description": "other than those specified by 0B002.g., capable of measuring ions of 230 u or greater and having a resolution of better than 2 parts in 230, as follows, and ion sources therefor: Inductively coupled plasma mass spectrometers (ICP/MS); Glow discharge mass spectrometers (GDMS); Thermal ionisation mass spectrometers (TIMS); Electron bombardment mass spectrometers having both of the following features: A molecular beam inlet system that injects a collimated beam of analyte molecules into a region of the ion source where the molecules are ionized by an electron beam; and One or more cold traps that can be cooled to a temperature of 193 K (-80\u00b0C) or less in order to trap analyte molecules that are not ionized by the electron beam; Mass spectrometers equipped with a microfluorination ion source designed for actinides or actinide fluorides.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Striplines",
+        "Description": "to provide low inductance path to detonators with the following characteristics: Voltage rating greater than 2 kV; and Inductance of less than 20 nH.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Complementary Metal Oxide Semiconductor (CMOS) integrated circuits",
+        "Description": "not specified by 3A001.a.2., designed to operate at an ambient temperature equal to or less (better) than 4.5 K (-268.65 \u00b0C).",
+        "SubStructures": []
+      },
+      {
+        "Label": "Test, Inspection and Production Equipment",
+        "Description": "",
+        "SubStructures": [
+          {
+            "Label": "Equipment for the manufacturing of semiconductor devices or materials",
+            "Description": "as follows and specially designed components and accessories therefor:",
+            "SubStructures": [
+              {
+                "Label": "Equipment designed for epitaxial growth",
+                "Description": "as follows: Equipment designed or modified to produce a layer of any material other than silicon with a thickness uniform to less than \u00b1 2.5% across a distance of 75 mm or more; Metal Organic Chemical Vapour Deposition (MOCVD) reactors designed for compound semiconductor epitaxial growth of material having two or more of the following elements: aluminium, gallium, indium, arsenic, phosphorus, antimony, or nitrogen; Molecular beam epitaxial growth equipment using gas or solid sources;",
+                "SubStructures": []
+              },
+              {
+                "Label": "Equipment designed for ion implantation",
+                "Description": "and having any of the following: Being designed and optimised to operate at a beam energy of 20 keV or more and a beam current of 10 mA or more for hydrogen, deuterium or helium implant; Direct write capability; A beam energy of 65 keV or more and a beam current of 45 mA or more for high energy oxygen implant into a heated semiconductor material 'substrate'; or Being designed and optimized to operate at a beam energy of 20 keV or more and a beam current of 10 mA or more for silicon implant into a semiconductor material 'substrate' heated to 600\u00b0C or greater;",
+                "SubStructures": []
+              },
+              {
+                "Label": "Automatic loading multi-chamber central wafer handling systems",
+                "Description": "having all of the following: Interfaces for wafer input and output, to which more than two functionally different 'semiconductor process tools' specified by 3B001.a.1., 3B001.a.2., 3B001.a.3. or 3B001.b. are designed to be connected; and Designed to form an integrated system in a vacuum environment for 'sequential multiple wafer processing';",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "the molecule.",
+    "SubStructures": [
+      {
+        "Label": "Hydrides of phosphorus, arsenic or antimony",
+        "Description": "having a purity better than 99.999%, even diluted in inert gases or hydrogen.",
+        "SubStructures": []
+      },
+      {
+        "Label": "High resistivity materials",
+        "Description": "as follows:",
+        "SubStructures": [
+          {
+            "Label": "Silicon carbide (SiC), gallium nitride (GaN), aluminium nitride (AlN), aluminium gallium nitride (AlGaN), gallium oxide (Ga2O3) or diamond semiconductor 'substrates', or ingots, boules, or other preforms of those materials",
+            "Description": "having resistivities greater than 10,000 ohm-cm at 20\u00b0C;"
+          },
+          {
+            "Label": "Polycrystalline 'substrates' or polycrystalline ceramic 'substrates'",
+            "Description": "having resistivities greater than 10,000 ohm-cm at 20\u00b0C and having at least one nonepitaxial single-crystal layer of silicon (Si), silicon carbide (SiC), gallium nitride (GaN), aluminium nitride (AlN), aluminium gallium nitride (AlGaN), gallium oxide (Ga2O3) or diamond on the surface of the 'substrate'."
+          }
+        ]
+      },
+      {
+        "Label": "Materials, not specified by 3C001",
+        "Description": "consisting of a 'substrate' specified by 3C005 with at least one epitaxial layer of silicon carbide, gallium nitride, aluminium nitride or aluminium gallium nitride, gallium oxide (Ga2O3) or diamond."
+      },
+      {
+        "Label": "Software",
+        "SubStructures": [
+          {
+            "Label": "'Software' specially designed for the 'development' or 'production' of equipment specified by 3A001.b. to 3A002.h. or 3B."
+          },
+          {
+            "Label": "'Software' specially designed for the 'use' of equipment specified by 3B001.a. to f. or 3B002."
+          },
+          {
+            "Label": "'Computational lithography' 'software' specially designed for the 'development' of patterns on EUV-lithography masks or reticles.",
+            "Description": "For the purposes of 3D003., 'computational lithography' is the use of computer modelling to predict, correct, optimise and verify imaging performance of the lithography process over a range of patterns, processes, and system conditions."
+          },
+          {
+            "Label": "'Software' specially designed for the 'development' of the equipment specified by 3A003."
+          },
+          {
+            "Label": "'Software' specially designed to restore normal operation of a microcomputer, 'microprocessor microcircuit' or 'microcomputer microcircuit' within 1 ms after an Electromagnetic Pulse (EMP) or Electrostatic Discharge (ESD) disruption, without loss of continuation of operation."
+          },
+          {
+            "Label": "'Electronic Computer-Aided Design' ('ECAD') 'software' specially designed for the 'development' of integrated circuits having any 'Gate-All-Around Field-Effect Transistor' ('GAAFET') structure, and having any of the following:",
+            "Description": "a. Specially designed for implementing 'Register Transfer Level' ('RTL') to 'Geometrical Database Standard II' ('GDSII') or equivalent standard; or b. Specially designed for optimisation of power or timing rules.",
+            "SubStructures": [
+              {
+                "Label": "'Electronic Computer-Aided Design' ('ECAD') is a"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "software",
+    "Description": "tools used for designing, analysing, optimising, and validating the performance of integrated circuit or printed circuit board",
+    "SubStructures": [
+      {
+        "Label": "Register Transfer Level",
+        "Description": "a design abstraction which models a synchronous digital circuit in terms of the flow of digital signals between hardware registers, and the logical operations performed on those signals",
+        "SubStructures": []
+      },
+      {
+        "Label": "Geometrical Database Standard II",
+        "Description": "a database file format for data exchange of integrated circuit or integrated circuit layout artwork",
+        "SubStructures": []
+      },
+      {
+        "Label": "Software",
+        "Description": "specially designed or modified for the use of equipment specified by 3A101.b",
+        "SubStructures": []
+      },
+      {
+        "Label": "Software",
+        "Description": "specially designed or modified for the use of equipment specified by 3A225",
+        "SubStructures": []
+      },
+      {
+        "Label": "Software",
+        "Description": "or encryption keys/codes specially designed to enhance or release the performance characteristics of equipment not controlled in 3A225 so that it meets or exceeds the characteristics specified by 3A225",
+        "SubStructures": []
+      },
+      {
+        "Label": "Software",
+        "Description": "specially designed to enhance or release the performance characteristics of equipment controlled in 3A225",
+        "SubStructures": []
+      },
+      {
+        "Label": "Software",
+        "Description": "specially designed for the use of equipment specified by 3B901",
+        "SubStructures": []
+      },
+      {
+        "Label": "Software",
+        "Description": "designed to extract 'GDSII' or equivalent standard layout data and perform layer-to-layer alignment from Scanning Electron Microscope (SEM) images, and generate multi-layer 'GDSII' data or the circuit netlist",
+        "SubStructures": []
+      },
+      {
+        "Label": "Technology",
+        "Description": "according to the General Technology Note for the development or production of equipment, materials or software specified by 3A, 3B, 3C or 3D201 to 3D203",
+        "SubStructures": [
+          {
+            "Label": "Technology",
+            "Description": "according to the General Technology Note other than that specified by 3E001 for the development or production of a microprocessor microcircuit, microcomputer microcircuit or microcontroller microcircuit core, having an arithmetic logic unit with an access width of 32 bits or more and any of the following features or characteristics",
+            "SubStructures": [
+              {
+                "Label": "vector processor unit",
+                "Description": "designed to perform more than two calculations on floating-point vectors simultaneously",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "string",
+    "Description": "string",
+    "SubStructures": [
+      {
+        "Label": "string",
+        "Description": "string",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Part 1",
+    "Description": "(Telecommunications)",
+    "SubStructures": [
+      {
+        "Label": "Systems, Equipment and Components",
+        "Description": "Electronic computers and related equipment, having any of the following and \u201celectronic assemblies\u201d and specially designed components therefor",
+        "SubStructures": [
+          {
+            "Label": "Digital computers, electronic assemblies, and related equipment",
+            "Description": "as follows and specially designed components therefor",
+            "SubStructures": [
+              {
+                "Label": "Note 1",
+                "Description": "4A003. includes the following: 'Vector processors', Array processors, Digital signal processors, Logic processors, Equipment designed for 'image enhancement'"
+              },
+              {
+                "Label": "Note 2",
+                "Description": "The control status of the 'digital computers' and related equipment described in 4A003. is determined by the control status of other equipment or systems provided: a. The 'digital computers' or related equipment are essential for the operation of the other equipment or systems; b. The 'digital computers' or related equipment are not a 'principal element' of the other equipment or systems; N.B. 1: The control status of 'signal processing' or 'image enhancement' equipment specially designed for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the 'principal element' criterion. N.B. 2: For the control status of 'digital computers' or related equipment for telecommunications equipment, see Category 5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "Part 1",
+    "Description": "(Telecommunications)",
+    "SubStructures": [
+      {
+        "Label": "4A003",
+        "Description": "Computers as follows and specially designed related equipment, 'electronic assemblies' and components therefor",
+        "SubStructures": [
+          {
+            "Label": "a",
+            "Description": "'Systolic array computers'"
+          },
+          {
+            "Label": "b",
+            "Description": "'Neural computers'"
+          },
+          {
+            "Label": "c",
+            "Description": "'Optical computers'"
+          }
+        ]
+      },
+      {
+        "Label": "4A004",
+        "Description": "Computers as follows and specially designed related equipment, 'electronic assemblies' and components therefor",
+        "SubStructures": [
+          {
+            "Label": "Technical Notes",
+            "Description": [
+              "For the purposes of 4A004.a., 'systolic array computers' are computers where the flow and modification of the data is dynamically controllable at the logic gate level by the user.",
+              "For the purposes of 4A004.b., 'neural computers' are computational devices designed or modified to mimic the behaviour of a neuron or a collection of neurons, i.e., computational devices which are distinguished by their hardware capability to modulate the weights and numbers of the interconnections of a multiplicity of computational components based on previous data.",
+              "For the purposes of 4A004.c., 'optical computers' are computers designed or modified to use light to represent data and whose computational logic elements are based on directly coupled optical devices."
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "4A005",
+        "Description": "Systems, equipment, and components therefor, specially designed or modified for the generation, command and control, or delivery of 'intrusion software'"
+      },
+      {
+        "Label": "4A101",
+        "Description": "Analogue computers, 'digital computers' or digital differential analysers, other than those specified by 4A001.a.1., which are ruggedised and designed or modified for use in space launch vehicles specified by 9A004. or sounding rockets specified by 9A104"
+      },
+      {
+        "Label": "4A102",
+        "Description": "'Hybrid computers' specially designed for modelling, simulation or design integration of space launch vehicles specified by 9A004. or sounding rockets specified by 9A104",
+        "SubStructures": [
+          {
+            "Label": "Note",
+            "Description": "This control only applies when the equipment is supplied with 'software' specified by 7D103. or 9D103."
+          }
+        ]
+      },
+      {
+        "Label": "4A901",
+        "Description": "Quantum computers and related 'electronic assemblies' and components therefor",
+        "SubStructures": [
+          {
+            "Label": "a",
+            "Description": "Quantum computers as follows",
+            "SubStructures": [
+              {
+                "Label": "1",
+                "Description": "Quantum computers supporting 34 or more, but fewer than 100, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 1x10-4"
+              },
+              {
+                "Label": "2",
+                "Description": "Quantum computers supporting 100 or more, but fewer than 200, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 1x10-3"
+              },
+              {
+                "Label": "3",
+                "Description": "Quantum computers supporting 200 or more, but fewer than 350, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 2x10-3"
+              },
+              {
+                "Label": "4",
+                "Description": "Quantum computers supporting 350 or more, but fewer than 500, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 3x10-3"
+              },
+              {
+                "Label": "5",
+                "Description": "Quantum computers supporting 500 or more, but fewer than 700, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 4x10-3"
+              },
+              {
+                "Label": "6",
+                "Description": "Quantum computers supporting 700 or more, but fewer than 1,100, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 5x10-3"
+              },
+              {
+                "Label": "7",
+                "Description": "Quantum computers supporting 1,100 or more, but fewer than 2,000, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 6x10-3"
+              },
+              {
+                "Label": "8",
+                "Description": "Quantum computers supporting 2,000 or more 'fully controlled', 'connected' and 'working' 'physical qubits'"
+              }
+            ]
+          },
+          {
+            "Label": "b",
+            "Description": "Qubit devices and qubit circuits, containing or supporting arrays of' physical qubits', and specially designed for items specified in 4A901.a."
+          },
+          {
+            "Label": "c",
+            "Description": "Quantum control components and quantum measurement devices, specially designed for items specified in 4A901.a.",
+            "SubStructures": [
+              {
+                "Label": "Note",
+                "Description": "4A901. applies t"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "part of",
+    "Description": "the electromagnetic spectrum; and",
+    "SubStructures": [
+      {
+        "Label": "d.",
+        "Description": "Identification of the received signals or the type of transmitter; or",
+        "SubStructures": []
+      },
+      {
+        "Label": "5. A. 001. b. 6.",
+        "Description": "Employing functions of digital \u201csignal processing\u201d to provide \u2018voice coding\u2019 output at rates of less than 700 bit/s;",
+        "SubStructures": []
+      },
+      {
+        "Label": "5. A. 001. c.",
+        "Description": "Optical fibres of more than 500 m in length and specified by the manufacturer as being capable of withstanding a \u2018proof test\u2019 tensile stress of 2 x 10^9 N/m2 or more;",
+        "SubStructures": []
+      },
+      {
+        "Label": "5. A. 001. d.",
+        "Description": "\u2018Electronically steerable phased array antennae\u2019 as follows:",
+        "SubStructures": [
+          {
+            "Label": "1.",
+            "Description": "Rated for operation above 31.8 GHz, but not exceeding 57 GHz, and having an Effective Radiated Power (ERP) equal to or greater than +20 dBm (22.15 dBm Effective Isotropic Radiated Power (EIRP));"
+          },
+          {
+            "Label": "2.",
+            "Description": "Rated for operation above 57 GHz, but not exceeding 66 GHz, and having an ERP equal to or greater than +24 dBm (26.15 dBm EIRP);"
+          },
+          {
+            "Label": "3.",
+            "Description": "Rated for operation above 66 GHz, but not exceeding 90 GHz, and having an ERP equal to or greater than +20 dBm (22.15 dBm EIRP);"
+          },
+          {
+            "Label": "4.",
+            "Description": "Rated for operation above 90 GHz;"
+          }
+        ]
+      },
+      {
+        "Label": "5. A. 001. e.",
+        "Description": "Radio direction finding equipment operating at frequencies above 30 MHz and having all of the following, and specially designed components therefor:",
+        "SubStructures": [
+          {
+            "Label": "1.",
+            "Description": "\u201cInstantaneous bandwidth\u201d of 10 MHz or more; and"
+          },
+          {
+            "Label": "2.",
+            "Description": "Capable of finding a Line Of Bearing (LOB) to non-cooperating radio transmitters with a signal duration of less than 1 ms;"
+          }
+        ]
+      },
+      {
+        "Label": "5. A. 001. f.",
+        "Description": "Mobile telecommunications interception or jamming equipment, and monitoring equipment therefor, as follows, and specially designed components therefor:",
+        "SubStructures": [
+          {
+            "Label": "1.",
+            "Description": "Interception equipment designed for the extraction of voice or data, transmitted over the air interface;"
+          },
+          {
+            "Label": "2.",
+            "Description": "Interception equipment not specified by 5A001.f.1., designed for the extraction of client device or subscriber identifiers (e.g., IMSI, TIMSI or IMEI), signalling, or other metadata transmitted over the air interface;"
+          },
+          {
+            "Label": "3.",
+            "Description": "Jamming equipment specially designed or modified to intentionally and selectively interfere with, deny, inhibit, degrade or seduce mobile telecommunication services and performing any of the following:"
+          },
+          {
+            "Label": "4.",
+            "Description": "RF monitoring equipment designed or modified to identify the operation of items specified by 5A001.f.1., 5A001.f.2. or 5A001.f.3.;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "INFORMATION SECURITY",
+    "Description": "",
+    "SubStructures": []
+  },
+  {
+    "Category": "Category 5",
+    "Title": "\u2014 Part 2 does not apply to products when accompanying their user for the user\u2019s personal use.",
+    "Text": "Note 3: Cryptography Note 5A002., 5D002.a.1., 5D002.b. and 5D002.c.1. do not apply to items as follows: a. Items meeting all of the following: 1. Generally available to the public by being sold, without restriction, from stock at retail selling points by means of any of the following: a. Over-the-counter transactions; b. Mail order transactions; c. Electronic transactions; or d. Telephone call transactions; 2. The cryptographic functionality cannot easily be changed by the user; 3. Designed for installation by the user without further substantial support by the supplier; and 4. Not used 5. When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter\u2019s country in order to ascertain compliance with conditions described in paragraphs 1. to 3. above; b. Hardware components or \u2018executable software\u2019, of existing items described in paragraph a. of this Note, that have been designed for these existing items, and meeting all of the following: 1. \u201cInformation security\u201d is not the primary function or set of functions of the component or \u2018executable software\u2019; 2. The component or \u2018executable software\u2019 does not change any cryptographic functionality of the existing items, or add new cryptographic functionality to the existing items; 3. The feature set of the component or \u2018executable software\u2019 is fixed and is not designed or modified to customer specification; and 4. When necessary as determined by the appropriate authority in the exporter\u2019s country, details of the component or \u2018executable software\u2019, and details of relevant end-items are accessible and will be provided to the authority upon request, in order to ascertain compliance with conditions described above. Technical Note: For the purposes of the Cryptography Note, \u2018executable software\u2019 means \u201csoftware\u201d in executable form, from an existing hardware component excluded from 5A002. by the Cryptography Note. Note: \u2018Executable software\u2019 does not include complete binary images of the \u201csoftware\u201d running on an end-item. Note to the Cryptography Note: 1. To meet paragraph a. of Note 3, all of the following must apply: a. The item is of potential interest to a wide range of individuals and businesses; and b. The price and information about the main functionality of the item are available before purchase without the need to consult the vendor or supplier. 2. In determining eligibility of paragraph a. of Note 3, national authorities may take into account relevant factors such as quantity, price, required technical skill, existing sales channels, typical customers, typical use or any exclusionary practices of the supplier. 5. A. 2. Systems, Equipment and Components CRYPTOGRAPHIC \u201cINFORMATION SECURITY\u201d 5. A. 002. \u201cInformation security\u201d systems, equipment and components therefor, as follows: N.B.: For \u201csatellite navigation system\u201d receiving equipment containing or employing decryption see 7A005., and for related decryption \u201csoftware\u201d and \u201ctechnology\u201d, see 7D005 and 7E001. 5. A. 002. a. Designed or modified to use \u2018cryptography for data confidentiality\u2019 having a \u2018described security algorithm\u2019, where that cryptographic capability is usable, has been activated, or can be activated by any means other than secure \u201ccryptographic activation\u201d, as follows: 1. Items having \u201cinformation security\u201d as a primary function; 2. Digital communication or networking systems, equipment or components, not specified in paragraph 5A002.a.1.; 3. Computers, other items having information storage or processing as a primary function, and components therefor, not specified in paragraphs 5A002.a.1. or 5A002.a.2.; N.B.: For operating systems, see also 5D002.a.1. and 5D002.c.1. 4. Items, not specified in paragraphs 5A002.a.1. to 5A002.a.3., where the \u2018cryptography for data confidentiality\u2019 having a \u2018described security algorithm\u2019 meets all of the following: It supports a non-primary function of the item; and It is performed by incorporated equipment or \u201csoftware\u201d that would, as a standalone item, be specified by"
+  },
+  {
+    "Category": "Category 5",
+    "Title": "- Part 2.",
+    "Text": {
+      "TechnicalNotes": [
+        {
+          "Note": "For the purposes of 5A002.a., \u2018cryptography for data confidentiality\u2019 means \u201ccryptography\u201d that employs digital techniques and performs any cryptographic function other than any of the following: \u201cAuthentication\u201d; Digital signature; Data integrity; Non-repudiation; Digital rights management, including the execution of copy-protected \u201csoftware\u201d; Encryption or decryption in support of entertainment, mass commercial broadcasts or medical records management; or Key management in support of any function described in paragraph a. to f. above.",
+          "Note2": "An algorithm described by Technical Note 2.c. may be referred to as being post-quantum, quantum-safe or quantum-resistant."
+        }
+      ],
+      "Notes": [
+        {
+          "Note1": "When necessary as determined by the appropriate authority in the exporter\u2019s country, details of items must be accessible and provided to the authority upon request, in order to establish any of the following: Whether the item meets the criteria of 5A002.a.1. to 5A002.a.4.; or Whether the cryptographic capability for data confidentiality specified by 5A002.a. is usable without \u201ccryptographic activation\u201d."
+        }
+      ],
+      "Items": [
+        {
+          "a": {
+            "SmartCards": {
+              "Description": "Smart cards and smart card \u2018readers/writers\u2019 as follows:",
+              "SubItems": [
+                {
+                  "Description": "A smart card or an electronically readable personal document (e.g., token coin, e-passport) that meets any of the following:",
+                  "Criteria": {
+                    "1": {
+                      "Description": "The cryptographic capability meets all of the following:",
+                      "SubCriteria": {
+                        "a": "It is restricted for use in any of the following: Equipment or systems not described by 5A002.a.1. to 5A002.a.4.; Equipment or systems not using \u2018cryptography for data confidentiality\u2019 having a \u2018described security algorithm\u2019; or Equipment or systems excluded from 5.A.2.a. by entries b. to f. of this Note; and",
+                        "b": "It cannot be reprogrammed for any other use;"
+                      }
+                    },
+                    "2": {
+                      "Description": "Having all of the following:",
+                      "SubCriteria": {
+                        "1": "It is specially designed and limited to allow protection of \u2018personal data\u2019 stored within;",
+                        "2": "Has been, or can only be, personalised for public or commercial transactions or individual identification; and",
+                        "3": "Where the cryptographic capability is not user-accessible;"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "b": {
+            "Description": "Cryptographic equipment specially designed and limited for banking use or \u2018money transactions\u2019;"
+          },
+          "c": {
+            "Description": "Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC));"
+          },
+          "d": {
+            "Description": "Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 metres according to the manufacturer\u2019s specifications;"
+          },
+          "e": {
+            "Description": "Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2. to a.4. of the Cryptography Note (Note 3 in"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Label": "Category 5",
+    "Description": "\u2013 Part 2), that have been customised for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customised devices;",
+    "SubStructures": [
+      {
+        "Label": "f.",
+        "Description": "Items, where the \u201cinformation security\u201d functionality is limited to wireless \u201cpersonal area network\u201d functionality implementing only published or commercial cryptographic standards;",
+        "SubStructures": []
+      },
+      {
+        "Label": "g.",
+        "Description": "Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2. to a.4. of the Cryptography Note (Note 3 in",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Category 5",
+    "Description": "\u2013 Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users",
+    "SubStructures": [
+      {
+        "Label": "h",
+        "Description": "Routers, switches, gateways or relays, where the \u201cinformation security\u201d functionality is limited to the tasks of \u201cOperations, Administration or Maintenance\u201d (\u201cOAM\u201d) implementing only published or commercial cryptographic standards",
+        "SubStructures": []
+      },
+      {
+        "Label": "i",
+        "Description": "General purpose computing equipment or servers, where the \u201cinformation security\u201d functionality meets all of the following: 1. Uses only published or commercial cryptographic standards; and 2. Is any of the following: a. Integral to a CPU that meets the provisions of Note 3 in",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Category 5",
+    "Description": "\u2013 Part\u00a02;",
+    "SubStructures": []
+  },
+  {
+    "Label": "Category 5",
+    "Description": "\u2013 Part 2 into an item specified by 5A002.a. or 5D002.c.1., and not released by the Cryptography Note (Note 3 in Category 5 \u2013 Part 2); or",
+    "SubStructures": [
+      {
+        "Label": "2.",
+        "Description": "Enabling, by means of \u201ccryptographic activation\u201d, additional functionality specified by 5A002.a. of an item already specified by",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Category": "Category 5",
+    "Title": "\u2013 Part 2.",
+    "Text": {
+      "5.A.002.c": {
+        "Description": "Designed or modified to use or perform \u201cquantum cryptography\u201d",
+        "Technical Note": "For the purposes of 5A002.c., 'quantum cryptography' is also known as Quantum Key Distribution (QKD)."
+      },
+      "5.A.002.d": {
+        "Description": "Designed or modified to use cryptographic techniques to generate channelising codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques and having a bandwidth exceeding 500 MHz or a 'fractional bandwidth' of 20% or more."
+      },
+      "5.A.002.e": {
+        "Description": "Designed or modified to use cryptographic techniques to generate the spreading code for 'spread spectrum' systems, not specified by 5.A.002.d., including the hopping code for 'frequency hopping' systems."
+      },
+      "5.A.003": {
+        "Description": "Systems, equipment and components, for non-cryptographic 'information security'",
+        "SubStructures": [
+          {
+            "Description": "Communications cable systems designed or modified to use mechanical, electrical or electronic means to detect surreptitious intrusion",
+            "Note": "5A003.a. applies only to physical layer security. For the purpose of 5.A.3.a., the physical layer includes Layer 1 of the Reference Model of Open Systems Interconnection (OSI) (ISO/IEC 7498-1)."
+          },
+          {
+            "Description": "Specially designed or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards."
+          }
+        ]
+      },
+      "5.A.004": {
+        "Description": "Systems, equipment and components, for defeating, weakening or bypassing 'information security'",
+        "SubStructures": [
+          {
+            "Description": "Designed or modified to perform 'cryptanalytic functions'",
+            "Technical Note": "For the purposes of 5A004.a., 'cryptanalytic functions' are functions designed to defeat cryptographic mechanisms in order to derive confidential variables or sensitive data, including clear text, passwords or cryptographic keys."
+          },
+          {
+            "Description": "Items, not specified by 4A005 or 5A004.a., designed to perform all of the following: 'Extract raw data' from a computing or communications device; and Circumvent 'authentication' or authorisation controls of the device, in order to perform the function described in 5A004.b.1.",
+            "Technical Note": "For the purposes of 5A004.b.1., 'extract raw data' from a computing or communications device means to retrieve binary data from a storage medium, e.g. RAM, flash or hard disk, of the device without interpretation by the device's operating system or filesystem.",
+            "Notes": [
+              "5A004.b. does not apply to systems or equipment specially designed for the 'development' or 'production' of a computing or communications device.",
+              "5A004.b. does not include: Debuggers, hypervisors; Items limited to logical data extraction; Data extraction items using chip-off or JTAG; Items specially designed and limited to jail-breaking or rooting."
+            ]
+          }
+        ]
+      },
+      "5.B.2": {
+        "Description": "Test, Inspection and Production Equipment",
+        "5.B.002": {
+          "Description": "'Information security' test, inspection and 'production' equipment",
+          "SubStructures": [
+            {
+              "Description": "Equipment specially designed for the 'development' or 'production' of equipment specified by 5A002., 5A003., 5A004. or 5B002.b."
+            },
+            {
+              "Description": "Measuring equipment specially designed to evaluate and validate the 'information security' functions of the equipment specified by 5A002., 5A003. or 5A004., or of 'software' specified by 5D002.a. or 5D002.c."
+            }
+          ]
+        }
+      },
+      "5.C.2": {
+        "Description": "Materials",
+        "SubStructures": []
+      },
+      "5.D.2": {
+        "Description": "Software",
+        "5.D.002": {
+          "Description": "'Software' as follows",
+          "SubStructures": [
+            {
+              "Description": "'Software' specially designed or modified for the 'development', 'production' or 'use' of equipment specified by 5A002. or 'software' specified by 5D002.c.1."
+            },
+            {
+              "Description": "'Software' having the characteristics of a 'cryptographic activation token' specified by 5A002.b."
+            },
+            {
+              "Description": "'Software' having the characteristics of, or performing or simulating the functions of, any of the following: Equipment specified by 5A002.a., 5A002.c., 5A002.d. or 5A002.e.; Equipment specified by 5A003.; or Equipment specified by 5A004.a.; Equipment specified by 5A004.b.",
+              "Note": "5D002.c.1. does not apply to 'software' limited to the tasks of 'OAM' implementing only published or commercial cryptographic standards."
+            }
+          ]
+        }
+      },
+      "5.E.2": {
+        "Description": "Technology",
+        "5.E.002": {
+          "Description": "'Technology' as follows",
+          "SubStructures": [
+            {
+              "Description": "'Technology' according to the General Technology Note for the 'development', 'production' or 'use' of equipment specified by 5A002., 5A003., 5A004. or 5B002., or of 'software' specified by 5D002.a. or 5D002.c."
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "Label": "Category 5",
+    "Description": "Part\u00a02.",
+    "SubStructures": []
+  },
+  {
+    "Label": "the sensing elements",
+    "Description": "For the purposes of 6A001.a.2.a., \u2018hydrophone sensitivity\u2019 is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydrophone sensor, without a pre-amplifier, is placed in a plane wave acoustic field with an rms pressure of 1 \u00b5Pa. For example, a hydrophone of -160 dB (reference 1 V per \u00b5Pa) would yield an output voltage of 10-8 V in such a field, while one of -180 dB sensitivity would yield only 10-9 V output. Thus, -160 dB is better than -180 dB.",
+    "SubStructures": [
+      {
+        "Label": "Towed acoustic hydrophone arrays",
+        "Description": "For the purposes of 6A001.a.2.b., hydrophone arrays consist of a number of hydrophones providing multiple acoustic output channels.",
+        "SubStructures": [
+          {
+            "Label": "Hydrophone group spacing of less than 12.5 m or \u2018able to be modified\u2019 to have hydrophone group spacing of less than 12.5 m",
+            "Description": "Technical Note: For the purposes of 6A001.a.2.b., 'able to be modified' in 6A001.a.2.b means having provisions to allow a change of the wiring or interconnections to alter hydrophone group spacing or operating depth limits. These provisions are: spare wiring exceeding 10% of the number of wires, hydrophone group spacing adjustment blocks or internal depth limiting devices that are adjustable or that control more than one hydrophone group."
+          },
+          {
+            "Label": "Designed or \u2018able to be modified\u2019 to operate at depths exceeding 35 m",
+            "Description": "Technical Note: For the purposes of 6A001.a.2.b.2., 'able to be modified' in 6A001.a.2.b means having provisions to allow a change of the wiring or interconnections to alter hydrophone group spacing or operating depth limits. These provisions are: spare wiring exceeding 10% of the number of wires, hydrophone group spacing adjustment blocks or internal depth limiting devices that are adjustable or that control more than one hydrophone group."
+          }
+        ]
+      },
+      {
+        "Label": "Heading sensors specified by 6A001.a.2.d.",
+        "Description": ""
+      },
+      {
+        "Label": "Longitudinally reinforced array hoses",
+        "Description": ""
+      },
+      {
+        "Label": "An assembled array of less than 40 mm in diameter",
+        "Description": ""
+      },
+      {
+        "Label": "Not used",
+        "Description": ""
+      },
+      {
+        "Label": "Hydrophone characteristics specified by 6A001.a.2.a.",
+        "Description": ""
+      },
+      {
+        "Label": "Accelerometer-based hydro-acoustic sensors specified by 6A001.a.2.g.",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "Label": "the shape of an ideal sphere",
+    "Description": "2. For the purposes of 6A004.e.2., manufacturers are not required to measure the surface roughness unless the optical element was designed or manufactured with the intent to meet, or exceed, the specified parameter.",
+    "SubStructures": [
+      {
+        "Label": "Dynamic wavefront measuring equipment",
+        "Description": "6. A. 004. f. Dynamic wavefront measuring equipment having all of the following: 1. 'Frame rates' equal to or more than 1 kHz; and 2. A wavefront accuracy equal to or less (better) than \u03bb/20 at the designed wavelength.",
+        "SubStructures": []
+      },
+      {
+        "Label": "Lasers, components and optical equipment",
+        "Description": "6. A. 005. 'Lasers', other than those specified by 0B001.g.5. or 0B001.h.6., components and optical equipment, as follows:",
+        "SubStructures": [
+          {
+            "Label": "Non-'tunable' continuous wave '(CW) lasers'",
+            "Description": "6. A. 005. a. Non-'tunable' continuous wave '(CW) lasers' having any of the following: 1. Output wavelength less than 150 nm and output power exceeding 1 W; 2. Output wavelength of 150 nm or more but not exceeding 510 nm and output power exceeding 30 W;",
+            "SubStructures": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "section measurement",
+    "Description": "systems having transmit pulse widths of 100 ns or less, and specially designed components therefor.",
+    "SubStructures": [
+      {
+        "Label": "N.B.",
+        "Description": "SEE ALSO 6B108.",
+        "SubStructures": []
+      },
+      {
+        "Label": "6. B. 108.",
+        "Description": "Systems, other than those specified by 6B008, specially designed for radar cross",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "section measurement",
+    "Description": "usable for \u2018missiles\u2019 and their subsystems.",
+    "SubStructures": []
+  },
+  {
+    "Label": "string",
+    "Description": "string",
+    "SubStructures": [
+      {
+        "Label": "string",
+        "Description": "string",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Category 8A",
+    "Description": "for underwater equipment",
+    "SubStructures": [
+      {
+        "Label": "8.A.001",
+        "Description": "Unmanned submersible vehicles",
+        "SubStructures": [
+          {
+            "Label": "c",
+            "Description": "Unmanned submersible vehicles",
+            "SubStructures": [
+              {
+                "Label": "1",
+                "Description": "Unmanned submersible vehicles having any of the following",
+                "SubStructures": [
+                  {
+                    "Label": "a",
+                    "Description": "Designed for deciding a course relative to any geographical reference without real-time human assistance"
+                  },
+                  {
+                    "Label": "b",
+                    "Description": "Acoustic data or command link"
+                  },
+                  {
+                    "Label": "c",
+                    "Description": "Wireless optical data or command link exceeding 1,000 m"
+                  }
+                ]
+              },
+              {
+                "Label": "2",
+                "Description": "Unmanned submersible vehicles, not specified in 8A001.c.1., having all of the following",
+                "SubStructures": [
+                  {
+                    "Label": "a",
+                    "Description": "Designed to operate with a tether"
+                  },
+                  {
+                    "Label": "b",
+                    "Description": "Designed to operate at depths exceeding 1,000 m"
+                  },
+                  {
+                    "Label": "c",
+                    "Description": "Having any of the following",
+                    "SubStructures": [
+                      {
+                        "Label": "1",
+                        "Description": "Designed for self-propelled manoeuvre using propulsion motors or thrusters specified by 8A002.a.2."
+                      },
+                      {
+                        "Label": "2",
+                        "Description": "Fibre optic data link"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Label": "d",
+            "Description": "Not used since 2018"
+          },
+          {
+            "Label": "e",
+            "Description": "Ocean salvage systems with a lifting capacity exceeding 5 MN for salvaging objects from depths exceeding 250 m and having any of the following",
+            "SubStructures": [
+              {
+                "Label": "1",
+                "Description": "Dynamic positioning systems capable of position keeping within 20 m of a given point provided by the navigation system"
+              },
+              {
+                "Label": "2",
+                "Description": "Seafloor navigation and navigation integration systems, for depths exceeding 1,000 m and with positioning 'accuracies' to within 10 m of a predetermined point"
+              }
+            ]
+          },
+          {
+            "Label": "f",
+            "Description": "Not used"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "Part 1",
+    "Description": "\u2014 Telecommunications.",
+    "SubStructures": []
+  },
+  {
+    "Label": "part of",
+    "Description": "the payload to be dispersed in the atmosphere. Examples of aerosols include pesticides for crop dusting and dry chemicals for cloud seeding.",
+    "SubStructures": [
+      {
+        "Label": "aerosol dispensing system/mechanism",
+        "Description": "An aerosol dispensing system/mechanism contains all those devices (mechanical, electrical, hydraulic, etc.), which are necessary for storage and dispersion of an aerosol into the atmosphere. This includes the possibility of aerosol injection into the combustion exhaust vapour and into the propeller slip stream.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "section perpendicular",
+    "Description": "to the flow direction.",
+    "SubStructures": [
+      {
+        "Label": "Environmental chambers and anechoic chambers",
+        "Description": "as follows",
+        "SubStructures": [
+          {
+            "Label": "Environmental chambers capable of simulating all the following flight conditions",
+            "Description": "Having any of the following",
+            "SubStructures": []
+          },
+          {
+            "Label": "Environmental chambers capable of simulating the following flight conditions",
+            "Description": "",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "Aerothermodynamic test facilities",
+        "Description": "usable for missiles or their subsystems, having any of the following characteristics",
+        "SubStructures": []
+      },
+      {
+        "Label": "Specially designed 'production equipment' for the systems, sub-systems and components specified by 9A005 to 9A009, 9A011, 9A101, 9A102, 9A105 to 9A109, 9A111, 9A116 to 9A120",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "Specially designed 'production facilities' for the space launch vehicles specified by 9A004, or systems, sub-systems, and components specified by 9A005 to 9A009, 9A011, 9A101, 9A102, 9A104 to 9A109, 9A111, 9A116 to 9A120, or complete rocket systems or 'unmanned aerial vehicles' capable of a range exceeding 300 km",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "Test benches and test stands for solid or liquid propellant rockets or rocket motors, having either of the following characteristics",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "'Insulation' material in bulk form and 'interior lining', other than those specified by 9A008, for rocket motor cases usable in 'missiles' or specially designed for 'missiles'",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "Resin impregnated fibre prepregs and metal coated fibre preforms therefor, for composite structures, laminates and manufactures specified by 9A110, made either with organic matrix or metal matrix utilising fibrous or filamentary reinforcements having a 'specific tensile strength' greater than 7.62 x 104 m and a 'specific modulus' greater than 3.18 x 106 m",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "'Software', not specified in 9D003 or 9D004, specially designed or modified for the 'development' of equipment or 'technology', specified by 9A001 to 9A121, 9B or 9E003",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "'Software', not specified in 9D003 or 9D004, specially designed or modified for the 'production' of equipment specified by 9A001 to 9A121 or 9B",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "'Software' incorporating 'technology' specified by 9E003.h. and used in 'FADEC systems' for systems specified by 9A or equipment specified by 9B",
+        "Description": "",
+        "SubStructures": []
+      },
+      {
+        "Label": "Other 'software' as follows",
+        "Description": "",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Dual-Use List",
+    "Description": "The items in this List are considered to be sensitive, requiring additional care in their transfer. General Export Licences are generally not available for the export or supply of the following sensitive goods or technologies.",
+    "SubStructures": [
+      {
+        "Label": "Very sensitive list of dual-use goods and technologies",
+        "Description": "Note: This List contains",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Category": "Category 0",
+    "Title": "of the Dual-Use List and a subset of the items contained in the Sensitive List. The items in this List are considered to be very sensitive, requiring extreme care in their transfer. General Export Licences are not available for the export of the following very sensitive goods.",
+    "Text": "N.B.: Where abbreviated entries are used, see Dual-Use List for full details. Text that differs from that in the Dual-Use List is shaded. Schedule 1\u2014Repeals Defence and Strategic Goods List 2021 1 The whole of the instrument Repeal the instrument."
+  }
+]

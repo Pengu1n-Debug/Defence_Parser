@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Read(c:\\Users\\Macla\\Desktop\\AI/**)",
+      "Bash(pip install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

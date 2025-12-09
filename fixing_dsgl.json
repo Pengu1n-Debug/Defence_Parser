@@ -1,0 +1,2556 @@
+[
+    {
+        "Label": "ML1",
+        "Description": "Smooth-bore weapons with a calibre of less than 20 mm, other arms and automatic weapons with a calibre of 12.7 mm (calibre 0.50 inches) or less and accessories, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Rifles and combination guns, handguns, machine, sub-machine and volley guns;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Smooth-bore weapons as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Smooth-bore weapons specially designed for military use;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Other smooth-bore weapons as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Fully automatic type weapons;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Semi-automatic or pump-action type weapons;",
+                                "SubStructures": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "Weapons using caseless ammunition;",
+                "SubStructures": []
+            },
+            {
+                "Label": "d.",
+                "Description": "Accessories designed for arms specified by ML1.a., ML1.b. or ML1.c., as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Detachable cartridge magazines;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Sound suppressors or moderators;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "‘Gun-mountings';",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Flash suppressors;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "Optical weapon-sights with electronic image processing;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "Optical weapon-sights specially designed for military use.",
+                        "SubStructures": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Label": "ML2",
+        "Description": "Smooth-bore weapons with a calibre of 20 mm or more, other weapons or armament with a calibre greater than 12.7 mm (calibre 0.50 inches), projectors specially designed or modified for military use and accessories, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, rifles, recoilless rifles and smooth-bore weapons;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Projectors, specially designed or modified for military use, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Smoke canister projectors;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Gas canister projectors;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Pyrotechnics projectors;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "Accessories specially designed for the weapons specified in ML2.a., as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Weapon sights and weapon sight mounts, specially designed for military use;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Signature reduction devices;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Mountings;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Detachable cartridge magazines;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "d.",
+                "Description": "Not used since 2019.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML3",
+        "Description": "Ammunition and fuse setting devices, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Ammunition for weapons specified by ML1., ML2. or ML12.;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Fuse setting devices specially designed for ammunition specified by ML3.a.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML4",
+        "Description": "Bombs, torpedoes, rockets, missiles, other explosive devices and charges and related equipment and accessories, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition-charges, demolition-devices, demolition-kits, “pyrotechnic” devices, cartridges, submunitions therefor and simulators (i.e., equipment simulating the characteristics of any of these items), specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Equipment having all of the following:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Specially designed for military use; and",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Specially designed for ‘activities’ relating to any of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Items specified by ML4.a.; or",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Improvised Explosive Devices (IEDs).",
+                                "SubStructures": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "Aircraft Missile Protection Systems (AMPS).",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML5",
+        "Description": "Fire control, surveillance and warning equipment, and related systems, test and alignment and countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Weapon sights, bombing computers, gun laying equipment and weapon control systems;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Other fire control, surveillance and warning equipment, and related systems, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Target acquisition, designation, range-finding, surveillance or tracking systems;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Detection, recognition or identification equipment;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Data fusion or sensor integration equipment;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "Countermeasure equipment for items specified by ML5.a. or ML5.b.;",
+                "SubStructures": []
+            },
+            {
+                "Label": "d.",
+                "Description": "Field test or alignment equipment, specially designed for items specified by ML5.a., ML5.b. or ML5.c.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML6",
+        "Description": "Ground vehicles and components, as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Ground vehicles and components therefor, specially designed or modified for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Other ground vehicles and components, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Vehicles having all of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Manufactured or fitted with materials or components to provide ballistic protection equal to or better than level III (NIJ 0108.01, September 1985), or “equivalent standards”;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "A transmission to provide drive to both front and rear wheels simultaneously, including those for vehicles having additional wheels for load bearing purposes whether driven or not;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Gross Vehicle Weight Rating (GVWR) greater than 4,500 kg; and",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Designed or modified for off-road use;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Components having all of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Specially designed for vehicles specified in ML6.b.1.; and",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Providing ballistic protection equal to or better than level III (NIJ 0108.01, September 1985), or “equivalent standards”.",
+                                "SubStructures": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Label": "ML7",
+        "Description": "Chemical agents, “biological agents”, “riot control agents”, radioactive materials, related equipment, components and materials, as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "“Biological agents” or radioactive materials selected or modified to increase their effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Chemical warfare (CW) agents, including:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "CW nerve agents:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) - phosphonofluoridates, such as:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Sarin (GB):O-Isopropyl methylphosphonofluoridate",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Soman (GD):O-Pinacolyl methylphosphonofluoridate (CAS 96–64–0);",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, such as:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Tabun (GA):O-Ethyl",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, such as:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate (CAS 50782–69–9);",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "CW vesicant agents:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Sulphur mustards, such as:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "2-Chloroethylchloromethylsulphide (CAS 2625-76-5);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Bis(2-chloroethyl) sulphide (CAS 505-60-2);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "3.",
+                                        "Description": "Bis(2-chloroethylthio) methane (CAS 63869-13-6);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "4.",
+                                        "Description": "1,2-bis (2-chloroethylthio) ethane (CAS 3563-36-8);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "5.",
+                                        "Description": "1,3-bis (2-chloroethylthio) -n-propane (CAS 63905-10-2);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "6.",
+                                        "Description": "1,4-bis (2-chloroethylthio) -n-butane (CAS 142868-93-7);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "7.",
+                                        "Description": "1,5-bis (2-chloroethylthio) -n-pentane",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "8.",
+                                        "Description": "Bis (2-chloroethylthiomethyl) ether (CAS 63918-90-1);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "9.",
+                                        "Description": "Bis (2-chloroethylthioethyl) ether (CAS 63918-89-8);",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Lewisites, such as:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "2-chlorovinyldichloroarsine (CAS 541-25-3);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Tris (2-chlorovinyl) arsine (CAS 40334-70-1);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "3.",
+                                        "Description": "Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8);",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Nitrogen mustards, such as:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "HN1: bis (2-chloroethyl) ethylamine (CAS 538-07-8);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "HN2: bis (2-chloroethyl) methylamine (CAS 51-75-2);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "3.",
+                                        "Description": "HN3: tris (2-chloroethyl) amine (CAS 555-77-1);",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "CW incapacitating agents, such as:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "3-Quinuclidinyl benzilate (BZ) (CAS 6581-06-2);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "CW defoliants, such as:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Butyl 2-chloro-4-fluorophenoxyacetate (LNF);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "2,4,5-trichlorophenoxyacetic acid (CAS 93-76-5) mixed with 2,4-dichlorophenoxyacetic acid (CAS 94-75-7) (Agent Orange (CAS 39277-47-9));",
+                                "SubStructures": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "CW binary precursors and key precursors, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) Phosphonyl Difluorides, such as: DF: Methyl Phosphonyldifluoride (CAS 676-99-3);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonites and corresponding alkylated and protonated salts, such as:",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Chlorosarin: O-Isopropyl methylphosphonochloridate",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Chlorosoman: O-Pinacolyl methylphosphonochloridate",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "d.",
+                "Description": "“Riot control agents”, active constituent chemicals and combinations thereof, including:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "-Bromobenzeneacetonitrile, (Bromobenzyl cyanide) (CA)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "[(2-chlorophenyl) methylene] propanedinitrile, (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "2-Chloro-1-phenylethanone, Phenylacyl chloride (-chloroacetophenone) (CN) (CAS 532-27-4);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Dibenz-(b,f)-1,4-oxazephine, (CR) (CAS 257-07-8);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "10-Chloro-5,10-dihydrophenarsazine, (Phenarsazine chloride), (Adamsite), (DM) (CAS 578-94-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "N-Nonanoylmorpholine, (MPA) (CAS 5299-64-9);",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "e.",
+                "Description": "Equipment, specially designed or modified for military use, designed or modified for the dissemination of any of the following, and specially designed components therefor:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Materials or agents specified by ML7.a., ML7.b. or ML7.d.; or",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "CW agents made up of precursors specified by ML7.c.;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "f.",
+                "Description": "Protective and decontamination equipment, specially designed or modified for military use, components and chemical mixtures, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Equipment designed or modified for defence against materials specified by ML7.a., ML7.b. or ML7.d., and specially designed components therefor;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Equipment designed or modified for decontamination of objects contaminated with materials specified by ML7.a. or ML7.b., and specially designed components therefor;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Chemical mixtures specially developed or formulated for the decontamination of objects contaminated with materials specified by ML7.a. or ML7.b.;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "g.",
+                "Description": "Equipment, specially designed or modified for military use designed or modified for the detection or identification of materials specified by ML7.a., ML7.b. or ML7.d., and specially designed components therefor;",
+                "SubStructures": []
+            },
+            {
+                "Label": "h.",
+                "Description": "“Biopolymers” specially designed or processed for the detection or \tidentification of CW agents specified by ML7.b., and the cultures of specific \tcells used to produce them;",
+                "SubStructures": []
+            },
+            {
+                "Label": "i.",
+                "Description": "“Biocatalysts” for the decontamination or degradation of CW agents, and biological systems therefor, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "“Biocatalysts” specially designed for the decontamination or degradation of CW agents specified by ML7.b., and resulting from directed laboratory selection or genetic manipulation of biological systems;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Biological systems containing the genetic information specific to the production of “biocatalysts” specified by ML7.i.1., as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "“Expression vectors”;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Viruses;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Cultures of cells.",
+                                "SubStructures": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Label": "ML8",
+        "Description": "“Energetic materials” and related substances, as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "“Explosives” as follows, and ‘mixtures’ thereof:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "ADNBF (aminodinitrobenzofuroxan or 7-amino-4,6-dinitrobenzofurazane-1-oxide) (CAS 97096-78-1);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "BNCP (cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate) (CAS 117412-28-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "CL-14 (diamino dinitrobenzofuroxan or 5,7-diamino-4,6-dinitrobenzofurazane-1-oxide ) (CAS 117907-74-1);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "CL-20 (HNIW or Hexanitrohexaazaisowurtzitane) (CAS 135285-90-4); chlathrates of CL-20 (see also ML8.g.3. and g.4. for its “precursors”);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "CP (2-(5-cyanotetrazolato) penta amine-cobalt (III) perchlorate)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "DADE (1,1-diamino-2,2-dinitroethylene, FOX-7) (CAS 145250-81-3);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "7.",
+                        "Description": "DATB (diaminotrinitrobenzene) (CAS 1630-08-6);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "8.",
+                        "Description": "DDFP (1,4-dinitrodifurazanopiperazine);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "9.",
+                        "Description": "DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxide, PZO)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "10.",
+                        "Description": "DIPAM (3,3‑diamino‑2,2,4,4,6,6‑hexanitrobiphenyl or dipicramide) (CAS 17215‑44‑0);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "11.",
+                        "Description": "DNGU (DINGU or dinitroglycoluril) (CAS 55510-04-8);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "12.",
+                        "Description": "Furazans as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "DAAOF (diaminoazoxyfurazan);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "DAAzF (diaminoazofurazan) (CAS 78644-90-3);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "13.",
+                        "Description": "HMX and derivatives (see also ML8.g.5. for its “precursors”), as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "HMX (Cyclotetramethylenetetranitramine, octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazine, 1,3,5,7-tetranitro-1,3,5,7-tetraza-cyclooctane, octogen or octogene) (CAS 2691-41-0);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "difluoroaminated analogs of HMX;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabicyclo [3,3,0]-octanone-3, tetranitrosemiglycouril or keto-bicyclic HMX) (CAS 130256-72-3);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "14.",
+                        "Description": "HNAD (hexanitroadamantane) (CAS 143850-71-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "15.",
+                        "Description": "HNS (hexanitrostilbene) (CAS 20062-22-0);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "16.",
+                        "Description": "Imidazoles as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "BNNII (Octahydro-2,5-bis(nitroimino)imidazo [4,5-d]imidazole);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "DNI (2,4-dinitroimidazole) (CAS 5213-49-0);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "FDIA (1-fluoro-2,4-dinitroimidazole);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "PTIA (1-picryl-2,4,5-trinitroimidazole);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "17.",
+                        "Description": "NTNMH (1-(2-nitrotriazolo)-2-dinitromethylene hydrazine);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "18.",
+                        "Description": "NTO (ONTA or 3-nitro-1,2,4-triazol-5-one) (CAS 932-64-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "19.",
+                        "Description": "Polynitrocubanes with more than four nitro groups;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "20.",
+                        "Description": "PYX (2,6-Bis(picrylamino)-3,5-dinitropyridine) (CAS 38082-89-2);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "21.",
+                        "Description": "RDX and derivatives, as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "RDX (cyclotrimethylenetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen or hexogene) (CAS 121-82-4);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "22.",
+                        "Description": "TAGN (triaminoguanidinenitrate) (CAS 4000-16-2);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "23.",
+                        "Description": "TATB (triaminotrinitrobenzene) (CAS 3058-38-6) (see also ML8.g.7 for its “precursors”);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "24.",
+                        "Description": "TEDDZ (3,3,7,7-tetrabis(difluoroamine) octahydro-1,5-dinitro-1,5-diazocine);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "25.",
+                        "Description": "Tetrazoles as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "NTAT (nitrotriazol aminotetrazole);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazole);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "26.",
+                        "Description": "Tetryl (trinitrophenylmethylnitramine) (CAS 479-45-8);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "27.",
+                        "Description": "TNAD (1,4,5,8‑tetranitro‑1,4,5,8‑tetraazadecalin) (CAS 135877‑16‑6) (see also ML8.g.6. for its “precursors”);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "28.",
+                        "Description": "TNAZ (1,3,3-trinitroazetidine) (CAS 97645-24-4) (see also ML8.g.2. for its “precursors”);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "29.",
+                        "Description": "TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "30.",
+                        "Description": "TNP (1,4,5,8-tetranitro-pyridazino[4,5-d]pyridazine)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "31.",
+                        "Description": "Triazines as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "DNAM (2-oxy-4,6-dinitroamino-s-triazine) (CAS 19899-80-0);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "NNHT (2-nitroimino-5-nitro-hexahydro-1,3,5-triazine)",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "32.",
+                        "Description": "Triazoles as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "5-azido-2-nitrotriazole;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide) (CAS 1614-08-0);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "ADNT (1-amino-3,5-dinitro-1,2,4-triazole);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "BDNTA ([bis-dinitrotriazole]amine);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "DBT (3,3-dinitro-5,5-bi-1,2,4-triazole) (CAS 30003-46-4);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "f.",
+                                "Description": "DNBT (dinitrobistriazole) (CAS 70890-46-9);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "g.",
+                                "Description": "NTDNA (2-nitrotriazole 5-dinitramide) (CAS 75393-84-9);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "h.",
+                                "Description": "NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazole);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "i.",
+                                "Description": "PDNT (1-picryl-3,5-dinitrotriazole);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "j.",
+                                "Description": "TACOT (tetranitrobenzotriazolobenzotriazole)",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "33.",
+                        "Description": "“Explosives” not listed elsewhere in ML8.a. and having any of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Detonation velocity exceeding 8,700 m/s, at maximum density; or",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Detonation pressure exceeding 34 GPa (340 kbar);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "34.",
+                        "Description": "Not used;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "35.",
+                        "Description": "DNAN (2,4-dinitroanisole) (CAS 119-27-7);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "36.",
+                        "Description": "TEX (4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diazaisowurtzitane);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "37.",
+                        "Description": "GUDN (Guanylurea dinitramide) FOX-12 (CAS 217464-38-5);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "38.",
+                        "Description": "Tetrazines as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "BTAT (Bis(2,2,2-trinitroethyl)-3,6-diaminotetrazine);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "LAX-112 (3,6-diamino-1,2,4,5-tetrazine-1,4-dioxide);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "39.",
+                        "Description": "Energetic ionic materials melting between 343 K (70°C) and 373 K (100°C) and with detonation velocity exceeding 6,800 m/s or detonation pressure exceeding 18 GPa (180 kbar);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "40.",
+                        "Description": "BTNEN (Bis(2,2,2-trinitroethyl)-nitramine) (CAS 19836-28-3);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "41.",
+                        "Description": "FTDO (5,6-(3',4'-furazano)- 1,2,3,4-tetrazine-1,3-dioxide);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "42.",
+                        "Description": "EDNA (Ethylenedinitramine) (CAS 505-71-5);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "43.",
+                        "Description": "TKX-50 (Dihydroxylammonium 5,5'-bistetrazole-1,1'-diolate);",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "b.",
+                "Description": "“Propellants” as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Any solid “propellant” with a theoretical specific impulse (under standard conditions) of more than:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "240 seconds for non-metallized, non-halogenized “propellant”;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "250 seconds for non-metallized, halogenized “propellant”; or",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "260 seconds for metallized “propellant”;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Not used;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "“Propellants” having a force constant of more than 1,200 kJ/kg;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "“Propellants” that can sustain a steady-state linear burning rate of more than 38 mm/s under standard conditions (as measured in the form of an inhibited single strand) of 6.89 MPa (68.9 bar) pressure and 294K (21oC);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "Elastomer Modified Cast Double Base (EMCDB) “propellants” with extensibility at maximum stress of more than 5% at 233K (-40oC);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "Any “propellant” containing substances specified by ML8.a.;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "7.",
+                        "Description": "“Propellants”, not specified elsewhere in the Munitions List, specially designed for military use;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "“Pyrotechnics”, fuels and related substances, as follows, and ‘mixtures’ thereof:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "“Aircraft” fuels specially formulated for military purposes;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Alane (aluminum hydride) (CAS 7784-21-6);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Boranes, as follows, and their derivatives:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Carboranes;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Borane homologues, as follows:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Decaborane (14) (CAS 17702-41-9);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Pentaborane (9) (CAS 19624-22-7);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "3.",
+                                        "Description": "Pentaborane (11) (CAS 18433-84-6);",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Hydrazine and derivatives, as follows (see also ML8.d.8. and d.9. for oxidising hydrazine derivatives):",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Hydrazine (CAS 302-01-2) in concentrations of 70% or more;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Monomethyl hydrazine (CAS 60-34-4);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Symmetrical dimethyl hydrazine (CAS 540-73-8);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Unsymmetrical dimethyl hydrazine (CAS 57-14-7);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "Metal fuels, fuel ‘mixtures’ or “pyrotechnic” ‘mixtures’, in particle form whether spherical, atomized, spheroidal, flaked or ground, manufactured from material consisting of 99% or more of any of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Metals as follows and ‘mixtures’ thereof:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Beryllium (CAS 7440-41-7) in particle sizes of less than 60 µm;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Iron powder (CAS 7439-89-6) with particle size of 3 µm or less produced by reduction of iron oxide with hydrogen;",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "‘Mixtures’ containing any of the following:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Zirconium (CAS 7440-67-7), magnesium",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Boron (CAS 7440-42-8) or boron carbide",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "Military materials, containing thickeners for hydrocarbon fuels, specially formulated for use in flame throwers or incendiary munitions, such as metal stearates (e.g., octal (CAS 637‑12‑7)) or palmitates;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "7.",
+                        "Description": "Perchlorates, chlorates and chromates, composited with powdered metal or other high energy fuel components;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "8.",
+                        "Description": "Spherical aluminium powder (CAS 7429-90-5) with a particle size of 60 µm or less, manufactured from material with an aluminium content of 99% or more;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "9.",
+                        "Description": "Titanium subhydride (TiHn) of stoichiometry equivalent to n= 0.65-1.68;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "10.",
+                        "Description": "Liquid high energy density fuels not specified by ML8.c.1., as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Mixed fuels, that incorporate both solid and liquid fuels (e.g., boron slurry), having a mass-based energy density of 40 MJ/kg or greater;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Other high energy density fuels and fuel additives (e.g., cubane, ionic solutions, JP-7, JP-10), having a volume-based energy density of 37.5 GJ per cubic meter or greater, measured at 293 K (20°C) and one atmosphere (101.325 kPa) pressure;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "11.",
+                        "Description": "“Pyrotechnic” and pyrophoric materials as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "“Pyrotechnic” or pyrophoric materials specifically formulated to enhance or control the production of radiated energy in any part of the IR spectrum;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Mixtures of magnesium, polytetrafluoroethylene (PTFE) and a vinylidene difluoride‑hexafluoropropylene copolymer (e.g., MTV);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "12.",
+                        "Description": "Fuel mixtures, “pyrotechnic” mixtures or “energetic materials”, not specified elsewhere in ML8, having all of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Containing greater than 0.5% of particles of any of the following:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Aluminium;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Beryllium;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "3.",
+                                        "Description": "Boron;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "4.",
+                                        "Description": "Zirconium;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "5.",
+                                        "Description": "Magnesium; or",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "6.",
+                                        "Description": "Titanium;",
+                                        "SubStructures": [
+                                            {
+                                                "Label": "b.",
+                                                "Description": "Particles specified by ML8.c.12.a. with a size less than 200 nm in any direction; and",
+                                                "SubStructures": []
+                                            },
+                                            {
+                                                "Label": "c.",
+                                                "Description": "Particles specified by ML8.c.12.a. with a metal content of 60% or greater;",
+                                                "SubStructures": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "d.",
+                "Description": "Oxidisers as follows, and ‘mixtures’ thereof:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "ADN (ammonium dinitramide or SR 12) (CAS 140456-78-6);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "AP (ammonium perchlorate) (CAS 7790-98-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Compounds composed of fluorine and any of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Other halogens;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Oxygen; or",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Nitrogen;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "DNAD (1,3-dinitro-1,3-diazetidine) (CAS 78246-06-7);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "HAN (hydroxylammonium nitrate) (CAS 13465-08-2);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "HAP (hydroxylammonium perchlorate) (CAS 15588-62-2);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "7.",
+                        "Description": "HNF (hydrazinium nitroformate) (CAS 20773-28-8);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "8.",
+                        "Description": "Hydrazine nitrate (CAS 37836-27-4);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "9.",
+                        "Description": "Hydrazine perchlorate (CAS 27978-54-7);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "10.",
+                        "Description": "Liquid oxidisers comprised of or containing inhibited red fuming nitric acid (IRFNA) (CAS 8007-58-7);",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "e.",
+                "Description": "Binders, plasticisers, monomers and polymers, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "AMMO (azidomethylmethyloxetane and its polymers)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "BDNPA (bis (2,2-dinitropropyl)acetal) (CAS 5108-69-0);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "BDNPF (bis (2,2-dinitropropyl)formal) (CAS 5917-61-3);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "BTTN (butanetrioltrinitrate) (CAS 6659-60-5) (see also ML8.g.8. for its “precursors”);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "Energetic monomers, plasticisers or polymers, specially formulated for military use and containing any of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Nitro groups;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Azido groups;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Nitrate groups;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Nitraza groups; or",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "Difluoroamino groups;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "7.",
+                        "Description": "FAMAO (3-difluoroaminomethyl-3-azidomethyl oxetane) and its polymers;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "8.",
+                        "Description": "FEFO (bis-(2-fluoro-2,2-dinitroethyl) formal) (CAS 17003-79-1);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "9.",
+                        "Description": "FPF-1 (poly-2,2,3,3,4,4-hexafluoropentane-1,5-diol formal)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "10.",
+                        "Description": "FPF-3 (poly-2,4,4,5,5,6,6-heptafluoro-2-tri-fluoromethyl-3-oxaheptane-1,7-diol formal);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "11.",
+                        "Description": "GAP (glycidylazide polymer) (CAS 143178-24-9) and its derivatives;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "12.",
+                        "Description": "HTPB (hydroxyl terminated polybutadiene) with a hydroxyl functionality equal to or greater than 2.2 and less than or equal to 2.4, a hydroxyl value of less than 0.77 meq/g, and a viscosity at 30°C of less than 47 poise (CAS 69102-90-5);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "13.",
+                        "Description": "Alcohol functionalised poly(epichlorohydrin) with a molecular weight less than 10,000, as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Poly(epichlorohydrindiol);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Poly(epichlorohydrintriol);",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "14.",
+                        "Description": "NENAs (nitratoethylnitramine compounds) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 and 85954-06-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "15.",
+                        "Description": "PGN (poly-GLYN, polyglycidylnitrate or poly(nitratomethyl oxirane) (CAS 27814-48-8);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "16.",
+                        "Description": "Poly-NIMMO (poly (nitratomethylmethyloxetane), poly-NMMO or poly(3- Nitratomethyl-3-methyloxetane)) (CAS 84051-81-0);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "17.",
+                        "Description": "Polynitroorthocarbonates;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "18.",
+                        "Description": "TVOPA (1,2,3-tris[1,2-bis(difluoroamino)ethoxy] propane or tris vinoxy propane adduct) (CAS 53159-39-0);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "19.",
+                        "Description": "4,5 diazidomethyl-2-methyl-1,2,3-triazole (iso- DAMTR);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "20.",
+                        "Description": "PNO (Poly(3-nitrato oxetane));",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "21.",
+                        "Description": "TMETN (Trimethylolethane trinitrate) (CAS 3032-55-1);",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "f.",
+                "Description": "“Additives” as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Basic copper salicylate (CAS 62320-94-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "BNO (butadienenitrileoxide) (CAS 9003-18-3);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Ferrocene derivatives as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Butacene (CAS 125856-62-4);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Catocene (2,2-bis-ethylferrocenyl propane) (CAS 37206-42-1);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Ferrocene carboxylic acids;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "n-butyl-ferrocene (CAS 31904-29-7);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "Other adducted polymer ferrocene derivatives;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "f.",
+                                "Description": "Ethyl ferrocene (CAS 1273-89-8);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "g.",
+                                "Description": "Propyl ferrocene;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "h.",
+                                "Description": "Pentyl ferrocene (CAS 1274-00-6);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "i.",
+                                "Description": "Dicyclopentyl ferrocene;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "j.",
+                                "Description": "Dicyclohexyl ferrocene;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "k.",
+                                "Description": "Diethyl ferrocene (CAS 1273-97-8);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "l.",
+                                "Description": "Dipropyl ferrocene;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "m.",
+                                "Description": "Dibutyl ferrocene (CAS 1274-08-4);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "n.",
+                                "Description": "Dihexyl ferrocene (CAS 93894-59-8);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "o.",
+                                "Description": "Acetyl ferrocene (CAS 1271-55-2)/1,1’-diacetyl ferrocene",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "Lead beta-resorcylate (CAS 20936-32-7) or copper beta-resorcylate (CAS 70983-44-7);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "Lead citrate (CAS 14450-60-3);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "7.",
+                        "Description": "Lead-copper chelates of beta-resorcylate or salicylates",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "8.",
+                        "Description": "Lead maleate (CAS 19136-34-6);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "9.",
+                        "Description": "Lead salicylate (CAS 15748-73-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "10.",
+                        "Description": "Lead stannate (CAS 12036-31-6);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "11.",
+                        "Description": "MAPO (tris-1-(2-methyl)aziridinyl phosphine oxide) (CAS 57-39-6); BOBBA 8 (bis(2-methyl aziridinyl) 2-(2-hydroxypropanoxy) propylamino phosphine oxide); and other MAPO derivatives;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "12.",
+                        "Description": "Methyl BAPO (bis(2-methyl aziridinyl) methylamino phosphine oxide) (CAS 85068-72-0);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "13.",
+                        "Description": "N-methyl-p-nitroaniline (CAS 100-15-2);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "14.",
+                        "Description": "3-Nitraza-1,5-pentane diisocyanate (CAS 7406-61-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "15.",
+                        "Description": "Organo-metallic coupling agents as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Neopentyl[diallyl]oxy, tri[dioctyl]phosphato-titanate",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Titanium IV, [(2-propenolato-1) methyl, n-propanolatomethyl] butanolato-1, tris[dioctyl] pyrophosphate or KR3538;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Titanium IV, [(2-propenolato-1)methyl, n-propanolatomethyl] butanolato-1, tris(dioctyl)phosphate;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "16.",
+                        "Description": "Polycyanodifluoroaminoethyleneoxide;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "17.",
+                        "Description": "Bonding agents as follows:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "1,1R,1S-trimesoyl-tris(2-ethylaziridine) (HX-868, BITA)",
+                                "SubStructures": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "g.",
+                "Description": "“Precursors” as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "BCMO (3,3-bis(chloromethyl)oxetane) (CAS 142173-26-0) (see also ML8.e.1. and ML8.e.2.);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Dinitroazetidine-t-butyl salt (CAS 125735-38-8) (see also ML8.a.28.);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "HBIW (hexabenzylhexaazaisowurtzitane) (CAS 124782-15-6) (see also ML8.a.4.);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Not used;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "TAT (1,3,5,7 tetraacetyl-1,3,5,7,-tetraaza cyclo-octane)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "6.",
+                        "Description": "1,4,5,8-tetraazadecalin (CAS 5409-42-7) (see also ML8.a.27.);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "7.",
+                        "Description": "1,3,5-trichlorobenzene (CAS 108-70-3) (see also ML8.a.23.);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "8.",
+                        "Description": "1,2,4-trihydroxybutane (1,2,4-butanetriol) (CAS 3068-00-6) (see also ML8.e.5.);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "9.",
+                        "Description": "DADN (1,5-diacetyl-3,7-dinitro-1, 3, 5, 7-tetraaza-cyclooctane)",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "h.",
+                "Description": "‘Reactive material’ powders and shapes, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Powders of any of the following materials, with a particle size less than 250 µm in any direction and not specified elsewhere by ML8:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Aluminium;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Niobium;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Boron;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "e.",
+                        "Description": "Magnesium;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "g.",
+                        "Description": "Tantalum;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "i.",
+                        "Description": "Molybdenum; or",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Shapes, not specified by ML3, ML4, ML12 or ML16, fabricated from powders specified by ML8.h.1.",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "j.",
+                "Description": "Hafnium;",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML9",
+        "Description": "Vessels of war (surface or underwater), special naval equipment, accessories, components and other surface vessels, as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Vessels and components, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Vessels (surface or underwater) specially designed or modified for military use, regardless of current state of repair or operating condition, and whether or not they contain weapon delivery systems or armour, and hulls or parts of hulls for such vessels, and components therefor specially designed for military use;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Surface vessels, not specified in ML9.a.1., having any of the following, fixed or integrated into the vessel:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Automatic weapons specified by ML1., or weapons specified by ML2., ML4., ML12. or ML19., or ‘mountings’ or hard points for weapons having a calibre of 12.7 mm or greater;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Fire control systems specified by ML5.;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Having all of the following:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "‘Chemical, Biological, Radiological and Nuclear (CBRN) protection’; and",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "‘Pre-wet or wash down system’ designed for decontamination purposes; or",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Active weapon countermeasure systems specified by ML4.b., ML5.c. or ML11.a. and having any of the following:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "‘CBRN protection’;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Hull and superstructure, specially designed to reduce the radar cross section;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "3.",
+                                        "Description": "Thermal signature reduction devices, (e.g., an exhaust gas cooling system), excluding those specially designed to increase overall power plant efficiency or to reduce the environmental impact; or",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "4.",
+                                        "Description": "A degaussing system designed to reduce the magnetic signature of the whole vessel;",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "b.",
+                "Description": "Fire control systems specified by ML5.;",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Diesel engines specially designed for submarines;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Electric motors specially designed for submarines and having all of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Power output of more than 0.75 MW (1,000 hp);",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Quick reversing;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Liquid cooled; and",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Totally enclosed;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Diesel engines having all of the following:",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Power output of 37.3 kW (50 hp) or more; and",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "‘Non-magnetic’ content in excess of 75% of total mass;",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "‘Air Independent Propulsion’ (AIP) systems specially designed for submarines;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "Underwater detection devices, specially designed for military use, controls therefor and components therefor specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "d.",
+                "Description": "Anti-submarine nets and anti-torpedo nets, specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "e.",
+                "Description": "Not used since 2003;",
+                "SubStructures": []
+            },
+            {
+                "Label": "f.",
+                "Description": "Hull penetrators and connectors, specially designed for military use, that enable interaction with equipment external to a vessel, and components therefor specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "g.",
+                "Description": "Silent bearings having any of the following, components therefor and equipment containing those bearings, specially designed for military use:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Gas or magnetic suspension;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Active signature controls; or",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Vibration suppression controls;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "h.",
+                "Description": "Nuclear power generating equipment or propulsion equipment, specially \tdesigned for vessels specified in ML9.a. and components therefor specially \tdesigned or ‘modified’ for military use.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML10",
+        "Description": "“Aircraft”, “lighter-than-air vehicles”, “Unmanned aerial vehicles” (“UAVs”), aero-engines and “aircraft” equipment, related equipment, and components, as follows, specially designed or modified for military use:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Manned “aircraft” and “lighter-than-air vehicles”, and specially designed components therefor;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Not used;",
+                "SubStructures": []
+            },
+            {
+                "Label": "c.",
+                "Description": "Unmanned “aircraft” and “lighter-than-air vehicles”, and related equipment, as follows, and specially designed components therefor:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "“UAVs”, Remotely Piloted Air Vehicles (RPVs), autonomous programmable vehicles and unmanned “lighter-than-air vehicles”;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Launchers, recovery equipment and ground support equipment;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Equipment designed for command or control;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "d.",
+                "Description": "Propulsion aero-engines and specially designed components therefor;",
+                "SubStructures": []
+            },
+            {
+                "Label": "e.",
+                "Description": "Airborne refuelling equipment specially designed or modified for any of the following, and specially designed components therefor:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "“Aircraft” specified by ML10.a.; or",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Unmanned “aircraft” specified by ML10.c.;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "f.",
+                "Description": "Ground equipment specially designed for \"aircraft\" specified by ML10.a. or aero-engines specified by ML10.d.;",
+                "SubStructures": []
+            },
+            {
+                "Label": "g.",
+                "Description": "Aircrew life support equipment, aircrew safety equipment and other devices for emergency escape, not specified by ML10.a., designed for “aircraft” specified by ML10.a.;",
+                "SubStructures": []
+            },
+            {
+                "Label": "h.",
+                "Description": "Parachutes, paragliders and related equipment, as follows, and specially designed components therefor:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Parachutes not specified elsewhere in the Munitions List;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Paragliders;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Equipment specially designed for high altitude parachutists (e.g. suits, special helmets, breathing systems, navigation equipment);",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "i.",
+                "Description": "Controlled opening equipment or automatic piloting systems, designed for parachuted loads.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML11",
+        "Description": "Electronic equipment, not specified elsewhere on the Munitions List, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Electronic equipment specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Jamming equipment designed or modified to hinder the reception, operation or effectiveness of positioning, navigation or timing services provided by \"satellite navigation systems\", and specially designed components therefor;",
+                "SubStructures": []
+            },
+            {
+                "Label": "c.",
+                "Description": "“Spacecraft” specially designed or modified for military use, and “spacecraft” components specially designed for military use.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML12",
+        "Description": "High velocity kinetic energy weapon systems and related equipment, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Kinetic energy weapon systems specially designed for destruction or effecting mission-abort of a target;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Specially designed test and evaluation facilities and test models, including diagnostic instrumentation and targets, for dynamic testing of kinetic energy projectiles and systems.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML13",
+        "Description": "Armoured or protective equipment, constructions, components and accessories, as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Metallic or non-metallic armoured plate, having any of the following:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Manufactured to comply with a military standard or specification; or",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Suitable for military use;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "b.",
+                "Description": "Constructions of metallic or non-metallic materials, or combinations thereof, specially designed to provide ballistic protection for military systems, and specially designed components therefor;",
+                "SubStructures": []
+            },
+            {
+                "Label": "c.",
+                "Description": "Helmets and specially designed components and accessories therefor, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Helmets manufactured according to military standards or specifications, or comparable national standards;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Shells, liners, or comfort pads, specially designed for helmets specified in ML13.c.1.;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Add-on ballistic protection elements, specially designed for helmets specified in ML13.c.1.",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "d.",
+                "Description": "Body armour or protective garments, and components therefor, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Soft body armour or protective garments, manufactured to military standards or specifications, or to their equivalents, and specially designed components therefor;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Hard body armour plates providing ballistic protection equal to or greater than level III (NIJ 0101.06, July 2008), or “equivalent standards”.",
+                        "SubStructures": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Label": "ML14",
+        "Description": "‘Specialised equipment for military training’ or for simulating military scenarios, simulators specially designed for training in the use of any firearm or weapon specified by ML1. or ML2., and specially designed components and accessories therefor.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML15",
+        "Description": "Imaging or countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Recorders and image processing equipment;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Cameras, photographic equipment and film processing equipment;",
+                "SubStructures": []
+            },
+            {
+                "Label": "c.",
+                "Description": "Image intensifier equipment;",
+                "SubStructures": []
+            },
+            {
+                "Label": "d.",
+                "Description": "Infrared or thermal imaging equipment;",
+                "SubStructures": []
+            },
+            {
+                "Label": "e.",
+                "Description": "Imaging radar sensor equipment;",
+                "SubStructures": []
+            },
+            {
+                "Label": "f.",
+                "Description": "Countermeasure or counter-countermeasure equipment, for the equipment specified by ML15.a. to ML15.e.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML16",
+        "Description": "Forgings, castings and other unfinished products, specially designed for items specified by ML1. to ML4., ML6., ML9., ML10., ML12., ML19 or ML901 to ML910.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML17",
+        "Description": "Miscellaneous equipment, materials and “libraries”, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Diving and underwater swimming apparatus, specially designed or modified for military use, as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Self-contained diving rebreathers, closed or semi-closed circuit;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Underwater swimming apparatus specially designed for use with the diving apparatus specified by ML17.a.1;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "b.",
+                "Description": "Construction equipment specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "c.",
+                "Description": "Fittings, coatings and treatments, for signature suppression, specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "d.",
+                "Description": "Field engineer equipment specially designed for use in a combat zone;",
+                "SubStructures": []
+            },
+            {
+                "Label": "e.",
+                "Description": "“Robots”, “robot” controllers and “robot” “end-effectors”, having any of the following characteristics:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "Specially designed for military use;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "Incorporating means of protecting hydraulic lines against externally induced punctures caused by ballistic fragments (e.g., incorporating self-sealing lines) and designed to use hydraulic fluids with flash points higher than 839 K (566°C); or",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Specially designed or rated for operating in an electro-magnetic pulse (EMP) environment;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "f.",
+                "Description": "“Libraries” specially designed or modified for military use with systems, equipment or components, specified by the Munitions List;",
+                "SubStructures": []
+            },
+            {
+                "Label": "g.",
+                "Description": "Nuclear power generating equipment or propulsion equipment, not specified elsewhere, specially designed for military use and components therefor specially designed or ‘modified’ for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "h.",
+                "Description": "Equipment and material, coated or treated for signature suppression, specially designed for military use, not specified elsewhere in the Munitions List;",
+                "SubStructures": []
+            },
+            {
+                "Label": "i.",
+                "Description": "Simulators specially designed for military “nuclear reactors”;",
+                "SubStructures": []
+            },
+            {
+                "Label": "j.",
+                "Description": "Mobile repair shops specially designed or ‘modified’ to service military equipment;",
+                "SubStructures": []
+            },
+            {
+                "Label": "k.",
+                "Description": "Field generators specially designed or ‘modified’ for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "l.",
+                "Description": "ISO intermodal containers or demountable vehicle bodies (i.e., swap bodies), specially designed or ‘modified’ for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "m.",
+                "Description": "Ferries, not specified elsewhere in the Munitions List, bridges and pontoons, specially designed for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "n.",
+                "Description": "Test models specially designed for the “development” of items specified by ML4., ML6., ML9. or ML10.;",
+                "SubStructures": []
+            },
+            {
+                "Label": "o.",
+                "Description": "“Laser” protection equipment (e.g., eye or sensor protection) specially \tdesigned for military use;",
+                "SubStructures": []
+            },
+            {
+                "Label": "p.",
+                "Description": "“Fuel cells”, not specified elsewhere in the Munitions List, specially designed or ‘modified’ for military use.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML18",
+        "Description": "‘Production’ equipment, environmental test facilities and components, as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Specially designed or modified ‘production’ equipment for the ‘production’ of products specified by the Munitions List, and specially designed components therefor;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Specially designed environmental test facilities and specially designed equipment therefor, not specified elsewhere, for the certification, qualification or testing of products specified by the Munitions List.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML19",
+        "Description": "Directed Energy Weapon (DEW) systems, related or countermeasure equipment and test models, as follows, and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "“Laser” systems specially designed for destruction or effecting mission-abort of a target;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "Particle beam systems capable of destruction or effecting mission-abort of a target;",
+                "SubStructures": []
+            },
+            {
+                "Label": "c.",
+                "Description": "High power Radio-Frequency (RF) systems capable of destruction or effecting mission-abort of a target;",
+                "SubStructures": []
+            },
+            {
+                "Label": "d.",
+                "Description": "Equipment specially designed for the detection or identification of, or defence against, systems specified by ML19.a. to ML19.c.;",
+                "SubStructures": []
+            },
+            {
+                "Label": "e.",
+                "Description": "Physical test models for the systems, equipment and components, specified by ML19.;",
+                "SubStructures": []
+            },
+            {
+                "Label": "f.",
+                "Description": "“Laser” systems specially designed to cause permanent blindness to unenhanced vision, i.e. to the naked eye or to the eye with corrective eyesight devices.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML20",
+        "Description": "Cryogenic and “superconductive” equipment, as follows, and specially designed components and accessories therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "Equipment specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications, capable of operating while in motion and of producing or maintaining temperatures below 103 K (-170°C);",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "“Superconductive” electrical equipment (rotating machinery or transformers) specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications and capable of operating while in motion.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML21",
+        "Description": "“Software” as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "“Software” specially designed or modified for any of the following:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "“Development”, “production”, operation or maintenance of equipment specified by the Munitions List;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "“Development” or “production” of materials specified by the Munitions List;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "“Development”, “production”, operation or maintenance of “software” specified by the Munitions List;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "b.",
+                "Description": "Specific “software”, other than that specified by ML21.a., as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "“Software” specially designed for military use and specially designed for modelling, simulating or evaluating military weapon systems;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "“Software” specially designed for military use and specially designed for modelling or simulating military operational scenarios;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "“Software” for determining the effects of conventional, nuclear, chemical or biological weapons;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "“Software” specially designed for military use and specially designed for Command, Communications, Control and Intelligence (C3I) or Command, Communications, Control, Computer and Intelligence (C4I) applications;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "“Software” specially designed or modified for the conduct of military offensive cyber operations;",
+                        "SubStructures": []
+                    }
+                ]
+            },
+            {
+                "Label": "c.",
+                "Description": "“Software”, not specified by ML21.a. or b., specially designed or modified to enable equipment not specified by the Munitions List to perform the military functions of equipment specified by the Munitions List.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML22",
+        "Description": "“Technology” as follows:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "“Technology”, other than specified by ML22.b., which is “required” for the “development”, “production”, operation, installation, maintenance (checking), repair, overhaul or refurbishing of items specified by the Munitions List;",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "“Technology” as follows:",
+                "SubStructures": [
+                    {
+                        "Label": "1.",
+                        "Description": "“Technology” “required” for the design of, the assembly of components into, and the operation, maintenance and repair of, complete production installations for items specified by the Munitions List, even if the components of such production installations are not specified;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "“Technology” “required” for the “development” and “production” of small arms, even if used to produce reproductions of antique small arms;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "3.",
+                        "Description": "Not used;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "4.",
+                        "Description": "Not used;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "5.",
+                        "Description": "“Technology” “required” exclusively for the incorporation of “biocatalysts”, specified by ML7.i.1., into military carrier substances or military material.",
+                        "SubStructures": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Label": "ML901",
+        "Description": "Firearms, other than those specified by ML1 or ML2, including rifles, carbines, muskets, pistols, revolvers, shotguns and smooth-bore weapons, and specially designed components therefor.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML902",
+        "Description": "Ammunition, projectiles, and specially designed components therefor, for the firearms specified by ML901.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML903",
+        "Description": "Not used.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML904",
+        "Description": "Accessories, other than those specified by ML1.d., including silencers, special gun-mountings, magazines, weapon sights and flash suppressors, for the firearms specified by ML1 or ML901.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML905",
+        "Description": "Air guns having any of the following characteristics and specially designed components therefor:",
+        "SubStructures": [
+            {
+                "Label": "a.",
+                "Description": "muzzle velocity exceeding 152.4 m/s (500 feet per second);",
+                "SubStructures": []
+            },
+            {
+                "Label": "b.",
+                "Description": "designed for competition target shooting; or",
+                "SubStructures": []
+            },
+            {
+                "Label": "c.",
+                "Description": "capable of fully automatic operation.",
+                "SubStructures": []
+            }
+        ]
+    },
+    {
+        "Label": "ML908",
+        "Description": "“Energetic materials” other than “energetic materials” specified by ML8, including high explosives specified by 1C239, but excluding those specially formulated for toys, novelty goods and fireworks.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML909",
+        "Description": "Detonators or other equipment, other than those specified by ML4 or 1A007, for the initiation of “energetic materials” specified by ML908.",
+        "SubStructures": []
+    },
+    {
+        "Label": "ML910",
+        "Description": "Charges and devices, other than those specified by ML4 or 1A008, containing “energetic materials” specified by ML908.",
+        "SubStructures": []
+    }
+]

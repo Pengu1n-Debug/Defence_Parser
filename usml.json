@@ -1,0 +1,2114 @@
+[
+  {
+    "Label": "Category I",
+    "Description": "Firearms and Related Articles",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Firearms using caseless ammunition.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(b)",
+        "Description": "Fully automatic firearms to .50 caliber (12.7 mm) inclusive.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(c)",
+        "Description": "Firearms specially designed to integrate fire control, automatic tracking, or automatic firing (e.g., Precision Guided Firearms).",
+        "SubStructures": [
+          {
+            "Label": "Note 1 to paragraph (c)",
+            "Description": "Integration does not include only attaching to the firearm or rail.",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(d)",
+        "Description": "Fully automatic shotguns regardless of gauge.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(e)",
+        "Description": "Silencers, mufflers, and sound suppressors.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(f)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(g)",
+        "Description": "Barrels, receivers (frames), bolts, bolt carriers, slides, or sears specially designed for the articles in paragraphs (a), (b), and (d) of this category.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(h)",
+        "Description": "Parts, components, accessories, and attachments, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Drum and other magazines for firearms to .50 caliber (12.7 mm) inclusive with a capacity greater than 50 rounds, regardless of jurisdiction of the firearm, and specially designed parts and components therefor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Parts and components specially designed for conversion of a semi-automatic firearm to a fully automatic firearm;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Parts and components specially designed for defense articles described in paragraphs (c) and (e) of this category; or",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Accessories or attachments specially designed to automatically stabilize aim (other than gun rests) or for automatic targeting, and specially designed parts and components therefor.",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(i)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles described in this category and classified technical data directly related to items controlled in ECCNs 0A501, 0B501, 0D501, and 0E501 and defense services using the classified technical data. (See \u00a7 125.4 of this subchapter for exemptions.)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(j)-(w)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technology subject to the EAR used in or with defense articles.",
+        "SubStructures": [
+          {
+            "Label": "Note to paragraph (x)",
+            "Description": "Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (see \u00a7 123.1(b) of this subchapter).",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "Note 1 to Category I",
+        "Description": "The following interpretations explain and amplify the terms used in this category:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "A firearm is a weapon not over .50 caliber (12.7 mm) which is designed to expel a projectile by the deflagration of propellant;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "A fully automatic firearm or shotgun is any firearm or shotgun that shoots, is designed to shoot, or can readily be restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger; and",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Caseless ammunition is firearm ammunition without a cartridge case that holds the primer, propellant, and projectile together as a unit.",
+            "SubStructures": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "II",
+    "Description": "Guns and Armament",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Guns and armament greater than .50 caliber (12.7 mm), as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Guns, howitzers, artillery, and cannons",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Mortars",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Recoilless rifles",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Grenade launchers",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Developmental guns and armament greater than .50 caliber (12.7 mm) funded by the Department of Defense and specially designed parts and components therefor",
+            "SubStructures": [
+              {
+                "Label": "Note 1 to paragraph (a)(5)",
+                "Description": "This paragraph does not control guns and armament greater than .50 caliber (12.7 mm): (a) in production; (b) determined to be subject to the EAR via a commodity jurisdiction determination; or (c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications.",
+                "SubStructures": []
+              },
+              {
+                "Label": "Note 2 to paragraph (a)(5)",
+                "Description": "Note 1 to paragraph (a)(5) does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development.",
+                "SubStructures": []
+              },
+              {
+                "Label": "Note 3 to paragraph (a)(5)",
+                "Description": "This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later.",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "Note 1 to paragraph (a)",
+            "Description": "This paragraph does not include: Non-automatic and non-semi-automatic rifles, carbines, and pistols between .50 (12.7 mm) and .72 caliber (18.288 mm) that are controlled on the CCL under ECCN 0A501; shotguns controlled on the CCL under ECCN 0A502; black powder guns and armaments manufactured between 1890 and 1919 controlled on the CCL under ECCN 0A602; or black powder guns and armaments manufactured earlier than 1890.",
+            "SubStructures": []
+          },
+          {
+            "Label": "Note 2 to paragraph (a)",
+            "Description": "Guns and armament when integrated into their carrier (e.g., surface vessels, ground vehicles, or aircraft) are controlled in the category associated with the carrier. Self-propelled guns and armament are controlled in USML Category VII. Towed guns and armament and stand-alone guns and armament are controlled under this category.",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(b)",
+        "Description": "Flamethrowers with an effective range greater than or equal to 20 meters.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(c)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "Kinetic energy weapon systems specially designed for destruction or rendering mission-abort of a target.",
+        "SubStructures": [
+          {
+            "Label": "Note 1 to paragraph (d)",
+            "Description": "Kinetic energy weapons systems include but are not limited to launch systems and subsystems capable of accelerating masses larger than 0.1g to velocities in excess of 1.6 km/s, in single or rapid fire modes, using methods such as: Electromagnetic, electrothermal, plasma, light gas, or chemical. This does not include launch systems and subsystems used for research and testing facilities subject to the EAR, which are controlled on the CCL under ECCN 2B232.",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(e)",
+        "Description": "Signature reduction devices specially designed for the guns and armament controlled in paragraphs (a), (b), and (d) of this category (e.g., muzzle flash suppression devices).",
+        "SubStructures": []
+      },
+      {
+        "Label": "(f)-(i)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(j)",
+        "Description": "Parts, components, accessories, and attachments, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Gun barrels, rails, tubes, and receivers specially designed for the weapons controlled in paragraphs (a) and (d) of this category",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Sights specially designed to orient indirect fire weapons",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Breech blocks for the weapons controlled in paragraphs (a) and (d) of this category",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Firing mechanisms for the weapons controlled in paragraphs (a) and (d) of this category and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Systems for firing superposed or stacked ammunition and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(6)",
+            "Description": "Servo-electronic and hydraulic elevation adjustment mechanisms",
+            "SubStructures": []
+          },
+          {
+            "Label": "(7)",
+            "Description": "Muzzle brakes",
+            "SubStructures": []
+          },
+          {
+            "Label": "(8)",
+            "Description": "Bore evacuators",
+            "SubStructures": []
+          },
+          {
+            "Label": "(9)",
+            "Description": "Independent ammunition handling systems for the guns and armament controlled in paragraphs (a), (b), and (d) of this category",
+            "SubStructures": []
+          },
+          {
+            "Label": "(10)",
+            "Description": "Components for independently powered ammunition handling systems and platform interface, as follows:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Mounts",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Carriages",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Gun pallets",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iv)",
+                "Description": "Hydro-pneumatic equilibration cylinders",
+                "SubStructures": []
+              },
+              {
+                "Label": "(v)",
+                "Description": "Hydro-pneumatic systems capable of scavenging recoil energy to power howitzer functions",
+                "SubStructures": []
+              },
+              {
+                "Label": "Note 1 to paragraph (j)(10)",
+                "Description": "For weapons mounts specially designed for surface vessels and special naval equipment, see Category VI. For weapons mounts specially designed for ground vehicles, see Category VII.",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(11)",
+            "Description": "Ammunition containers/drums, ammunition chutes, ammunition conveyor elements, ammunition feeder systems, and ammunition container/drum entrance and exit units, specially designed for the guns and armament controlled in paragraphs (a), (b), and (d) of this category",
+            "SubStructures": []
+          },
+          {
+            "Label": "(12)",
+            "Description": "Systems and equipment for the guns and armament controlled in paragraphs (a) and (d) of this category for use in programming ammunition, and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(13)",
+            "Description": "Aircraft/gun interface units to support gun systems with a designed rate of fire greater than 100 rounds per minute and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(14)",
+            "Description": "Recoil systems specially designed to mitigate the shock associated with the firing process of guns integrated into air platforms and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(15)",
+            "Description": "Prime power generation, energy storage, thermal management, conditioning, switching, and fuel-handling equipment, and the electrical interfaces between the gun power supply and other turret electric drive components specially designed for kinetic weapons controlled in paragraph (d) of this category",
+            "SubStructures": []
+          },
+          {
+            "Label": "(16)",
+            "Description": "Kinetic energy weapon target acquisition, tracking fire control, and damage assessment systems and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(17)",
+            "Description": "Any part, component, accessory, attachment, equipment, or system that:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Is classified",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contains classified software",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Is being developed using classified information",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(k)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles described in paragraphs (a), (b), (d), (e), and (j) of this category and classified technical data directly related to items controlled in ECCNs 0A602, 0B602, 0D602, and 0E602 and defense services using the classified technical data. (See \u00a7 125.4 of this subchapter for exemptions.)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(l)-(w)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technology subject to the EAR used in or with defense articles.",
+        "SubStructures": [
+          {
+            "Label": "Note to paragraph (x)",
+            "Description": "Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (see \u00a7 123.1(b) of this subchapter).",
+            "SubStructures": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "Category III",
+    "Description": "Ammunition and Ordnance",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Ammunition, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Ammunition that incorporates a projectile controlled in paragraph (d)(1) or (3) of this category;"
+          },
+          {
+            "Label": "(2)",
+            "Description": "Ammunition preassembled into links or belts;"
+          },
+          {
+            "Label": "(3)",
+            "Description": "Shotgun ammunition that incorporates a projectile controlled in paragraph (d)(2) of this category;"
+          },
+          {
+            "Label": "(4)",
+            "Description": "Caseless ammunition manufactured with smokeless powder;"
+          },
+          {
+            "Label": "Note 1 to paragraph (a)(4)",
+            "Description": "Caseless ammunition is ammunition without a cartridge case that holds the primer, propellant, and projectile together as a unit."
+          },
+          {
+            "Label": "(5)",
+            "Description": "Ammunition, except shotgun ammunition, based on non-metallic cases, or non-metallic cases that have only a metallic base, which result in a total cartridge mass 80% or less than the mass of a brass- or steel-cased cartridge that provides comparable ballistic performance;"
+          },
+          {
+            "Label": "(6)",
+            "Description": "Ammunition employing pyrotechnic material in the projectile base or any ammunition employing a projectile that incorporates tracer materials of any type having peak radiance above 710 nm and designed to be observed primarily with night vision optical systems;"
+          },
+          {
+            "Label": "(7)",
+            "Description": "Ammunition for fully automatic firearms that fire superposed or stacked projectiles or for guns that fire superposed or stacked projectiles;"
+          },
+          {
+            "Label": "(8)",
+            "Description": "Electromagnetic armament projectiles or billets for weapons with a design muzzle energy exceeding 5 MJ;"
+          },
+          {
+            "Label": "(9)",
+            "Description": "Ammunition, not specified above, for the guns and armaments controlled in Category II; or"
+          },
+          {
+            "Label": "(10)",
+            "Description": "Developmental ammunition funded by the Department of Defense and specially designed parts and components therefor."
+          },
+          {
+            "Label": "Note 1 to paragraph (a)(10)",
+            "Description": "This paragraph does not control ammunition: (a) in production; (b) determined to be subject to the EAR via a commodity jurisdiction determination; or (c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications."
+          },
+          {
+            "Label": "Note 2 to paragraph (a)(10)",
+            "Description": "Note 1 does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development."
+          },
+          {
+            "Label": "Note 3 to paragraph (a)(10)",
+            "Description": "This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later."
+          }
+        ]
+      },
+      {
+        "Label": "(b)",
+        "Description": "Ammunition/ordnance handling equipment specially designed for the articles controlled in this category, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Belting, linking, and de-linking equipment; or"
+          },
+          {
+            "Label": "(2)",
+            "Description": "Fuze setting devices."
+          }
+        ]
+      },
+      {
+        "Label": "(c)",
+        "Description": "[Reserved]"
+      },
+      {
+        "Label": "(d)",
+        "Description": "Parts and components for the articles in this category, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Projectiles that use pyrotechnic tracer materials that incorporate any material having peak radiance above 710 nm or are incendiary or explosive;"
+          },
+          {
+            "Label": "(2)",
+            "Description": "Shotgun projectiles that are flechettes, incendiary, tracer, or explosive;"
+          },
+          {
+            "Label": "Note 1 to paragraph (d)(2)",
+            "Description": "This paragraph does not include explosive projectiles specially designed to produce noise for scaring birds or other pests (e.g., bird bombs, whistlers, crackers)."
+          },
+          {
+            "Label": "(3)",
+            "Description": "Projectiles of any caliber produced from depleted uranium;"
+          },
+          {
+            "Label": "(4)",
+            "Description": "Projectiles not specified above, guided or unguided, for the items controlled in USML Category II, and specially designed parts and components therefor (e.g., fuzes, rotating bands, cases, liners, fins, boosters);"
+          },
+          {
+            "Label": "(5)",
+            "Description": "Canisters or sub-munitions (e.g., bomblets or minelets), and specially designed parts and components therefor, for the guns or armament controlled in USML Category II;"
+          },
+          {
+            "Label": "(6)",
+            "Description": "Projectiles that employ tips (e.g., M855A1 Enhanced Performance Round (EPR)) or cores regardless of caliber, produced from one or a combination of the following: Tungsten, steel, or beryllium copper alloy;"
+          },
+          {
+            "Label": "(7)",
+            "Description": "Cartridge cases, powder bags, or combustible cases specially designed for the items controlled in USML Category II;"
+          },
+          {
+            "Label": "(8)",
+            "Description": "Non-metallic cases, including cases that have only a metallic base, for the ammunition controlled in paragraph (a)(5) of this category;"
+          },
+          {
+            "Label": "(9)",
+            "Description": "Cartridge links and belts for fully automatic firearms and guns controlled in USML Categories I or II;"
+          },
+          {
+            "Label": "(10)",
+            "Description": "Primers other than Boxer, Berdan, or shotshell types;"
+          },
+          {
+            "Label": "Note 1 to paragraph (d)(10)",
+            "Description": "This paragraph does not control caps or primers of any type in use prior to 1890."
+          },
+          {
+            "Label": "(11)",
+            "Description": "Safing, arming, and fuzing components (to include target detection and proximity sensing devices) for the ammunition in this category and specially designed parts therefor;"
+          },
+          {
+            "Label": "(12)",
+            "Description": "Guidance and control components for the ammunition in this category and specially designed parts therefor;"
+          },
+          {
+            "Label": "(13)",
+            "Description": "Terminal seeker assemblies for the ammunition in this category and specially designed parts and components therefor;"
+          },
+          {
+            "Label": "(14)",
+            "Description": "Illuminating flares or target practice projectiles for the ammunition controlled in paragraph (a)(9) of this category; or"
+          },
+          {
+            "Label": "(15)",
+            "Description": "Any part, component, accessory, attachment, equipment, or system that:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Is classified;"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contains classified software; or"
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Is being developed using classified information."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(e)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter ) and defense services (see \u00a7 120.32 of this subchapter ) directly related to the defense articles enumerated in paragraphs (a), (b), and (d) of this category and classified technical data directly related to items controlled in ECCNs 0A505, 0B505, 0D505, and 0E505 and defense services using the classified technical data. (See \u00a7 125.4 of this subchapter for exemptions.)"
+      },
+      {
+        "Label": "(f)-(w)",
+        "Description": "[Reserved]"
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technology subject to the EAR used in or with defense articles.",
+        "SubStructures": [
+          {
+            "Label": "Note to paragraph (x)",
+            "Description": "Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (see \u00a7 123.1(b) of this subchapter )."
+          }
+        ]
+      },
+      {
+        "Label": "Note 1 to Category III",
+        "Description": "This category does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber."
+      },
+      {
+        "Label": "Note 2 to Category III",
+        "Description": "This category does not control cartridge and shell casings that, prior to export, have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping."
+      },
+      {
+        "Label": "Note 3 to Category III",
+        "Description": "Grenades containing non-lethal or less lethal projectiles are under the jurisdiction of the Department of Commerce."
+      }
+    ]
+  },
+  {
+    "Label": "Category IV",
+    "Description": "Launch Vehicles, Guided Missiles, Ballistic Missiles, Rockets, Torpedoes, Bombs, and Mines",
+    "SubStructures": []
+  },
+  {
+    "Label": "Category V",
+    "Description": "Explosives and Energetic Materials, Propellants, Incendiary Agents, and Their Constituents",
+    "SubStructures": []
+  },
+  {
+    "Label": "VI",
+    "Description": "Surface Vessels of War and Special Naval Equipment",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Warships and other combatant vessels (i.e., battleships, aircraft carriers, destroyers, frigates, cruisers, corvettes, littoral combat ships, mine sweepers, mine hunters, mine countermeasure ships, dock landing ships, amphibious assault ships), Coast Guard Cutters (with or equivalent to those with U.S. designations WHEC, WMEC, WMSL, or WPB for the purpose of this subchapter), or foreign-origin vessels specially designed to provide functions equivalent to those of the vessels listed above",
+        "SubStructures": []
+      },
+      {
+        "Label": "(b)",
+        "Description": "Other vessels not controlled in paragraph (a) of this category, as follows",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "High-speed air cushion vessels for transporting cargo and personnel, ship-to-shore and across a beach, with a payload over 25 tons",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Surface vessels integrated with nuclear propulsion plants or specially designed to support naval nuclear propulsion plants",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Vessels armed or specially designed to be used as a platform to deliver munitions or otherwise destroy or incapacitate targets (e.g., firing lasers, launching torpedoes, rockets, or missiles, or firing munitions greater than .50 caliber)",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Vessels incorporating any mission systems controlled under this subchapter",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(c)",
+        "Description": "Developmental vessels, and specially designed parts, components, accessories, and attachments therefor, funded by the Department of Defense via contract or other funding authorization",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(e)",
+        "Description": "Naval nuclear propulsion plants and prototypes, and special facilities for construction, support, and maintenance therefor(see also \u00a7 120.5(c) of this subchapter for nuclear related controls)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(f)",
+        "Description": "Vessel and naval equipment, parts, components, accessories, attachments, associated equipment, and systems, as follows",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Hulls or superstructures, including support structures therefor, that",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Are specially designed for any vessels controlled in paragraph (a) of this category",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Have armor, active protection systems, or developmental armor systems",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Are specially designed to survive 12.5% or greater damage across the length as measured between perpendiculars",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(2)",
+            "Description": "Systems that manage, store, create, distribute, conserve, and transfer energy, and specially designed parts and components therefor, that have",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Storage exceeding 30MJ",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "A discharge rate less than 3 seconds",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "A cycle time under 45 seconds",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(3)",
+            "Description": "Shipborne auxiliary systems for chemical, biological, radiological, and nuclear (CBRN) compartmentalization, over-pressurization and filtration systems, and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Control and monitoring systems for autonomous unmanned vessels capable of on-board, autonomous perception and decision-making necessary for the vessel to navigate while avoiding fixed and moving hazards, and obeying rules-of-the road without human intervention",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Any machinery, device, component, or equipment, including production, testing and inspection equipment, and tooling, specially designed for plants or facilities controlled in paragraph (e) of this section (see also \u00a7 120.5(c) of this subchapter for nuclear related controls)",
+            "SubStructures": []
+          },
+          {
+            "Label": "(6)",
+            "Description": "Parts, components, accessories, attachments, and equipment specially designed for integration of articles controlled by USML Categories II, IV, or XVIII or catapults for launching aircraft or arresting gear for recovering aircraft (MT for launcher mechanisms specially designed for rockets, space launch vehicles, or missiles capable of achieving a range greater than or equal to 300 km)",
+            "SubStructures": []
+          },
+          {
+            "Label": "(7)",
+            "Description": "Shipborne active protection systems (i.e., defensive systems that actively detect and track incoming threats and launch a ballistic, explosive, energy, or electromagnetic countermeasure(s) to neutralize the threat prior to contact with a vessel) and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(8)",
+            "Description": "Minesweeping and mine hunting equipment (including mine countermeasures equipment deployed by aircraft), and specially designed parts and components therefor",
+            "SubStructures": []
+          },
+          {
+            "Label": "(9)",
+            "Description": "Any part, component, accessory, attachment, equipment, or system that",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Is classified",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contains classified software directly related to defense articles in this subchapter or 600 series items subject to the EAR",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Is being developed using classified information",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(g)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles described in paragraphs (a) through (f) of this category and classified technical data directly related to items controlled in ECCNs 8A609, 8B609, 8C609, and 8D609 and defense services using the classified technical data. (MT for technical data and defense services related to articles designated as such.)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(h)-(w)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technical data subject to the EAR used in or with defense articles",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "VII",
+    "Description": "Ground Vehicles",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Armored combat ground vehicles as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Tanks; or"
+          },
+          {
+            "Label": "(2)",
+            "Description": "Infantry fighting vehicles."
+          }
+        ]
+      },
+      {
+        "Label": "(b)",
+        "Description": "Ground vehicles (not enumerated in paragraph (a) of this category) and trailers that are armed or are specially designed to be used as a firing or launch platform to deliver munitions or otherwise destroy or incapacitate targets (e.g., firing lasers, launching rockets, firing missiles, firing mortars, firing artillery rounds, or firing other ammunition greater than .50 caliber) (MT if specially designed for rockets, space launch vehicles, missiles, drones, or unmanned aerial vehicles capable of delivering a payload of at least 500 kg to a range of at least 300 km)."
+      },
+      {
+        "Label": "(c)",
+        "Description": "Ground vehicles and trailers equipped with any mission systems controlled under this subchapter (MT if specially designed for rockets, space launch vehicles, missiles, drones, or unmanned aerial vehicles capable of delivering a payload of at least 500 kg to a range of at least 300 km)."
+      },
+      {
+        "Label": "Note to paragraph (c):",
+        "Description": "\u201cMission systems\u201d are defined as \u201csystems\u201d (see \u00a7 120.40(h) of this subchapter ) that are defense articles that perform specific military functions, such as by providing military communication, target designation, surveillance, target detection, or sensor capabilities."
+      },
+      {
+        "Label": "Note to paragraphs (b) and (c):",
+        "Description": "\u201cPayload\u201d is the total mass that can be carried or delivered by the specified rocket, space launch vehicle, missile, drone, or unmanned aerial vehicle that is not used to maintain flight. For definition of \u201crange\u201d as it pertains to aircraft systems, see note to paragraph (a) USML Category VIII. For definition of \u201crange\u201d as it pertains to rocket systems, see note to paragraph (f)(6) of USML Category VI."
+      },
+      {
+        "Label": "(d)",
+        "Description": "[Reserved]"
+      },
+      {
+        "Label": "(e)",
+        "Description": "Armored support vehicles capable of off-road or amphibious use specially designed to transport or deploy personnel or materiel, or to move with other vehicles over land in close support of combat vehicles or troops (e.g., personnel carriers, resupply vehicles, combat engineer vehicles, recovery vehicles, reconnaissance vehicles, bridge launching vehicles, ambulances, and command and control vehicles)."
+      },
+      {
+        "Label": "(f)",
+        "Description": "[Reserved]"
+      },
+      {
+        "Label": "(g)",
+        "Description": "Ground vehicle parts, components, accessories, attachments, associated equipment, and systems as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Armored hulls, armored turrets, and turret rings;"
+          },
+          {
+            "Label": "(2)",
+            "Description": "Active protection systems (i.e., defensive systems that actively detect and track incoming threats and launch a ballistic, explosive, energy, or electromagnetic countermeasure(s) to neutralize the threat prior to contact with a vehicle) and specially designed parts and components therefor;"
+          },
+          {
+            "Label": "(3)",
+            "Description": "Composite armor parts and components specially designed for the vehicles in this category;"
+          },
+          {
+            "Label": "(4)",
+            "Description": "Spaced armor components and parts, including slat armor parts and components specially designed for the vehicles in this category;"
+          },
+          {
+            "Label": "(5)",
+            "Description": "Reactive armor parts and components;"
+          },
+          {
+            "Label": "(6)",
+            "Description": "Electromagnetic armor parts and components, including pulsed power specially designed parts and components therefor;"
+          },
+          {
+            "Label": "Note to paragraphs (g)(3)-(6):",
+            "Description": "See USML Category XIII(m)(1)-(4) for interpretations which explain and amplify terms used in these paragraphs."
+          },
+          {
+            "Label": "(7)",
+            "Description": "Built in test equipment (BITE) to evaluate the condition of weapons or other mission systems for vehicles identified in this category, excluding equipment that provides diagnostics solely for a subsystem or component involved in the basic operation of the vehicle;"
+          },
+          {
+            "Label": "(8)",
+            "Description": "Gun mount, stabilization, turret drive, and automatic elevating systems, and specially designed parts and components therefor;"
+          },
+          {
+            "Label": "(9)",
+            "Description": "Self-launching bridge components rated class 60 or above for deployment by vehicles in this category;"
+          },
+          {
+            "Label": "(10)",
+            "Description": "Suspension components as follows:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Rotary shock absorbers specially designed for the vehicles weighing more than 30 tons in this category; or"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Torsion bars specially designed for the vehicles weighing more than 50 tons in this category;"
+              }
+            ]
+          },
+          {
+            "Label": "(11)",
+            "Description": "Kits specially designed to convert a vehicle in this category into either an unmanned or a driver-optional vehicle. For a kit to be controlled by this paragraph, it must, at a minimum, include equipment for:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Remote or autonomous steering;"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Acceleration and braking; and"
+              },
+              {
+                "Label": "(iii)",
+                "Description": "A control system;"
+              }
+            ]
+          },
+          {
+            "Label": "(12)",
+            "Description": "Fire control computers, mission computers, vehicle management computers, integrated core processers, stores management systems, armaments control processors, vehicle-weapon interface units and computers;"
+          },
+          {
+            "Label": "(13)",
+            "Description": "Test or calibration equipment for the mission systems of the vehicles in this category, except those enumerated elsewhere; or"
+          },
+          {
+            "Label": "(14)",
+            "Description": "Any part, component, accessory, attachment, equipment, or system that (MT for those articles designated as such):",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Is classified;"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contains classified software directly related to defense articles in this subchapter or 600 series items subject to the EAR; or"
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Is being developed using classified information."
+              }
+            ]
+          },
+          {
+            "Label": "Note to paragraph (g):",
+            "Description": "Parts, components, accessories, attachments, associated equipment, and systems specially designed for vehicles in this category but not listed in paragraph (g) are subject to the EAR under ECCN 0A606."
+          }
+        ]
+      },
+      {
+        "Label": "(h)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter ) and defense services (see \u00a7 120.32 of this subchapter ) directly related to the defense articles described in paragraphs (a) through (g) of this category and classified technical data directly related to items controlled in ECCNs 0A606, 0B606, 0C606, and 0D606 and defense services using the classified technical data. (See \u00a7 125.4 of this subchapter for exemptions.) (MT for technical data and defense services related to articles designated as such.)"
+      },
+      {
+        "Label": "(i)-(w)",
+        "Description": "[Reserved]"
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technical data subject to the EAR used in or with defense articles."
+      },
+      {
+        "Label": "Note to paragraph (x):",
+        "Description": "Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technical data subject to the EAR (see \u00a7 123.1(b) of this subchapter )."
+      },
+      {
+        "Label": "Note 1 to Category VII:",
+        "Description": "Ground vehicles specially designed for military applications that are not identified in this category are subject to the EAR under ECCN 0A606, including any unarmed ground vehicles, regardless of origin or designation, manufactured prior to 1956 and unmodified since 1955. Ground vehicles with modifications made to incorporate safety features required by law, are cosmetic (e.g., different paint, repositioning of bolt holes), or that add parts or components otherwise available prior to 1956 are considered \u201cunmodified\u201d for the purposes of this paragraph. ECCN 0A606 also includes unarmed vehicles derived from otherwise EAR99 civilian vehicles that have been modified or otherwise fitted with materials to provide ballistic protection, including protection to level III (National Institute of Justice Standard 0108.01, September 1985) or better and that do not have reactive or electromagnetic armor."
+      },
+      {
+        "Label": "Note 2 to Category VII:",
+        "Description": "Armored ground vehicles are (i) ground vehicles that have integrated, fully armored hulls or cabs, or (ii) ground vehicles on which add-on armor has been installed to provide ballistic protection to level III (National Institute of Justice Standard 0108.01, September 1985) or better. Armored support vehicles do not include those that are merely capable of being equipped with add-on armor."
+      },
+      {
+        "Label": "Note 3 to Category VII:",
+        "Description": "Ground vehicles include any vehicle meeting the definitions or control parameters regardless of the surface (e.g., highway, off-road, rail) upon which the vehicle is designed to operate."
+      }
+    ]
+  },
+  {
+    "Label": "VIII",
+    "Description": "Aircraft and Related Articles",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Aircraft, whether manned, unmanned, remotely piloted, or optionally piloted, as follows (MT if the aircraft, excluding manned aircraft, has a range equal to or greater than 300 km):",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Bombers",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Fighters, fighter bombers, and fixed-wing attack aircraft",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Turbofan- or turbojet-powered trainers used to train pilots for fighter, attack, or bomber aircraft",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Attack helicopters",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Unmanned aerial vehicles (UAVs) specially designed to incorporate a defense article",
+            "SubStructures": []
+          },
+          {
+            "Label": "(6)",
+            "Description": "[Reserved]",
+            "SubStructures": []
+          },
+          {
+            "Label": "(7)",
+            "Description": "Aircraft specially designed to incorporate a defense article for the purpose of performing an intelligence, surveillance, and reconnaissance function",
+            "SubStructures": []
+          },
+          {
+            "Label": "(8)",
+            "Description": "Aircraft specially designed to incorporate a defense article for the purpose of performing an electronic warfare function; airborne warning and control aircraft; or aircraft specially designed to incorporate a defense article for the purpose of performing a command, control, and communications function",
+            "SubStructures": []
+          },
+          {
+            "Label": "(9)",
+            "Description": "Aircraft specially designed to incorporate a defense article for the purpose of performing an air refueling function",
+            "SubStructures": []
+          },
+          {
+            "Label": "(10)",
+            "Description": "Target drones",
+            "SubStructures": []
+          },
+          {
+            "Label": "(11)",
+            "Description": "[Reserved]",
+            "SubStructures": []
+          },
+          {
+            "Label": "(12)",
+            "Description": "Aircraft capable of being refueled in-flight including hover-in-flight refueling (HIFR)",
+            "SubStructures": []
+          },
+          {
+            "Label": "(13)",
+            "Description": "[Reserved]",
+            "SubStructures": []
+          },
+          {
+            "Label": "(14)",
+            "Description": "Aircraft with a roll-on/roll-off ramp, capable of airlifting payloads over 35,000 lbs. to ranges over 2,000 nm without being refueled in-flight, and landing onto short or unimproved airfields, other than L-100 and LM-100J aircraft",
+            "SubStructures": []
+          },
+          {
+            "Label": "(15)",
+            "Description": "Aircraft not enumerated in paragraphs (a)(1) through (a)(14) as follows:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "U.S.-origin aircraft that bear an original military designation of A, B, E, F, K, M, P, R, or S; or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Foreign-origin aircraft specially designed to provide functions equivalent to those of the aircraft listed in paragraph (a)(15)(i) of this category; or",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(16)",
+            "Description": "Aircraft that are armed or are specially designed to be used as a platform to deliver munitions or otherwise destroy targets (e.g., firing lasers, launching rockets, firing missiles, dropping bombs, or strafing)",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(b)-(c)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "Launching and recovery equipment specially designed to allow an aircraft described in paragraph (a) of this category to take off or land on a vessel described in Category VI paragraphs (a) through (c) (MT if the launching and recovery equipment is for an aircraft, excluding manned aircraft, that has a range equal to or greater than 300 km)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(e)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(f)",
+        "Description": "Developmental aircraft funded by the Department of Defense via contract or other funding authorization, and specially designed parts, components, accessories, and attachments therefor.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(g)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(h)",
+        "Description": "Parts, components, accessories, attachments, associated equipment and systems, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Parts, components, accessories, and attachments specially designed for the following U.S.-origin aircraft: The B-1B, B-2, B-21, F-15SE, F/A-18 E/F, EA-18G, F-22, F-35, and future variants thereof; or the F-117 or U.S. Government technology demonstrators. Parts, components, accessories, and attachments of the F-15SE and F/A-18 E/F that are common to earlier models of these aircraft, unless listed in paragraph (h) of this category, are subject to the EAR;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Rotorcraft gearboxes with internal pitch line velocities exceeding 20,000 feet per minute and able to operate 30 minutes with loss of lubrication without an emergency or auxiliary lubrication system, and specially designed parts and components therefor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Tail boom folding systems, stabilator folding systems or automatic rotor blade folding systems, and specially designed parts and components therefor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Wing folding systems, and specially designed parts and components therefor, for:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Aircraft powered by power plants controlled under USML Category IV(d); or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Aircraft with any of the following characteristics and powered by gas turbine engines:",
+                "SubStructures": [
+                  {
+                    "Label": "(A)",
+                    "Description": "The portion of the wing outboard of the wing fold is required for sustained flight",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(B)",
+                    "Description": "Fuel can be stored outboard of the wing fold",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(C)",
+                    "Description": "Control surfaces are outboard of the wing fold",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(D)",
+                    "Description": "Hard points are outboard of the wing fold",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(E)",
+                    "Description": "Hard points inboard of the wing fold allow for in-flight ejection; or",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(F)",
+                    "Description": "The aircraft is designed to withstand maximum vertical maneuvering accelerations greater than +3.5g/\u22121.5g",
+                    "SubStructures": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Label": "(5)",
+            "Description": "On-aircraft arresting gear (e.g., tail hooks and drag chutes) and specially designed parts and components therefor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(6)",
+            "Description": "Bomb racks, missile or rocket launchers, missile rails, weapon pylons, pylon-to-launcher adapters, unmanned aerial vehicle (UAV) airborne launching systems, external stores support systems for ordnance or weapons, and specially designed parts and components therefor (MT if the bomb rack, missile launcher, missile rail, weapon pylon, pylon-to-launcher adapter, UAV airborne launching system, or external stores support system is for an aircraft, excluding manned aircraft, or missile that has a \u201crange\u201d equal to or greater than 300 km);",
+            "SubStructures": []
+          },
+          {
+            "Label": "(7)",
+            "Description": "Damage or failure-adaptive flight control systems, that do not consist solely of redundant internal circuitry, specially designed for aircraft controlled in this category;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(8)",
+            "Description": "Threat-adaptive autonomous flight control systems, where a \u201cthreat-adaptive autonomous flight control system\u201d is a flight control system that, without input from the operator or pilot, adjusts the aircraft control or flight path to minimize risk caused by hostile threats;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(9)",
+            "Description": "Non-surface-based flight control systems and effectors (e.g., thrust vectoring from gas ports other than main engine thrust vector);",
+            "SubStructures": []
+          },
+          {
+            "Label": "(10)",
+            "Description": "Radar altimeters with output power management LPI (low probability of intercept) or signal modulation (i.e., frequency hopping, chirping, direct sequence-spectrum spreading) LPI capabilities (MT if for an aircraft, excluding manned aircraft, or missile that has a \u201crange\u201d equal to or greater than 300 km);",
+            "SubStructures": []
+          },
+          {
+            "Label": "(11)",
+            "Description": "Air-to-air refueling systems and hover-in-flight refueling (HIFR) systems, and specially designed parts and components therefor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(12)",
+            "Description": "Unmanned aerial vehicle (UAV) flight control systems and vehicle management systems with swarming capability (i.e. UAVs that operate autonomously (without human input) to interact with each other to avoid collisions, fly in formations, and are capable of adapting in real-time to changes in operational/threat environment, or, if weaponized, coordinate targeting) (MT if for an aircraft, excluding manned aircraft, or missile that has a \u201crange\u201d equal to or greater than 300 km);",
+            "SubStructures": []
+          },
+          {
+            "Label": "(13)",
+            "Description": "[Reserved]",
+            "SubStructures": []
+          },
+          {
+            "Label": "(14)",
+            "Description": "Lift fans, clutches, and roll posts for short take-off, vertical landing (STOVL) aircraft and specially designed parts and components for such lift fans and roll posts;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(15)",
+            "Description": "Integrated helmets incorporating optical sights or slewing devices, which include the ability to aim, launch, track, or manage munitions (e.g., Helmet Mounted Cueing Systems, Joint Helmet Mounted Cueing Systems (JHMCS), Helmet Mounted Displays, Display and Sight Helmets (DASH)), and specially designed parts, components, accessories, and attachments therefor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(16)",
+            "Description": "Fire control computers, stores management systems, armaments control processors, and aircraft-weapon interface units and computers (e.g., AGM-88 HARM Aircraft Launcher Interface Computer (ALIC));",
+            "SubStructures": []
+          },
+          {
+            "Label": "(17)",
+            "Description": "Mission computers, vehicle management computers, and integrated core processers specially designed for aircraft controlled in this category;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(18)",
+            "Description": "Drive systems, flight control systems, and parts and components therefor, specially designed to function after impact of a 7.62mm or larger projectile;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(19)",
+            "Description": "Thrust reversers specially designed to be deployed in flight for aircraft controlled in this category;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(20)",
+            "Description": "Any part, component, accessory, attachment, equipment, or system that:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Is classified;",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contains classified software directly related to defense articles in this subchapter or 600 series items subject to the EAR; or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Is being developed using classified information.",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(21)-(26)",
+            "Description": "[Reserved]",
+            "SubStructures": []
+          },
+          {
+            "Label": "(27)",
+            "Description": "Variable speed gearboxes, where a \u201cvariable speed gearbox\u201d has the ability to vary the gearbox output speed by mechanical means within the gearbox while the gearbox input speed from the engine or other source is constant, and is capable of varying output speed by 20% or greater and providing power to rotors, proprotors, propellers, propfans, or liftfans; and specially designed parts and components therefor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(28)",
+            "Description": "Electrical power or thermal management systems specially designed for an engine controlled in Category XIX and having any of the following:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Electrical power generators that provide greater than 300kW of electrical power (per generator) with gravimetric power densities exceeding 2kW/pound (excluding the mass of the controller for the purpose of calculating the gravimetric power density);",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Heat exchangers that exchange 60 kW/K-m3 or 1 kW/K of heat or greater into the gas turbine engine flow path; or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Direct-cooling thermal electronic package heat exchangers that transfer 20kW of heat or greater at 100W/cm2 or greater.",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(29)",
+            "Description": "Any of the following equipment if specially designed for a defense article described in paragraph (h)(1):",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Scale test models;",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Full scale iron bird ground rigs used to test major aircraft systems; or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Jigs, locating fixtures, templates, gauges, molds, dies, or caul plates.",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(i)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles described in paragraphs (a) through (h) of this category and classified technical data directly related to items controlled in ECCNs 9A610, 9B610, 9C610, and 9D610 and defense services using classified technical data. (See \u00a7 125.4 of this subchapter for exemptions.) (MT for technical data and defense services related to articles designated as such.)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(j)-(w)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technology subject to the EAR used in or with defense articles controlled in this category.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "IX",
+    "Description": "Military Training Equipment and Training",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Training equipment, as follows",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Ground, surface, submersible, space, or towed airborne targets that",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Have an infrared, radar, acoustic, magnetic, or thermal signature that mimic a specific defense article, specific other item, or specific person"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Are instrumented to provide hit/miss performance information for defense articles controlled in this subchapter"
+              }
+            ]
+          },
+          {
+            "Label": "(2)",
+            "Description": "Devices that are mockups of articles enumerated in this subchapter used for maintenance training or disposal training for ordnance enumerated in this subchapter, that reveal technical data or contain parts, components, accessories, or attachments controlled in this subchapter"
+          },
+          {
+            "Label": "(3)",
+            "Description": "Air combat maneuvering instrumentation and ground stations therefor"
+          },
+          {
+            "Label": "(4)",
+            "Description": "Physiological flight trainers for fighter aircraft or attack helicopters"
+          },
+          {
+            "Label": "(5)",
+            "Description": "Radar trainers specially designed for training on radar controlled by USML Category XI"
+          },
+          {
+            "Label": "(6)",
+            "Description": "Training devices specially designed to be attached to a crew station, mission system, or weapon of an article controlled in this subchapter"
+          },
+          {
+            "Label": "(7)",
+            "Description": "Anti-submarine warfare trainers"
+          },
+          {
+            "Label": "(8)",
+            "Description": "Missile launch trainers"
+          },
+          {
+            "Label": "(9)",
+            "Description": "Radar target generators"
+          },
+          {
+            "Label": "(10)",
+            "Description": "Infrared scene generators"
+          },
+          {
+            "Label": "(11)",
+            "Description": "Any training device that",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Is classified"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contains classified software directly related to defense articles in this subchapter or 600 series items subject to the EAR"
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Is being developed using classified information"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(b)",
+        "Description": "Simulators, as follows",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "System specific simulators that replicate the operation of an individual crew station, a mission system, or a weapon of an end-item that is controlled in this subchapter"
+          },
+          {
+            "Label": "(4)",
+            "Description": "Software and associated databases not elsewhere enumerated in this subchapter that can be used to model or simulate the following",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Trainers enumerated in paragraph (a) of this category"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Battle management"
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Military test scenarios/models"
+              },
+              {
+                "Label": "(iv)",
+                "Description": "Effects of weapons enumerated in this subchapter"
+              }
+            ]
+          },
+          {
+            "Label": "(5)",
+            "Description": "Simulators that",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Are classified"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contain classified software directly related to defense articles in this subchapter or 600 series items subject to the EAR"
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Are being developed using classified information"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(e)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter)",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Directly related to the defense articles enumerated in paragraphs (a) and (b) of this category"
+          },
+          {
+            "Label": "(2)",
+            "Description": "Directly related to the software and associated databases enumerated in paragraph (b)(4) of this category even if no defense articles are used or transferred"
+          },
+          {
+            "Label": "(3)",
+            "Description": "Military training (see \u00a7 120.32(a)(3) of this subchapter) not directly related to defense articles or technical data enumerated in this subchapter"
+          }
+        ]
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technical data subject to the EAR used in or with defense articles"
+      }
+    ]
+  },
+  {
+    "Label": "Category X",
+    "Description": "Personal Protective Equipment",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Personal protective equipment, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Body armor providing a protection level equal to or greater than NIJ Type IV;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Personal protective clothing, equipment, or face paints specially designed to protect against or reduce detection by radar, IR, or other sensors at wavelengths greater than 900 nanometers;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)-(4)",
+            "Description": "[Reserved]",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Integrated helmets, not specified in USML Category VIII(h)(15) or USML Category XII, incorporating optical sights or slewing devices, which include the ability to aim, launch, track, or manage munitions;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(6)",
+            "Description": "Helmets and helmet shells providing a protection level equal to or greater than NIJ Type IV;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(7)",
+            "Description": "Goggles, spectacles, visors, vision blocks, canopies, or filters for optical sights or viewers, employing other than common broadband absorptive dyes or UV inhibitors as a means of protection (e.g., narrow band filters/dyes or broadband limiters/coatings with high visible transparency), having an optical density greater than 3, and that protect against:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Multiple visible (in-band) laser wavelengths;",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Thermal flashes associated with nuclear detonations; or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Near infrared or ultraviolet (out-of-band) laser wavelengths; or",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(8)",
+            "Description": "Developmental personal protective equipment and specially designed parts, components, accessories, and attachments therefor, developed for the U.S. Department of Defense via contract or other funding authorization.",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(b)-(c)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "Parts, components, assemblies, accessories, attachments, and associated equipment for the personal protective equipment controlled in this category, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Ceramic or composite plates that provide protection equal to or greater than NIJ Type IV;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Lenses, substrates, or filters \u201cspecially designed\u201d for the articles covered in paragraph (a)(7) of this category;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Materials and coatings specially designed for the articles covered in paragraph (a)(7) of this category with optical density greater than 3, as follows:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Narrowband absorbing dyes;",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Broadband optical switches or limiters (i.e.,nonlinear material, tunable or switchable agile filters, optical power limiters, near infrared interference based filters); or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Narrowband interference based notch filters (i.e.,multi-layer dielectric coatings, rugate, holograms or hybrid (i.e., interference with dye)) protecting against multiple laser wavelength and having high visible band transparency; or",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(4)",
+            "Description": "Any component, part, accessory, attachment, equipment, or system that:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Is classified;",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Contains classified software directly related to defense articles in this subchapter or 600 series items subject to the EAR; or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Is being developed using classified information.",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(e)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles described in paragraphs (a) through (d) of this category.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(f)-(w)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technical data subject to the EAR used in or with defense articles.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Category XI",
+    "Description": "Military Electronics",
+    "SubStructures": []
+  },
+  {
+    "Label": "Category XII",
+    "Description": "Fire Control, Laser, Imaging, and Guidance Equipment",
+    "SubStructures": []
+  },
+  {
+    "Label": "Category: XIII",
+    "Description": "Title: Materials and Miscellaneous Articles",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(b)",
+        "Description": "Information security or information assurance systems and equipment, cryptographic devices, software, and components, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Military or intelligence cryptographic (including key management) systems, equipment, assemblies, modules, integrated circuits, components, and software (including their cryptographic interfaces) capable of maintaining secrecy or confidentiality of information or information systems, including equipment or software for tracking, telemetry, and control (TT&C) encryption and decryption;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Military or intelligence cryptographic (including key management) systems, equipment, assemblies, modules, integrated circuits, components, and software (including their cryptographic interfaces) capable of generating spreading or hopping codes for spread spectrum systems or equipment;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Military or intelligence cryptanalytic systems, equipment, assemblies, modules, integrated circuits, components and software;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Military or intelligence systems, equipment, assemblies, modules, integrated circuits, components, or software (including all previous or derived versions) authorized to control access to or transfer data between different security domains as listed on the Unified Cross Domain Management Office (UCDMO) Control List (UCL); or",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Ancillary equipment specially designed for the articles in paragraphs (b)(1)-(b)(4) of this category.",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(c)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "Materials, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Ablative materials fabricated or semi-fabricated from advanced composites (e.g., silica, graphite, carbon, carbon/carbon, and boron filaments) specially designed for the articles in USML Category IV or XV (MT if usable for nozzles, re-entry vehicles, nose tips, or nozzle flaps usable in rockets, space launch vehicles (SLVs), or missiles capable of achieving a range greater than or equal to 300 km); or",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Carbon/carbon billets and preforms that are reinforced with continuous unidirectional fibers, tows, tapes, or woven cloths in three or more dimensional planes (MT if designed for rocket, SLV, or missile systems and usable in rockets, SLVs, or missiles capable of achieving a range greater than or equal to 300 km).",
+            "SubStructures": []
+          },
+          {
+            "Label": "Note to paragraph (d)",
+            "Description": "\u201cRange\u201d is the maximum distance that the specified rocket system is capable of traveling in the mode of stable flight as measured by the projection of its trajectory over the surface of the Earth. The maximum capability based on the design characteristics of the system, when fully loaded with fuel or propellant, will be taken into consideration in determining range. The range for rocket systems will be determined independently of any external factors such as operational restrictions, limitations imposed by telemetry, data links, or other external constraints. For rocket systems, the range will be determined using the trajectory that maximizes range, assuming International Civil Aviation Organization (ICAO) standard atmosphere with zero wind.",
+            "SubStructures": []
+          },
+          {
+            "Label": "Note to paragraph (d)(2)",
+            "Description": "This paragraph does not control carbon/carbon billets and preforms where reinforcement in the third dimension is limited to interlocking of adjacent layers only.",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(e)",
+        "Description": "Armor (e.g., organic, ceramic, metallic) and armor materials, as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Spaced armor with Em greater than 1.4 and meeting NIJ Level III or better;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Transparent armor having Em greater than or equal to 1.3 or having Em less than 1.3 and meeting and exceeding NIJ Level III standards with areal density less than or equal to 40 pounds per square foot;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Transparent ceramic plate greater than 1\u20444 inch-thick and larger than 8 inches \u00d7 8 inches, excluding glass, for transparent armor;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Non-transparent ceramic plate or blanks, greater than 1\u20444 inches thick and larger than 8 inches \u00d7 8 inches for transparent armor. This includes spinel and aluminum oxynitride (ALON);",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Composite armor with Em greater than 1.4 and meeting or exceeding NIJ Level III;",
+            "SubStructures": []
+          },
+          {
+            "Label": "(6)",
+            "Description": "Metal laminate armor with Em greater than 1.4 and meeting or exceeding NIJ Level III; or",
+            "SubStructures": []
+          },
+          {
+            "Label": "(7)",
+            "Description": "Developmental armor funded by the Department of Defense via contract or other funding authorization.",
+            "SubStructures": []
+          },
+          {
+            "Label": "Note 1 to paragraph (e)(7)",
+            "Description": "This paragraph does not control armor (a) in production, (b) determined to be subject to the EAR via a commodity jurisdiction determination, or (c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications.",
+            "SubStructures": []
+          },
+          {
+            "Label": "Note 2 to paragraph (e)(7)",
+            "Description": "Note 1 does not apply to defense articles enumerated on the USML, whether in production or development.",
+            "SubStructures": []
+          },
+          {
+            "Label": "Note 3 to paragraph (e)(7)",
+            "Description": "This provision is applicable to those contracts and funding authorizations that are dated July 8, 2014, or later.",
+            "SubStructures": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "Category: XIV",
+    "Description": "Toxicological Agents, Including Chemical Agents, Biological Agents, and Associated Equipment",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Chemical agents, as follows",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Nerve agents, as follows",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonofluoridates, such as: Sarin (GB): O-Isopropyl methylphosphonofluoridate (CAS 107-44-8) (CWC Schedule 1A); and Soman (GD): O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0) (CWC Schedule 1A)",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, such as: Tabun (GA): O-Ethyl N, N-dimethylphosphoramidocyanidate (CAS 77-81-6) (CWC Schedule 1A); or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, such as VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9) (CWC Schedule 1A)",
+                "SubStructures": []
+              }
+            ]
+          },
+          {
+            "Label": "(2)",
+            "Description": "Amiton: O,O-Diethyl S-[2(diethylamino)ethyl] phosphorothiolate and corresponding alkylated or protonated salts (CAS 78-53-5) (CWC Schedule 2A)",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Vesicant agents, as follows",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Sulfur mustards, such as: 2-Chloroethylchloromethylsulfide (CAS 2625-76-5) (CWC Schedule 1A); Bis(2-chloroethyl)sulfide (HD) (CAS 505-60-2) (CWC Schedule 1A); Bis(2-chloroethylthio)methane (CAS 63839-13-6) (CWC Schedule 1A); 1,2-bis (2-chloroethylthio)ethane (CAS 3563-36-8) (CWC Schedule 1A); 1,3-bis (2-chloroethylthio)-n-propane (CAS 63905-10-2) (CWC Schedule 1A); 1,4-bis (2-chloroethylthio)-n-butane (CWC Schedule 1A); 1,5-bis (2-chloroethylthio)-n-pentane (CWC Schedule 1A); Bis (2-chloroethylthiomethyl)ether (CWC Schedule 1A); Bis (2-chloroethylthioethyl)ether (CAS 63918-89-8) (CWC Schedule 1A)",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Lewisites, such as: 2-chlorovinyldichloroarsine (CAS 541-25-3) (CWC Schedule 1A); Tris (2-chlorovinyl) arsine (CAS 40334-70-1) (CWC Schedule 1A); Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8) (CWC Schedule 1A)",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Nitrogen mustards, or their protonated salts, as follows",
+                "SubStructures": [
+                  {
+                    "Label": "(A)",
+                    "Description": "HN1: Bis (2-chloroethyl) ethylamine (CAS 538-07-8) (CWC Schedule 1A)",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(B)",
+                    "Description": "HN2: Bis (2-chloroethyl) methylamine (CAS 51-75-2) (CWC Schedule 1A)",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(C)",
+                    "Description": "HN3: Tris (2-chloroethyl) amine (CAS 555-77-1) (CWC Schedule 1A); or",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "(D)",
+                    "Description": "Other nitrogen mustards, or their salts, having a propyl, isopropyl, butyl, isobutyl, or tertiary butyl group on the bis(2-chloroethyl) amine base",
+                    "SubStructures": []
+                  }
+                ]
+              },
+              {
+                "Label": "(iv)",
+                "Description": "Ethyldichloroarsine (ED) (CAS 598-14-1); or",
+                "SubStructures": []
+              },
+              {
+                "Label": "(v)",
+                "Description": "Methyldichloroarsine (MD) (CAS 593-89-5)",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(b)",
+        "Description": "Biological agents and biologically derived substances and genetic elements thereof as follows",
+        "SubStructures": []
+      },
+      {
+        "Label": "(c)",
+        "Description": "Chemical agent binary precursors and key precursors, as follows",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(e)",
+        "Description": "Defoliants, as follows",
+        "SubStructures": []
+      },
+      {
+        "Label": "(f)",
+        "Description": "Parts, components, accessories, attachments, associated equipment, materials, and systems, as follows",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "Category XV",
+    "Description": "Spacecraft and Related Articles",
+    "SubStructures": []
+  },
+  {
+    "Label": "XVI",
+    "Description": "Nuclear Weapons Related Articles",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(b)",
+        "Description": "Modeling or simulation tools that model or simulate the environments generated by nuclear detonations or the effects of these environments on systems, subsystems, components, structures, or humans.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(c)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "Parts, components, accessories, attachments, associated equipment, and production, testing, and inspection equipment and tooling, specially designed for the articles in paragraph (b) of this category.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(e)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles described in paragraph (b) of this category (see also \u00a7 120.5(c) of this subchapter for nuclear related controls).",
+        "SubStructures": []
+      },
+      {
+        "Label": "(f)-(w)",
+        "Description": "[Reserved]",
+        "SubStructures": []
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technical data subject to the EAR used in or with defense articles.",
+        "SubStructures": [
+          {
+            "Label": "Note to paragraph (x)",
+            "Description": "Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technical data subject to the EAR (see \u00a7 123.1(b) of this subchapter).",
+            "SubStructures": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "XVII",
+    "Description": "Classified Articles, Technical Data, and Defense Services Not Otherwise Enumerated",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "All articles, and technical data (see \u00a7 120.33 of this subchapter ) and defense services (see \u00a7 120.32 of this subchapter ) relating thereto, that are classified in the interests of national security and that are not otherwise enumerated on the U.S. Munitions List.",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "XVIII",
+    "Description": "Directed Energy Weapons",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Directed energy weapons as follows",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Systems or equipment that, other than as a result of incidental, accidental, or collateral effect",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Degrade, destroy or cause mission-abort of a target"
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Disturb, disable, or damage electronic circuitry, sensors or explosive devices remotely"
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Deny area access"
+              },
+              {
+                "Label": "(iv)",
+                "Description": "Cause lethal effects"
+              },
+              {
+                "Label": "(v)",
+                "Description": "Cause ocular disruption or blindness"
+              }
+            ]
+          },
+          {
+            "Label": "(2)",
+            "Description": "Use any non-acoustic technique such as lasers (including continuous wave or pulsed lasers), particle beams, particle accelerators that project a charged or neutral particle beam, high power radio-frequency (RF), or high pulsed power or high average power radio frequency beam transmitters"
+          }
+        ]
+      },
+      {
+        "Label": "(b)",
+        "Description": "Systems or equipment specially designed to detect, identify, or provide defense against articles specified in paragraph (a) of this category"
+      },
+      {
+        "Label": "(c)-(d)",
+        "Description": "[Reserved]"
+      },
+      {
+        "Label": "(e)",
+        "Description": "Components, parts, accessories, attachments, systems or associated equipment specially designed for any of the articles in paragraphs (a) or (b) of this category"
+      },
+      {
+        "Label": "(f)",
+        "Description": "Developmental directed energy weapons funded by the Department of Defense via contract or other funding authorization, and specially designed parts and components therefor",
+        "SubStructures": [
+          {
+            "Label": "Note 1 to paragraph (f)",
+            "Description": "This paragraph does not control directed energy weapons (a) in production, (b) determined to be subject to the EAR via a commodity jurisdiction determination, or (c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications"
+          },
+          {
+            "Label": "Note 2 to paragraph (f)",
+            "Description": "Note 1 does not apply to defense articles enumerated on the USML, whether in production or development"
+          },
+          {
+            "Label": "Note 3 to paragraph (f)",
+            "Description": "This paragraph is applicable only to those contracts and funding authorizations that are dated July 28, 2017, or later"
+          }
+        ]
+      },
+      {
+        "Label": "(g)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (e) of this category"
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technology subject to the EAR used in or with defense articles controlled in this category",
+        "SubStructures": [
+          {
+            "Label": "Note to paragraph (x)",
+            "Description": "Use of this paragraph is limited to license applications for defense articles controlled in this category where the purchase documentation includes commodities, software, or technology subject to the EAR (see \u00a7 123.1(b) of this subchapter)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "Category XIX",
+    "Description": "Gas Turbine Engines and Associated Equipment",
+    "SubStructures": []
+  },
+  {
+    "Label": "XX",
+    "Description": "Submersible Vessels and Related Articles",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Submersible and semi-submersible vessels that are:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Submarines specially designed for military use",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Mine countermeasure vehicles",
+            "SubStructures": []
+          },
+          {
+            "Label": "(3)",
+            "Description": "Anti-submarine warfare vehicles",
+            "SubStructures": []
+          },
+          {
+            "Label": "(4)",
+            "Description": "Armed or are specially designed to be used as a platform to deliver munitions or otherwise destroy or incapacitate targets (e.g., firing torpedoes, launching rockets, firing missiles, deploying mines, deploying countermeasures) or deploy military payloads",
+            "SubStructures": []
+          },
+          {
+            "Label": "(5)",
+            "Description": "Swimmer delivery vehicles specially designed for the deployment, recovery, or support of swimmers or divers from submarines",
+            "SubStructures": []
+          },
+          {
+            "Label": "(6)",
+            "Description": "Integrated with nuclear propulsion systems",
+            "SubStructures": []
+          },
+          {
+            "Label": "(7)",
+            "Description": "Equipped with any mission systems controlled under this subchapter",
+            "SubStructures": []
+          },
+          {
+            "Label": "(8)",
+            "Description": "Developmental vessels funded by the Department of Defense via contract or other funding authorization",
+            "SubStructures": []
+          }
+        ]
+      },
+      {
+        "Label": "(b)",
+        "Description": "Engines, electric motors, and propulsion plants as follows:",
+        "SubStructures": [
+          {
+            "Label": "(1)",
+            "Description": "Naval nuclear propulsion plants and prototypes, and special facilities for construction, support, and maintenance therefor (see also\n\u00a7 120.5(c) of this subchapter\nfor nuclear related controls)",
+            "SubStructures": []
+          },
+          {
+            "Label": "(2)",
+            "Description": "Electric motors specially designed for submarines that have the following:",
+            "SubStructures": [
+              {
+                "Label": "(i)",
+                "Description": "Power output of more than 0.75 MW (1,000 hp)",
+                "SubStructures": []
+              },
+              {
+                "Label": "(ii)",
+                "Description": "Quick reversing",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iii)",
+                "Description": "Liquid cooled",
+                "SubStructures": []
+              },
+              {
+                "Label": "(iv)",
+                "Description": "Totally enclosed",
+                "SubStructures": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Label": "(c)",
+        "Description": "Parts, components, accessories, attachments, and associated equipment, including production, testing, and inspection equipment and tooling, specially designed for any of the articles in paragraphs (a) and (b) of this category (MT for launcher mechanisms specially designed for rockets, space launch vehicles, or missiles capable of achieving a range greater than or equal to 300 km)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(d)",
+        "Description": "Technical data (see\n\u00a7 120.33 of this subchapter\n) and defense services (see\n\u00a7 120.32 of this subchapter\n) directly related to the defense articles described in paragraphs (a) through (c) of this category. (MT for technical data and defense services related to articles designated as such.) (See\n\u00a7 125.4 of this subchapter\nfor exemptions.)",
+        "SubStructures": []
+      },
+      {
+        "Label": "(x)",
+        "Description": "Commodities, software, and technical data subject to the EAR used in or with defense articles",
+        "SubStructures": []
+      }
+    ]
+  },
+  {
+    "Label": "XXI",
+    "Description": "Articles, Technical Data, and Defense Services Not Otherwise Enumerated",
+    "SubStructures": [
+      {
+        "Label": "(a)",
+        "Description": "Any article not enumerated on the U.S. Munitions List may be included in this category until such time as the appropriate U.S. Munitions List category is amended. The decision on whether any article may be included in this category, and the designation of the defense article as not Significant Military Equipment, shall be made by the Director, Office of Defense Trade Controls Policy.",
+        "SubStructures": []
+      },
+      {
+        "Label": "(b)",
+        "Description": "Technical data (see \u00a7 120.33 of this subchapter) and defense services (see \u00a7 120.32 of this subchapter) directly related to the defense articles covered in paragraph (a) of this category.",
+        "SubStructures": []
+      }
+    ]
+  }
+]

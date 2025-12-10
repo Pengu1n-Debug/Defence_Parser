@@ -429,37 +429,38 @@
                   {
                     "Label": "i.",
                     "Description": "Equipment and components, specially designed or prepared for plasma separation process, as follows:",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "1.",
-                    "Description": "Microwave power sources and antennae for producing or accelerating ions, with an output frequency greater than 30 GHz and mean power output for ion production greater than 50 kW;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "2.",
-                    "Description": "Radio frequency ion excitation coils for frequencies of more than 100 kHz and capable of handling more than 40 kW mean power;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "3.",
-                    "Description": "Uranium plasma generation systems;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "4.",
-                    "Description": "Not used;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "5.",
-                    "Description": "Product and tails collector assemblies for uranium metal in solid form, made of or protected by materials resistant to the heat and corrosion of uranium vapour such as yttria-coated graphite or tantalum;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "6.",
-                    "Description": "Separator module housings (cylindrical) for containing the uranium plasma source, radio-frequency drive coil and the product and tails collectors and made of a suitable non-magnetic material (e.g. stainless steel);",
-                    "SubStructures": []
+                    "SubStructures": [
+                      {
+                        "Label": "1.",
+                        "Description": "Microwave power sources and antennae for producing or accelerating ions, with an output frequency greater than 30 GHz and mean power output for ion production greater than 50 kW;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "2.",
+                        "Description": "Radio frequency ion excitation coils for frequencies of more than 100 kHz and capable of handling more than 40 kW mean power;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "3.",
+                        "Description": "Uranium plasma generation systems;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "4.",
+                        "Description": "Not used;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "5.",
+                        "Description": "Product and tails collector assemblies for uranium metal in solid form, made of or protected by materials resistant to the heat and corrosion of uranium vapour such as yttria-coated graphite or tantalum;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "6.",
+                        "Description": "Separator module housings (cylindrical) for containing the uranium plasma source, radio-frequency drive coil and the product and tails collectors and made of a suitable non-magnetic material (e.g. stainless steel);",
+                        "SubStructures": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -823,13 +824,12 @@
               {
                 "Label": "b.",
                 "Description": "Not used;",
-                "SubStructures": [
-                  {
-                    "Label": "c.",
-                    "Description": "Not used;",
-                    "SubStructures": []
-                  }
-                ]
+                "SubStructures": []
+              },
+              {
+                "Label": "c.",
+                "Description": "Not used;",
+                "SubStructures": []
               }
             ]
           },
@@ -905,57 +905,57 @@
               {
                 "Label": "a.",
                 "Description": "Full face masks, filter canisters and decontamination equipment therefor, designed or modified for defence against any of the following, and specially designed components therefor:",
-                "SubStructures": []
-              }
-            ]
-          },
-          {
-            "Label": "1.",
-            "Description": "“Biological agents”;",
-            "SubStructures": [
-              {
-                "Label": "2.",
-                "Description": "‘Radioactive materials’;",
-                "SubStructures": []
-              },
-              {
-                "Label": "3.",
-                "Description": "Chemical warfare (CW) agents; or",
-                "SubStructures": []
-              },
-              {
-                "Label": "4.",
-                "Description": "“Riot control agents”, including:",
                 "SubStructures": [
                   {
-                    "Label": "a.",
-                    "Description": "-Bromobenzeneacetonitrile, (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);",
+                    "Label": "1.",
+                    "Description": "“Biological agents”;",
                     "SubStructures": []
                   },
                   {
-                    "Label": "b.",
-                    "Description": "[(2-chlorophenyl) methylene] propanedinitrile, (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);",
+                    "Label": "2.",
+                    "Description": "‘Radioactive materials’;",
                     "SubStructures": []
                   },
                   {
-                    "Label": "c.",
-                    "Description": "2-Chloro-1-phenylethanone, Phenylacyl chloride (-chloroacetophenone) (CN) (CAS 532-27-4);",
+                    "Label": "3.",
+                    "Description": "Chemical warfare (CW) agents; or",
                     "SubStructures": []
                   },
                   {
-                    "Label": "d.",
-                    "Description": "Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "e.",
-                    "Description": "10-Chloro-5,10-dihydrophenarsazine, (Phenarsazine chloride), (Adamsite), (DM) (CAS 578-94-9);",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "f.",
-                    "Description": "N-Nonanoylmorpholine, (MPA) (CAS 5299-64-9);",
-                    "SubStructures": []
+                    "Label": "4.",
+                    "Description": "“Riot control agents”, including:",
+                    "SubStructures": [
+                      {
+                        "Label": "a.",
+                        "Description": "-Bromobenzeneacetonitrile, (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "b.",
+                        "Description": "[(2-chlorophenyl) methylene] propanedinitrile, (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "c.",
+                        "Description": "2-Chloro-1-phenylethanone, Phenylacyl chloride (-chloroacetophenone) (CN) (CAS 532-27-4);",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "d.",
+                        "Description": "Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "e.",
+                        "Description": "10-Chloro-5,10-dihydrophenarsazine, (Phenarsazine chloride), (Adamsite), (DM) (CAS 578-94-9);",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "f.",
+                        "Description": "N-Nonanoylmorpholine, (MPA) (CAS 5299-64-9);",
+                        "SubStructures": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -1782,37 +1782,38 @@
                   {
                     "Label": "b.",
                     "Description": "A ‘low cycle fatigue life’ of 10,000 cycles or more at 723 K (450°C) at a maximum stress of 400 MPa;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "4.",
-                    "Description": "Aluminium alloys having any of the following:",
                     "SubStructures": [
                       {
-                        "Label": "a.",
-                        "Description": "A tensile strength of 240 MPa or more at 473 K (200°C); or",
-                        "SubStructures": []
+                        "Label": "4.",
+                        "Description": "Aluminium alloys having any of the following:",
+                        "SubStructures": [
+                          {
+                            "Label": "a.",
+                            "Description": "A tensile strength of 240 MPa or more at 473 K (200°C); or",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "b.",
+                            "Description": "A tensile strength of 415 MPa or more at 298 K (25°C);",
+                            "SubStructures": []
+                          }
+                        ]
                       },
                       {
-                        "Label": "b.",
-                        "Description": "A tensile strength of 415 MPa or more at 298 K (25°C);",
-                        "SubStructures": []
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "5.",
-                    "Description": "Magnesium alloys having all of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "a.",
-                        "Description": "A tensile strength of 345 MPa or more; and",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "b.",
-                        "Description": "A corrosion rate of less than 1 mm/year in 3% sodium chloride aqueous solution measured in accordance with ASTM standard G-31 or national equivalents;",
-                        "SubStructures": []
+                        "Label": "5.",
+                        "Description": "Magnesium alloys having all of the following:",
+                        "SubStructures": [
+                          {
+                            "Label": "a.",
+                            "Description": "A tensile strength of 345 MPa or more; and",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "b.",
+                            "Description": "A corrosion rate of less than 1 mm/year in 3% sodium chloride aqueous solution measured in accordance with ASTM standard G-31 or national equivalents;",
+                            "SubStructures": []
+                          }
+                        ]
                       }
                     ]
                   }
@@ -1897,12 +1898,13 @@
                   {
                     "Label": "h.",
                     "Description": "‘Plasma atomisation’; and",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "3.",
-                    "Description": "Capable of forming materials specified by 1C002.a. or 1C002.b.;",
-                    "SubStructures": []
+                    "SubStructures": [
+                      {
+                        "Label": "3.",
+                        "Description": "Capable of forming materials specified by 1C002.a. or 1C002.b.;",
+                        "SubStructures": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -2198,54 +2200,55 @@
                       {
                         "Label": "a.",
                         "Description": "Continuous fibres made from any of the following materials:",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "1.",
-                        "Description": "Al2O3 (CAS 1344-28-1); or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "Si-C-N; or",
                         "SubStructures": [
                           {
-                            "Label": "b.",
-                            "Description": "Fibres being all of the following:",
+                            "Label": "1.",
+                            "Description": "Al2O3 (CAS 1344-28-1); or",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "2.",
+                            "Description": "Si-C-N; or",
+                            "SubStructures": [
+                              {
+                                "Label": "b.",
+                                "Description": "Fibres being all of the following:",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "1.",
+                            "Description": "Made from any of the following materials:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "Si-N;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "Si-C;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "c.",
+                                "Description": "Si-Al-O-N; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "d.",
+                                "Description": "Si-O-N; and",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "2.",
+                            "Description": "Having a “specific tensile strength” exceeding 12.7 x 103m;",
                             "SubStructures": []
                           }
                         ]
-                      },
-                      {
-                        "Label": "1.",
-                        "Description": "Made from any of the following materials:",
-                        "SubStructures": [
-                          {
-                            "Label": "a.",
-                            "Description": "Si-N;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "b.",
-                            "Description": "Si-C;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "c.",
-                            "Description": "Si-Al-O-N; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "d.",
-                            "Description": "Si-O-N; and",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "Having a “specific tensile strength” exceeding 12.7 x 103m;",
-                        "SubStructures": []
                       }
                     ]
                   },
@@ -2296,12 +2299,13 @@
               {
                 "Label": "a.",
                 "Description": "Imides as follows:",
-                "SubStructures": []
-              },
-              {
-                "Label": "1.",
-                "Description": "Bismaleimides;",
-                "SubStructures": []
+                "SubStructures": [
+                  {
+                    "Label": "1.",
+                    "Description": "Bismaleimides;",
+                    "SubStructures": []
+                  }
+                ]
               }
             ]
           },
@@ -2674,16 +2678,17 @@
                       {
                         "Label": "d.",
                         "Description": "Mixed Oxides of Nitrogen (MON);",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "3.",
-                        "Description": "e.\tSEE MUNITIONS LIST FOR Inhibited Red Fuming Nitric Acid (IRFNA);",
                         "SubStructures": [
                           {
-                            "Label": "f.",
-                            "Description": "SEE MUNITIONS LIST AND 1C238 FOR Compounds composed of fluorine and one or more of other halogens, oxygen or nitrogen;",
-                            "SubStructures": []
+                            "Label": "3.",
+                            "Description": "e.\tSEE MUNITIONS LIST FOR Inhibited Red Fuming Nitric Acid (IRFNA);",
+                            "SubStructures": [
+                              {
+                                "Label": "f.",
+                                "Description": "SEE MUNITIONS LIST AND 1C238 FOR Compounds composed of fluorine and one or more of other halogens, oxygen or nitrogen;",
+                                "SubStructures": []
+                              }
+                            ]
                           }
                         ]
                       }
@@ -2787,12 +2792,13 @@
                       {
                         "Label": "a.",
                         "Description": "Mixed fuel that incorporates both solid and liquid fuels, such as boron slurry, having a mass-based energy density of 40 x 106 J/kg or greater;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "5.",
-                        "Description": "b.\tOther high energy density fuels and fuel additives (e.g. cubane, ionic solutions, JP–10) having a volume-based energy density of 37.5 x 109 J/m3 or greater, measured at 20oC and one atmosphere (101.325 kPa) pressure;",
-                        "SubStructures": []
+                        "SubStructures": [
+                          {
+                            "Label": "5.",
+                            "Description": "b.\tOther high energy density fuels and fuel additives (e.g. cubane, ionic solutions, JP–10) having a volume-based energy density of 37.5 x 109 J/m3 or greater, measured at 20oC and one atmosphere (101.325 kPa) pressure;",
+                            "SubStructures": []
+                          }
+                        ]
                       }
                     ]
                   },
@@ -2896,56 +2902,57 @@
                       {
                         "Label": "e.",
                         "Description": "Pentyl ferrocene (CAS 1274-00-6);",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "6.",
-                        "Description": "f.\tDicyclopentyl ferrocene;",
                         "SubStructures": [
                           {
-                            "Label": "g.",
-                            "Description": "Dicyclohexyl ferrocene;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "h.",
-                            "Description": "Diethyl ferrocene (CAS 1273–97–8);",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "i.",
-                            "Description": "Dipropyl ferrocene;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "j.",
-                            "Description": "Dibutyl ferrocene (CAS 1274-08-4);",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "k.",
-                            "Description": "Dihexyl ferrocene (CAS 93894-59-8);",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "l.",
-                            "Description": "Acetyl ferrocene (CAS 1271–55–2) / 1,1’-diacetyl ferrocene (CAS 1273–94–5);",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "m.",
-                            "Description": "See Munitions List for ferrocene Carboxylic acids;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "n.",
-                            "Description": "See Munitions List for butacene;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "o.",
-                            "Description": "Other ferrocene derivatives usable as rocket propellant burning rate modifiers, other than those specified in the Military Goods Controls.",
-                            "SubStructures": []
+                            "Label": "6.",
+                            "Description": "f.\tDicyclopentyl ferrocene;",
+                            "SubStructures": [
+                              {
+                                "Label": "g.",
+                                "Description": "Dicyclohexyl ferrocene;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "h.",
+                                "Description": "Diethyl ferrocene (CAS 1273–97–8);",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "i.",
+                                "Description": "Dipropyl ferrocene;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "j.",
+                                "Description": "Dibutyl ferrocene (CAS 1274-08-4);",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "k.",
+                                "Description": "Dihexyl ferrocene (CAS 93894-59-8);",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "l.",
+                                "Description": "Acetyl ferrocene (CAS 1271–55–2) / 1,1’-diacetyl ferrocene (CAS 1273–94–5);",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "m.",
+                                "Description": "See Munitions List for ferrocene Carboxylic acids;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "n.",
+                                "Description": "See Munitions List for butacene;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "o.",
+                                "Description": "Other ferrocene derivatives usable as rocket propellant burning rate modifiers, other than those specified in the Military Goods Controls.",
+                                "SubStructures": []
+                              }
+                            ]
                           }
                         ]
                       }
@@ -4930,62 +4937,63 @@
                   {
                     "Label": "a.",
                     "Description": "Crucibles having both of the following characteristics:",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "1.",
-                    "Description": "A volume of between 150 cm3 (150 ml) and 8,000 cm3 (8 litres); and",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "2.",
-                    "Description": "Made of or coated with any of the following materials, or combination of the following materials, having an overall impurity level of 2% or less by weight:",
                     "SubStructures": [
                       {
-                        "Label": "a.",
-                        "Description": "Calcium fluoride (CaF2);",
+                        "Label": "1.",
+                        "Description": "A volume of between 150 cm3 (150 ml) and 8,000 cm3 (8 litres); and",
                         "SubStructures": []
                       },
                       {
-                        "Label": "b.",
-                        "Description": "Calcium zirconate (metazirconate) (CaZrO3);",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "c.",
-                        "Description": "Cerium sulphide (Ce2S3);",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "d.",
-                        "Description": "Erbium oxide (erbia) (Er2O3);",
+                        "Label": "2.",
+                        "Description": "Made of or coated with any of the following materials, or combination of the following materials, having an overall impurity level of 2% or less by weight:",
                         "SubStructures": [
                           {
-                            "Label": "2.",
-                            "Description": "e.\tHafnium oxide (hafnia) (HfO2);",
+                            "Label": "a.",
+                            "Description": "Calcium fluoride (CaF2);",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "b.",
+                            "Description": "Calcium zirconate (metazirconate) (CaZrO3);",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "c.",
+                            "Description": "Cerium sulphide (Ce2S3);",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "d.",
+                            "Description": "Erbium oxide (erbia) (Er2O3);",
+                            "SubStructures": [
+                              {
+                                "Label": "2.",
+                                "Description": "e.\tHafnium oxide (hafnia) (HfO2);",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "f.",
+                            "Description": "Magnesium oxide (MgO);",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "g.",
+                            "Description": "Nitrided niobium-titanium-tungsten alloy (approximately 50% Nb, 30% Ti, 20% W);",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "h.",
+                            "Description": "Yttrium oxide (yttria) (Y2O3); or",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "i.",
+                            "Description": "Zirconium oxide (zirconia) (ZrO2);",
                             "SubStructures": []
                           }
                         ]
-                      },
-                      {
-                        "Label": "f.",
-                        "Description": "Magnesium oxide (MgO);",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "g.",
-                        "Description": "Nitrided niobium-titanium-tungsten alloy (approximately 50% Nb, 30% Ti, 20% W);",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "h.",
-                        "Description": "Yttrium oxide (yttria) (Y2O3); or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "i.",
-                        "Description": "Zirconium oxide (zirconia) (ZrO2);",
-                        "SubStructures": []
                       }
                     ]
                   }
@@ -5950,21 +5958,22 @@
                       {
                         "Label": "a.",
                         "Description": "Containing a laser; and",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "3.",
-                        "Description": "b.\tCapable of maintaining for at least 12 hours, over a temperature range of ± 1 K (± 1ºC) around a standard temperature and a standard pressure:",
                         "SubStructures": [
                           {
-                            "Label": "1.",
-                            "Description": "A “resolution” over their full scale of 0.1 μm or better; and",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "With a “measurement uncertainty” equal to or better (less) than (0.2 + L/2000) μm (L is the measured length in millimeters);",
-                            "SubStructures": []
+                            "Label": "3.",
+                            "Description": "b.\tCapable of maintaining for at least 12 hours, over a temperature range of ± 1 K (± 1ºC) around a standard temperature and a standard pressure:",
+                            "SubStructures": [
+                              {
+                                "Label": "1.",
+                                "Description": "A “resolution” over their full scale of 0.1 μm or better; and",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "2.",
+                                "Description": "With a “measurement uncertainty” equal to or better (less) than (0.2 + L/2000) μm (L is the measured length in millimeters);",
+                                "SubStructures": []
+                              }
+                            ]
                           }
                         ]
                       }
@@ -7006,17 +7015,18 @@
                   {
                     "Label": "g.",
                     "Description": "Aerosol inhalation equipment designed for aerosol challenge testing with “microorganisms”, “viruses” or “toxins” as follows:",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "1.",
-                    "Description": "Whole-body exposure chambers having a capacity of 1 cubic metre or greater;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "2.",
-                    "Description": "Nose-only exposure apparatus or closed animal restraint tubes designed for use with such apparatus, utilising directed aerosol flow and having capacity for exposure of 12 or more rodents, or 2 or more animals other than rodents;",
-                    "SubStructures": []
+                    "SubStructures": [
+                      {
+                        "Label": "1.",
+                        "Description": "Whole-body exposure chambers having a capacity of 1 cubic metre or greater;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "2.",
+                        "Description": "Nose-only exposure apparatus or closed animal restraint tubes designed for use with such apparatus, utilising directed aerosol flow and having capacity for exposure of 12 or more rodents, or 2 or more animals other than rodents;",
+                        "SubStructures": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -7446,546 +7456,550 @@
               {
                 "Label": "a.",
                 "Description": "Analogue-to-digital conversions meeting any of the following:",
-                "SubStructures": []
-              },
-              {
-                "Label": "1.",
-                "Description": "A resolution of 8 bit or more, but less than 10 bit, with a “sample rate” greater than 1.3 Giga Samples Per Second (GSPS);",
-                "SubStructures": []
-              },
-              {
-                "Label": "2.",
-                "Description": "A resolution of 10 bit or more, but less than 12 bit, with a “sample rate” greater than 1.0 GSPS;",
-                "SubStructures": []
-              },
-              {
-                "Label": "3.",
-                "Description": "A resolution of 12 bit or more, but less than 14 bit, with a “sample rate” greater than 1.0 GSPS;",
-                "SubStructures": []
-              },
-              {
-                "Label": "4.",
-                "Description": "A resolution of 14 bit or more, but less than 16 bit, with a “sample rate” greater than 400 Mega Samples Per Second (MSPS); or",
-                "SubStructures": []
-              },
-              {
-                "Label": "5.",
-                "Description": "A resolution of 16 bit or more with a “sample rate” greater than 180 MSPS; and",
                 "SubStructures": [
-                  {
-                    "Label": "b.",
-                    "Description": "Any of the following:",
-                    "SubStructures": []
-                  }
-                ]
-              },
-              {
-                "Label": "1.",
-                "Description": "Storage of digitised data; or",
-                "SubStructures": []
-              },
-              {
-                "Label": "2.",
-                "Description": "Processing of digitised data;",
-                "SubStructures": [
-                  {
-                    "Label": "b.",
-                    "Description": "Microwave or millimetre wave items, as follows:",
-                    "SubStructures": []
-                  },
                   {
                     "Label": "1.",
-                    "Description": "“Vacuum electronic devices” and cathodes, as follows:",
-                    "SubStructures": [
-                      {
-                        "Label": "1.",
-                        "Description": "a.\tTravelling-wave “vacuum electronic devices”, pulsed or continuous wave, as follows:",
-                        "SubStructures": [
-                          {
-                            "Label": "1.",
-                            "Description": "Devices operating at frequencies exceeding 31.8 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "Devices having a cathode heater element with a turn on time to rated RF power of less than 3 seconds;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "3.",
-                            "Description": "Coupled cavity devices, or derivatives thereof, with a “fractional bandwidth” of more than 7% or a peak power exceeding 2.5 kW;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "4.",
-                            "Description": "Devices based on helix, or derivatives thereof, having any of the following:",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "1.",
-                        "Description": "b.\tCrossed-field amplifier “vacuum electronic devices” with a gain of more than 17 dB;",
-                        "SubStructures": [
-                          {
-                            "Label": "c.",
-                            "Description": "Thermionic cathodes designed for “vacuum electronic devices” producing an emission current density at rated operating conditions exceeding 5 A/cm² or a pulsed (non-continuous) current density at rated operating conditions exceeding 10 A/cm²;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "d.",
-                            "Description": "“Vacuum electronic devices” with the capability to operate in a ‘dual mode’.",
-                            "SubStructures": []
-                          }
-                        ]
-                      }
-                    ]
+                    "Description": "A resolution of 8 bit or more, but less than 10 bit, with a “sample rate” greater than 1.3 Giga Samples Per Second (GSPS);",
+                    "SubStructures": []
                   },
                   {
                     "Label": "2.",
-                    "Description": "“Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers that are any of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "a.",
-                        "Description": "Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:",
-                        "SubStructures": [
-                          {
-                            "Label": "1.",
-                            "Description": "A peak saturated power output greater than 75 W (48.75 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "A peak saturated power output greater than 55 W (47.4 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "3.",
-                            "Description": "A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "4.",
-                            "Description": "A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "b.\tRated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:",
-                        "SubStructures": [
-                          {
-                            "Label": "1.",
-                            "Description": "A peak saturated power output greater than 10 W (40 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "A peak saturated power output greater than 5 W (37 dBm) at any frequency exceeding 8.5 GHz up to and including 16 GHz;",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "c.\tRated for operation with a peak saturated power output greater than 3 W (34.77 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz, and with a “fractional bandwidth” of greater than 10%;",
-                        "SubStructures": [
-                          {
-                            "Label": "d.",
-                            "Description": "Rated for operation with a peak saturated power output greater than 0.1n W (-70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "e.",
-                            "Description": "Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "f.",
-                            "Description": "Rated for operation with a peak saturated power output greater than 31.62 mW (15 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "g.",
-                            "Description": "Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "h.",
-                            "Description": "Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz;",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "3.",
-                        "Description": "Discrete microwave transistors that are any of the following:",
-                        "SubStructures": [
-                          {
-                            "Label": "a.",
-                            "Description": "Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz and having any of the following:",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "1.",
-                            "Description": "A peak saturated power output greater than 400 W (56 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "A peak saturated power output greater than 205 W (53.12 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "3.",
-                            "Description": "A peak saturated power output greater than 115 W (50.61 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "4.",
-                            "Description": "A peak saturated power output greater than 60 W (47.78 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "3.",
-                        "Description": "b.\tRated for operation at frequencies exceeding 6.8 GHz up to and including 31.8 GHz and having any of the following:",
-                        "SubStructures": [
-                          {
-                            "Label": "1.",
-                            "Description": "A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "A peak saturated power output greater than 15 W (41.76 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "3.",
-                            "Description": "A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "4.",
-                            "Description": "A peak saturated power output greater than 7 W (38.45 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "c.",
-                        "Description": "Rated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "d.",
-                        "Description": "Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "e.",
-                        "Description": "Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 43.5 GHz; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "f.",
-                        "Description": "Other than those specified by 3A001.b.3.a. to 3A001.b.3.e. and rated for operation with a peak saturated power output greater than 5 W (37.0 dBm) at all frequencies exceeding 8.5 GHz up to and including 31.8 GHz;",
-                        "SubStructures": []
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "4.",
-                    "Description": "Microwave solid state amplifiers and microwave assemblies/modules containing microwave solid state amplifiers, that are any of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "4.",
-                        "Description": "a.\tRated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "4.",
-                        "Description": "a.\t1.\tA peak saturated power output greater than 500 W (57 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "A peak saturated power output greater than 270 W (54.3 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "3.",
-                        "Description": "A peak saturated power output greater than 200 W (53 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "4.",
-                        "Description": "A peak saturated power output greater than 90 W (49.54 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "4.",
-                        "Description": "b.\tRated for operation at frequencies greater than 6.8 GHz up to and including 31.8 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:",
-                        "SubStructures": [
-                          {
-                            "Label": "1.",
-                            "Description": "A peak saturated power output greater than 70 W (48.45 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "3.",
-                            "Description": "A peak saturated power output greater than 30 W (44.77 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "4.",
-                            "Description": "A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "4.",
-                        "Description": "c.\tRated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;",
-                        "SubStructures": [
-                          {
-                            "Label": "d.",
-                            "Description": "Rated for operation with a peak saturated power output greater than 2 W (33 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "e.",
-                            "Description": "Rated for operation at frequencies exceeding 43.5 GHz and having any of the following:",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "1.",
-                            "Description": "A peak saturated power output greater than 0.2 W (23 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "4.",
-                            "Description": "e.\t2.\tA peak saturated power output greater than 20 mW (13 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "4.",
-                            "Description": "e.\t3.\tA peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz; or",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "f.",
-                        "Description": "Not used;",
-                        "SubStructures": []
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "5.",
-                    "Description": "Electronically or magnetically tunable band-pass or band-stop filters, having more than 5 tunable resonators capable of tuning across a 1.5:1 frequency band (fmax/fmin) in less than 10 µs and having any of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "a.",
-                        "Description": "A band-pass bandwidth of more than 0.5% of centre frequency; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "b.",
-                        "Description": "A band-stop bandwidth of less than 0.5% of centre frequency;",
-                        "SubStructures": []
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "6.",
-                    "Description": "Not used;",
+                    "Description": "A resolution of 10 bit or more, but less than 12 bit, with a “sample rate” greater than 1.0 GSPS;",
                     "SubStructures": []
                   },
                   {
-                    "Label": "7.",
-                    "Description": "Converters and harmonic mixers, that are any of the following:",
+                    "Label": "3.",
+                    "Description": "A resolution of 12 bit or more, but less than 14 bit, with a “sample rate” greater than 1.0 GSPS;",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "4.",
+                    "Description": "A resolution of 14 bit or more, but less than 16 bit, with a “sample rate” greater than 400 Mega Samples Per Second (MSPS); or",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "5.",
+                    "Description": "A resolution of 16 bit or more with a “sample rate” greater than 180 MSPS; and",
                     "SubStructures": [
                       {
-                        "Label": "a.",
-                        "Description": "Designed to extend the frequency range of “signal analysers” beyond 90 GHz;",
+                        "Label": "b.",
+                        "Description": "Any of the following:",
                         "SubStructures": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "Label": "1.",
+                    "Description": "Storage of digitised data; or",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "2.",
+                    "Description": "Processing of digitised data;",
+                    "SubStructures": [
                       {
                         "Label": "b.",
-                        "Description": "Designed to extend the operating range of signal generators as follows:",
+                        "Description": "Microwave or millimetre wave items, as follows:",
                         "SubStructures": [
                           {
                             "Label": "1.",
-                            "Description": "Beyond 90 GHz;",
-                            "SubStructures": []
+                            "Description": "“Vacuum electronic devices” and cathodes, as follows:",
+                            "SubStructures": [
+                              {
+                                "Label": "1.",
+                                "Description": "a.\tTravelling-wave “vacuum electronic devices”, pulsed or continuous wave, as follows:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "Devices operating at frequencies exceeding 31.8 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "Devices having a cathode heater element with a turn on time to rated RF power of less than 3 seconds;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "3.",
+                                    "Description": "Coupled cavity devices, or derivatives thereof, with a “fractional bandwidth” of more than 7% or a peak power exceeding 2.5 kW;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "4.",
+                                    "Description": "Devices based on helix, or derivatives thereof, having any of the following:",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "1.",
+                                "Description": "b.\tCrossed-field amplifier “vacuum electronic devices” with a gain of more than 17 dB;",
+                                "SubStructures": [
+                                  {
+                                    "Label": "c.",
+                                    "Description": "Thermionic cathodes designed for “vacuum electronic devices” producing an emission current density at rated operating conditions exceeding 5 A/cm² or a pulsed (non-continuous) current density at rated operating conditions exceeding 10 A/cm²;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "d.",
+                                    "Description": "“Vacuum electronic devices” with the capability to operate in a ‘dual mode’.",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              }
+                            ]
                           },
                           {
                             "Label": "2.",
-                            "Description": "To an output power greater than 100 mW (20 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "7.",
-                        "Description": "c.\tDesigned to extend the operating range of network analysers as follows:",
-                        "SubStructures": [
-                          {
-                            "Label": "1.",
-                            "Description": "Beyond 110 GHz;",
-                            "SubStructures": []
+                            "Description": "“Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers that are any of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "A peak saturated power output greater than 75 W (48.75 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "A peak saturated power output greater than 55 W (47.4 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "3.",
+                                    "Description": "A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "4.",
+                                    "Description": "A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "2.",
+                                "Description": "b.\tRated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "A peak saturated power output greater than 10 W (40 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz; or",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "A peak saturated power output greater than 5 W (37 dBm) at any frequency exceeding 8.5 GHz up to and including 16 GHz;",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "2.",
+                                "Description": "c.\tRated for operation with a peak saturated power output greater than 3 W (34.77 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz, and with a “fractional bandwidth” of greater than 10%;",
+                                "SubStructures": [
+                                  {
+                                    "Label": "d.",
+                                    "Description": "Rated for operation with a peak saturated power output greater than 0.1n W (-70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "e.",
+                                    "Description": "Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "f.",
+                                    "Description": "Rated for operation with a peak saturated power output greater than 31.62 mW (15 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "g.",
+                                    "Description": "Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%; or",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "h.",
+                                    "Description": "Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz;",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "3.",
+                                "Description": "Discrete microwave transistors that are any of the following:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "a.",
+                                    "Description": "Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz and having any of the following:",
+                                    "SubStructures": [
+                                      {
+                                        "Label": "1.",
+                                        "Description": "A peak saturated power output greater than 400 W (56 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;",
+                                        "SubStructures": []
+                                      },
+                                      {
+                                        "Label": "2.",
+                                        "Description": "A peak saturated power output greater than 205 W (53.12 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;",
+                                        "SubStructures": []
+                                      },
+                                      {
+                                        "Label": "3.",
+                                        "Description": "A peak saturated power output greater than 115 W (50.61 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or",
+                                        "SubStructures": []
+                                      },
+                                      {
+                                        "Label": "4.",
+                                        "Description": "A peak saturated power output greater than 60 W (47.78 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;",
+                                        "SubStructures": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "3.",
+                                "Description": "b.\tRated for operation at frequencies exceeding 6.8 GHz up to and including 31.8 GHz and having any of the following:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "A peak saturated power output greater than 15 W (41.76 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "3.",
+                                    "Description": "A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "4.",
+                                    "Description": "A peak saturated power output greater than 7 W (38.45 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "c.",
+                                "Description": "Rated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "d.",
+                                "Description": "Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "e.",
+                                "Description": "Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 43.5 GHz; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "f.",
+                                "Description": "Other than those specified by 3A001.b.3.a. to 3A001.b.3.e. and rated for operation with a peak saturated power output greater than 5 W (37.0 dBm) at all frequencies exceeding 8.5 GHz up to and including 31.8 GHz;",
+                                "SubStructures": []
+                              }
+                            ]
                           },
                           {
-                            "Label": "2.",
-                            "Description": "To an output power greater than 31.62 mW (15 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;",
+                            "Label": "4.",
+                            "Description": "Microwave solid state amplifiers and microwave assemblies/modules containing microwave solid state amplifiers, that are any of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "4.",
+                                "Description": "a.\tRated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "4.",
+                                "Description": "a.\t1.\tA peak saturated power output greater than 500 W (57 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "2.",
+                                "Description": "A peak saturated power output greater than 270 W (54.3 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "3.",
+                                "Description": "A peak saturated power output greater than 200 W (53 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "4.",
+                                "Description": "A peak saturated power output greater than 90 W (49.54 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "4.",
+                                "Description": "b.\tRated for operation at frequencies greater than 6.8 GHz up to and including 31.8 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "A peak saturated power output greater than 70 W (48.45 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "3.",
+                                    "Description": "A peak saturated power output greater than 30 W (44.77 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "4.",
+                                    "Description": "A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "4.",
+                                "Description": "c.\tRated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;",
+                                "SubStructures": [
+                                  {
+                                    "Label": "d.",
+                                    "Description": "Rated for operation with a peak saturated power output greater than 2 W (33 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "e.",
+                                    "Description": "Rated for operation at frequencies exceeding 43.5 GHz and having any of the following:",
+                                    "SubStructures": [
+                                      {
+                                        "Label": "1.",
+                                        "Description": "A peak saturated power output greater than 0.2 W (23 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;",
+                                        "SubStructures": []
+                                      },
+                                      {
+                                        "Label": "4.",
+                                        "Description": "e.\t2.\tA peak saturated power output greater than 20 mW (13 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%; or",
+                                        "SubStructures": []
+                                      },
+                                      {
+                                        "Label": "4.",
+                                        "Description": "e.\t3.\tA peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz; or",
+                                        "SubStructures": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "f.",
+                                "Description": "Not used;",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "5.",
+                            "Description": "Electronically or magnetically tunable band-pass or band-stop filters, having more than 5 tunable resonators capable of tuning across a 1.5:1 frequency band (fmax/fmin) in less than 10 µs and having any of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "A band-pass bandwidth of more than 0.5% of centre frequency; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "A band-stop bandwidth of less than 0.5% of centre frequency;",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "6.",
+                            "Description": "Not used;",
                             "SubStructures": []
                           },
                           {
                             "Label": "7.",
-                            "Description": "c.\t3.\tTo an output power greater than 1 mW (0 dBm) anywhere within the frequency range exceeding 90 GHz but not exceeding 110 GHz; or",
-                            "SubStructures": []
-                          }
-                        ]
-                      },
-                      {
-                        "Label": "d.",
-                        "Description": "Designed to extend the frequency range of microwave test receivers beyond 110 GHz.",
-                        "SubStructures": []
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "8.",
-                    "Description": "Microwave power amplifiers containing “vacuum electronic devices” specified by 3A001.b.1. and having all of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "a.",
-                        "Description": "Operating frequencies above 3 GHz;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "b.",
-                        "Description": "An average output power density to mass ratio exceeding 80 W/kg; and",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "c.",
-                        "Description": "A volume of less than 400 cm3;",
-                        "SubStructures": []
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "9.",
-                    "Description": "Microwave Power Modules (MPMs) consisting of, at least, a travelling-wave “vacuum electronic device”, a “Monolithic Microwave Integrated Circuit” (“MMIC”) and an integrated electronic power conditioner and having all of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "a.",
-                        "Description": "A ‘turn-on time’ from off to fully operational in less than 10 seconds;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "b.",
-                        "Description": "A volume less than the maximum rated power in Watts multiplied by 10 cm3/W; and",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "c.",
-                        "Description": "An “instantaneous bandwidth” greater than 1 octave (fmax. > 2fmin.) and having any of the following:",
-                        "SubStructures": [
+                            "Description": "Converters and harmonic mixers, that are any of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "Designed to extend the frequency range of “signal analysers” beyond 90 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "Designed to extend the operating range of signal generators as follows:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "Beyond 90 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "To an output power greater than 100 mW (20 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "7.",
+                                "Description": "c.\tDesigned to extend the operating range of network analysers as follows:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "Beyond 110 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "To an output power greater than 31.62 mW (15 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "7.",
+                                    "Description": "c.\t3.\tTo an output power greater than 1 mW (0 dBm) anywhere within the frequency range exceeding 90 GHz but not exceeding 110 GHz; or",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              },
+                              {
+                                "Label": "d.",
+                                "Description": "Designed to extend the frequency range of microwave test receivers beyond 110 GHz.",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
                           {
-                            "Label": "1.",
-                            "Description": "For frequencies equal to or less than 18 GHz, an RF output power greater than 100 W; or",
+                            "Label": "8.",
+                            "Description": "Microwave power amplifiers containing “vacuum electronic devices” specified by 3A001.b.1. and having all of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "Operating frequencies above 3 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "An average output power density to mass ratio exceeding 80 W/kg; and",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "c.",
+                                "Description": "A volume of less than 400 cm3;",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "9.",
+                            "Description": "Microwave Power Modules (MPMs) consisting of, at least, a travelling-wave “vacuum electronic device”, a “Monolithic Microwave Integrated Circuit” (“MMIC”) and an integrated electronic power conditioner and having all of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "A ‘turn-on time’ from off to fully operational in less than 10 seconds;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "A volume less than the maximum rated power in Watts multiplied by 10 cm3/W; and",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "c.",
+                                "Description": "An “instantaneous bandwidth” greater than 1 octave (fmax. > 2fmin.) and having any of the following:",
+                                "SubStructures": [
+                                  {
+                                    "Label": "1.",
+                                    "Description": "For frequencies equal to or less than 18 GHz, an RF output power greater than 100 W; or",
+                                    "SubStructures": []
+                                  },
+                                  {
+                                    "Label": "2.",
+                                    "Description": "A frequency greater than 18 GHz;",
+                                    "SubStructures": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "10.",
+                            "Description": "Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than ­(126 + 20log10F - 20log10f) anywhere within the range of 10 Hz ≤ F ≤ 10 kHz;",
                             "SubStructures": []
                           },
                           {
-                            "Label": "2.",
-                            "Description": "A frequency greater than 18 GHz;",
-                            "SubStructures": []
+                            "Label": "11.",
+                            "Description": "‘Frequency synthesiser’ “electronic assemblies” having a “frequency switching time” as specified by any of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "Less than 143 ps;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "Less than 100 µs for any frequency change exceeding 2.2 GHz within the synthesised frequency range exceeding 4.8 GHz but not exceeding 31.8 GHz",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "c.",
+                                "Description": "Not used;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "d.",
+                                "Description": "Less than 500 µs for any frequency change exceeding 550 MHz within the synthesised frequency range exceeding 31.8 GHz but not exceeding 37 GHz;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "e.",
+                                "Description": "Less than 100 µs for any frequency change exceeding 2.2 GHz within the synthesised frequency range exceeding 37 GHz but not exceeding 75 GHz; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "f.",
+                                "Description": "Less than 100 μs for any frequency change exceeding 5.0 GHz within the synthesised frequency range exceeding 75 GHz but not exceeding 90 GHz; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "g.",
+                                "Description": "Less than 1 ms within the synthesised frequency range exceeding 90 GHz;",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "12.",
+                            "Description": "‘Transmit/receive modules’, ‘transmit/receive MMICs’, ‘transmit modules’, and ‘transmit MMICs’, rated for operation at frequencies above 2.7 GHz and having all of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "12.",
+                                "Description": "a.\tA peak saturated power output (in watts), Psat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [Psat>505.62 W*GHz2/fGHz2] for any channel;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "12.",
+                                "Description": "b.\tA “fractional bandwidth” of 5% or greater for any channel;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "12.",
+                                "Description": "c.\tAny planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15cm*GHz*N/fGHz] where N is the number of transmit or transmit/receive channels; and",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "12.",
+                                "Description": "d.\tAn electronically variable phase shifter per channel.",
+                                "SubStructures": []
+                              }
+                            ]
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "10.",
-                    "Description": "Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than ­(126 + 20log10F - 20log10f) anywhere within the range of 10 Hz ≤ F ≤ 10 kHz;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "11.",
-                    "Description": "‘Frequency synthesiser’ “electronic assemblies” having a “frequency switching time” as specified by any of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "a.",
-                        "Description": "Less than 143 ps;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "b.",
-                        "Description": "Less than 100 µs for any frequency change exceeding 2.2 GHz within the synthesised frequency range exceeding 4.8 GHz but not exceeding 31.8 GHz",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "c.",
-                        "Description": "Not used;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "d.",
-                        "Description": "Less than 500 µs for any frequency change exceeding 550 MHz within the synthesised frequency range exceeding 31.8 GHz but not exceeding 37 GHz;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "e.",
-                        "Description": "Less than 100 µs for any frequency change exceeding 2.2 GHz within the synthesised frequency range exceeding 37 GHz but not exceeding 75 GHz; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "f.",
-                        "Description": "Less than 100 μs for any frequency change exceeding 5.0 GHz within the synthesised frequency range exceeding 75 GHz but not exceeding 90 GHz; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "g.",
-                        "Description": "Less than 1 ms within the synthesised frequency range exceeding 90 GHz;",
-                        "SubStructures": []
-                      }
-                    ]
-                  },
-                  {
-                    "Label": "12.",
-                    "Description": "‘Transmit/receive modules’, ‘transmit/receive MMICs’, ‘transmit modules’, and ‘transmit MMICs’, rated for operation at frequencies above 2.7 GHz and having all of the following:",
-                    "SubStructures": [
-                      {
-                        "Label": "12.",
-                        "Description": "a.\tA peak saturated power output (in watts), Psat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [Psat>505.62 W*GHz2/fGHz2] for any channel;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "12.",
-                        "Description": "b.\tA “fractional bandwidth” of 5% or greater for any channel;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "12.",
-                        "Description": "c.\tAny planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15cm*GHz*N/fGHz] where N is the number of transmit or transmit/receive channels; and",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "12.",
-                        "Description": "d.\tAn electronically variable phase shifter per channel.",
-                        "SubStructures": []
                       }
                     ]
                   }
@@ -8367,17 +8381,18 @@
                       {
                         "Label": "b.",
                         "Description": "Having any of the following:",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "1.",
-                        "Description": "100% probability of discovery, with less than a 3 dB reduction from full amplitude due to gaps or windowing effects, of signals having a duration of 15 µs or less; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "A ‘frequency mask trigger’ function with 100% probability of trigger (capture) for signals having a duration of 15 µs or less;",
-                        "SubStructures": []
+                        "SubStructures": [
+                          {
+                            "Label": "1.",
+                            "Description": "100% probability of discovery, with less than a 3 dB reduction from full amplitude due to gaps or windowing effects, of signals having a duration of 15 µs or less; or",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "2.",
+                            "Description": "A ‘frequency mask trigger’ function with 100% probability of trigger (capture) for signals having a duration of 15 µs or less;",
+                            "SubStructures": []
+                          }
+                        ]
                       }
                     ]
                   },
@@ -9114,22 +9129,23 @@
                           {
                             "Label": "b.",
                             "Description": "Having any of the following:",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "1.",
-                            "Description": "A full-width half-maximum (FWHM) spot size smaller than 65 nm and an image placement less than 17 nm (mean + 3 sigma); or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "2.",
-                            "Description": "Not used;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "3.",
-                            "Description": "A second-layer overlay error of less than 23 nm (mean + 3 sigma) on the mask;",
-                            "SubStructures": []
+                            "SubStructures": [
+                              {
+                                "Label": "1.",
+                                "Description": "A full-width half-maximum (FWHM) spot size smaller than 65 nm and an image placement less than 17 nm (mean + 3 sigma); or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "2.",
+                                "Description": "Not used;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "3.",
+                                "Description": "A second-layer overlay error of less than 23 nm (mean + 3 sigma) on the mask;",
+                                "SubStructures": []
+                              }
+                            ]
                           }
                         ]
                       }
@@ -10436,26 +10452,27 @@
                       {
                         "Label": "a.",
                         "Description": "A transmission wavelength exceeding 1,750 nm;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "b.\tNot used;",
                         "SubStructures": [
                           {
-                            "Label": "c.",
-                            "Description": "Not used;",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "d.",
-                            "Description": "Employing wavelength division multiplexing techniques of optical carriers at less than 100 GHz spacing; or",
-                            "SubStructures": []
-                          },
-                          {
-                            "Label": "e.",
-                            "Description": "Employing analogue techniques and having a bandwidth exceeding 2.5 GHz;",
-                            "SubStructures": []
+                            "Label": "2.",
+                            "Description": "b.\tNot used;",
+                            "SubStructures": [
+                              {
+                                "Label": "c.",
+                                "Description": "Not used;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "d.",
+                                "Description": "Employing wavelength division multiplexing techniques of optical carriers at less than 100 GHz spacing; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "e.",
+                                "Description": "Employing analogue techniques and having a bandwidth exceeding 2.5 GHz;",
+                                "SubStructures": []
+                              }
+                            ]
                           }
                         ]
                       }
@@ -11784,12 +11801,13 @@
                       {
                         "Label": "a.",
                         "Description": "‘Single transverse mode’ and output power exceeding 50 W; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "7.",
-                        "Description": "b.\t‘Multiple transverse mode’ and output power exceeding 80 W;",
-                        "SubStructures": []
+                        "SubStructures": [
+                          {
+                            "Label": "7.",
+                            "Description": "b.\t‘Multiple transverse mode’ and output power exceeding 80 W;",
+                            "SubStructures": []
+                          }
+                        ]
                       }
                     ]
                   },
@@ -12402,52 +12420,54 @@
               {
                 "Label": "c.",
                 "Description": "MLDs having all of the following:",
-                "SubStructures": []
-              },
-              {
-                "Label": "1.",
-                "Description": "Designed for spectral or coherent beam combination of 5 or more fibre “lasers”; and",
-                "SubStructures": []
-              },
-              {
-                "Label": "2.",
-                "Description": "CW “Laser” Induced Damage Threshold (LIDT) greater than or equal to 10 kW/cm2.",
                 "SubStructures": [
                   {
-                    "Label": "f.",
-                    "Description": "Optical equipment as follows:",
-                    "SubStructures": []
-                  },
-                  {
                     "Label": "1.",
-                    "Description": "Not used since 2017;",
+                    "Description": "Designed for spectral or coherent beam combination of 5 or more fibre “lasers”; and",
                     "SubStructures": []
                   },
                   {
                     "Label": "2.",
-                    "Description": "“Laser” diagnostic equipment specially designed for dynamic measurement of “SHPL” system angular beam steering errors and having an angular “accuracy” of 10 µrad (microradians) or less (better);",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "3.",
-                    "Description": "Optical equipment and components, specially designed for coherent beam combination in a phased-array “SHPL” system and having any of the following:",
+                    "Description": "CW “Laser” Induced Damage Threshold (LIDT) greater than or equal to 10 kW/cm2.",
                     "SubStructures": [
                       {
-                        "Label": "a.",
-                        "Description": "An “accuracy” of 0.1 µm or less, for wavelengths greater than 1 µm; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "b.",
-                        "Description": "An “accuracy” of λ/10 or less (better) at the designed wavelength, for wavelengths equal to or less than 1 µm;",
-                        "SubStructures": []
+                        "Label": "f.",
+                        "Description": "Optical equipment as follows:",
+                        "SubStructures": [
+                          {
+                            "Label": "1.",
+                            "Description": "Not used since 2017;",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "2.",
+                            "Description": "“Laser” diagnostic equipment specially designed for dynamic measurement of “SHPL” system angular beam steering errors and having an angular “accuracy” of 10 µrad (microradians) or less (better);",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "3.",
+                            "Description": "Optical equipment and components, specially designed for coherent beam combination in a phased-array “SHPL” system and having any of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "An “accuracy” of 0.1 µm or less, for wavelengths greater than 1 µm; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "An “accuracy” of λ/10 or less (better) at the designed wavelength, for wavelengths equal to or less than 1 µm;",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "4.",
+                            "Description": "Projection telescopes specially designed for use with “SHPL” systems.",
+                            "SubStructures": []
+                          }
+                        ]
                       }
                     ]
-                  },
-                  {
-                    "Label": "4.",
-                    "Description": "Projection telescopes specially designed for use with “SHPL” systems.",
-                    "SubStructures": []
                   }
                 ]
               },
@@ -12491,59 +12511,60 @@
               {
                 "Label": "a.",
                 "Description": "“Magnetometers” and subsystems as follows:",
-                "SubStructures": []
-              },
-              {
-                "Label": "1.",
-                "Description": "“Magnetometers” using “superconductive” (SQUID) “technology” and having any of the following:",
                 "SubStructures": [
                   {
-                    "Label": "a.",
-                    "Description": "SQUID systems designed for stationary operation, without specially designed subsystems designed to reduce in-motion noise, and having a ‘sensitivity’ equal to or lower (better) than 50 fT (rms) per square root Hz at a frequency of 1 Hz; or",
+                    "Label": "1.",
+                    "Description": "“Magnetometers” using “superconductive” (SQUID) “technology” and having any of the following:",
+                    "SubStructures": [
+                      {
+                        "Label": "a.",
+                        "Description": "SQUID systems designed for stationary operation, without specially designed subsystems designed to reduce in-motion noise, and having a ‘sensitivity’ equal to or lower (better) than 50 fT (rms) per square root Hz at a frequency of 1 Hz; or",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "b.",
+                        "Description": "SQUID systems having an in-motion-magnetometer ‘sensitivity’ lower (better) than 20 pT (rms) per square root Hz at a frequency of 1 Hz and specially designed to reduce in-motion noise;",
+                        "SubStructures": []
+                      }
+                    ]
+                  },
+                  {
+                    "Label": "2.",
+                    "Description": "“Magnetometers” using optically pumped or nuclear precession (proton/Overhauser) “technology” having a ‘sensitivity’ lower (better) than 20 pT (rms) per square root Hz at a frequency of 1 Hz;",
                     "SubStructures": []
                   },
                   {
-                    "Label": "b.",
-                    "Description": "SQUID systems having an in-motion-magnetometer ‘sensitivity’ lower (better) than 20 pT (rms) per square root Hz at a frequency of 1 Hz and specially designed to reduce in-motion noise;",
+                    "Label": "3.",
+                    "Description": "“Magnetometers” using fluxgate “technology” having a ‘sensitivity’ equal to or lower (better) than 10 pT (rms) per square root Hz at a frequency of 1 Hz;",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "4.",
+                    "Description": "Induction coil “magnetometers” having a ‘sensitivity’ lower (better) than any of the following:",
+                    "SubStructures": [
+                      {
+                        "Label": "a.",
+                        "Description": "0.05 nT (rms) per square root Hz at frequencies of less than 1 Hz;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "b.",
+                        "Description": "1 x 10-3 nT (rms) per square root Hz at frequencies of 1 Hz or more but not exceeding 10 Hz; or",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "c.",
+                        "Description": "1 x 10-4 nT (rms) per square root Hz at frequencies exceeding 10 Hz;",
+                        "SubStructures": []
+                      }
+                    ]
+                  },
+                  {
+                    "Label": "5.",
+                    "Description": "Fibre optic “magnetometers” having a ‘sensitivity’ lower (better) than 1 nT (rms) per square root Hz;",
                     "SubStructures": []
                   }
                 ]
-              },
-              {
-                "Label": "2.",
-                "Description": "“Magnetometers” using optically pumped or nuclear precession (proton/Overhauser) “technology” having a ‘sensitivity’ lower (better) than 20 pT (rms) per square root Hz at a frequency of 1 Hz;",
-                "SubStructures": []
-              },
-              {
-                "Label": "3.",
-                "Description": "“Magnetometers” using fluxgate “technology” having a ‘sensitivity’ equal to or lower (better) than 10 pT (rms) per square root Hz at a frequency of 1 Hz;",
-                "SubStructures": []
-              },
-              {
-                "Label": "4.",
-                "Description": "Induction coil “magnetometers” having a ‘sensitivity’ lower (better) than any of the following:",
-                "SubStructures": [
-                  {
-                    "Label": "a.",
-                    "Description": "0.05 nT (rms) per square root Hz at frequencies of less than 1 Hz;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "b.",
-                    "Description": "1 x 10-3 nT (rms) per square root Hz at frequencies of 1 Hz or more but not exceeding 10 Hz; or",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "c.",
-                    "Description": "1 x 10-4 nT (rms) per square root Hz at frequencies exceeding 10 Hz;",
-                    "SubStructures": []
-                  }
-                ]
-              },
-              {
-                "Label": "5.",
-                "Description": "Fibre optic “magnetometers” having a ‘sensitivity’ lower (better) than 1 nT (rms) per square root Hz;",
-                "SubStructures": []
               },
               {
                 "Label": "b.",
@@ -13319,17 +13340,18 @@
               {
                 "Label": "a.",
                 "Description": "Synthetic crystalline “laser” host material in unfinished form as follows:",
-                "SubStructures": []
-              },
-              {
-                "Label": "1.",
-                "Description": "Titanium doped sapphire;",
-                "SubStructures": []
-              },
-              {
-                "Label": "2.",
-                "Description": "Not used;",
-                "SubStructures": []
+                "SubStructures": [
+                  {
+                    "Label": "1.",
+                    "Description": "Titanium doped sapphire;",
+                    "SubStructures": []
+                  },
+                  {
+                    "Label": "2.",
+                    "Description": "Not used;",
+                    "SubStructures": []
+                  }
+                ]
               }
             ]
           },
@@ -13858,12 +13880,13 @@
                       {
                         "Label": "b.",
                         "Description": "A “bias” “repeatability” of less (better) than 1250 micro g; and",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "c.\tA “scale factor” “repeatability” of less (better) than 1250 ppm;",
-                        "SubStructures": []
+                        "SubStructures": [
+                          {
+                            "Label": "2.",
+                            "Description": "c.\tA “scale factor” “repeatability” of less (better) than 1250 ppm;",
+                            "SubStructures": []
+                          }
+                        ]
                       }
                     ]
                   }
@@ -15324,84 +15347,85 @@
               {
                 "Label": "a.",
                 "Description": "Components and structures, each exceeding 10 kg and specially designed for launch vehicles manufactured using any of the following:",
-                "SubStructures": []
-              },
-              {
-                "Label": "1.",
-                "Description": "“Composite” materials consisting of “fibrous or filamentary materials” specified by 1C010.e. and resins specified by 1C008. or 1C009.b.;",
-                "SubStructures": []
-              },
-              {
-                "Label": "2.",
-                "Description": "Metal “matrix” “composites” reinforced by any of the following:",
                 "SubStructures": [
                   {
-                    "Label": "a.",
-                    "Description": "Materials specified by 1C007.;",
+                    "Label": "1.",
+                    "Description": "“Composite” materials consisting of “fibrous or filamentary materials” specified by 1C010.e. and resins specified by 1C008. or 1C009.b.;",
                     "SubStructures": []
                   },
                   {
-                    "Label": "b.",
-                    "Description": "“Fibrous or filamentary materials” specified by 1C010.; or",
+                    "Label": "2.",
+                    "Description": "Metal “matrix” “composites” reinforced by any of the following:",
+                    "SubStructures": [
+                      {
+                        "Label": "a.",
+                        "Description": "Materials specified by 1C007.;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "b.",
+                        "Description": "“Fibrous or filamentary materials” specified by 1C010.; or",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "c.",
+                        "Description": "Aluminides specified by 1C002.a.; or",
+                        "SubStructures": []
+                      }
+                    ]
+                  },
+                  {
+                    "Label": "3.",
+                    "Description": "Ceramic “matrix” “composite” materials specified by 1C007.;",
+                    "SubStructures": [
+                      {
+                        "Label": "b.",
+                        "Description": "Components and structures, specially designed for launch vehicle propulsion systems specified by 9A005 to 9A009 manufactured using any of the following:",
+                        "SubStructures": []
+                      }
+                    ]
+                  },
+                  {
+                    "Label": "1.",
+                    "Description": "“Fibrous or filamentary materials” specified by 1C010.e. and resins specified by 1C008. or 1C009.b.;",
                     "SubStructures": []
                   },
                   {
-                    "Label": "c.",
-                    "Description": "Aluminides specified by 1C002.a.; or",
-                    "SubStructures": []
-                  }
-                ]
-              },
-              {
-                "Label": "3.",
-                "Description": "Ceramic “matrix” “composite” materials specified by 1C007.;",
-                "SubStructures": [
-                  {
-                    "Label": "b.",
-                    "Description": "Components and structures, specially designed for launch vehicle propulsion systems specified by 9A005 to 9A009 manufactured using any of the following:",
-                    "SubStructures": []
-                  }
-                ]
-              },
-              {
-                "Label": "1.",
-                "Description": "“Fibrous or filamentary materials” specified by 1C010.e. and resins specified by 1C008. or 1C009.b.;",
-                "SubStructures": []
-              },
-              {
-                "Label": "2.",
-                "Description": "Metal “matrix” “composite” materials reinforced by any of the following:",
-                "SubStructures": [
-                  {
-                    "Label": "a.",
-                    "Description": "Materials specified by 1C007;",
-                    "SubStructures": []
+                    "Label": "2.",
+                    "Description": "Metal “matrix” “composite” materials reinforced by any of the following:",
+                    "SubStructures": [
+                      {
+                        "Label": "a.",
+                        "Description": "Materials specified by 1C007;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "b.",
+                        "Description": "“Fibrous or filamentary materials” specified by 1C010; or",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "c.",
+                        "Description": "Aluminides specified by 1C002.a.; or",
+                        "SubStructures": []
+                      }
+                    ]
                   },
                   {
-                    "Label": "b.",
-                    "Description": "“Fibrous or filamentary materials” specified by 1C010; or",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "c.",
-                    "Description": "Aluminides specified by 1C002.a.; or",
-                    "SubStructures": []
-                  }
-                ]
-              },
-              {
-                "Label": "3.",
-                "Description": "Ceramic “matrix” “composite” materials specified by 1C007;",
-                "SubStructures": [
-                  {
-                    "Label": "c.",
-                    "Description": "Structural components and isolation systems, specially designed to control actively the dynamic response or distortion of “spacecraft” structures;",
-                    "SubStructures": []
-                  },
-                  {
-                    "Label": "d.",
-                    "Description": "Pulsed liquid rocket engines with thrust-to-weight ratios equal to or more than 1 kN/kg and a ‘response time’ of less than 30 ms.",
-                    "SubStructures": []
+                    "Label": "3.",
+                    "Description": "Ceramic “matrix” “composite” materials specified by 1C007;",
+                    "SubStructures": [
+                      {
+                        "Label": "c.",
+                        "Description": "Structural components and isolation systems, specially designed to control actively the dynamic response or distortion of “spacecraft” structures;",
+                        "SubStructures": []
+                      },
+                      {
+                        "Label": "d.",
+                        "Description": "Pulsed liquid rocket engines with thrust-to-weight ratios equal to or more than 1 kN/kg and a ‘response time’ of less than 30 ms.",
+                        "SubStructures": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -16168,53 +16192,54 @@
                       {
                         "Label": "b.",
                         "Description": "Manufactured from any of the following:",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "1.",
-                        "Description": "Metal “matrix” “composites” reinforced by any of the following:",
                         "SubStructures": [
                           {
-                            "Label": "a.",
-                            "Description": "Materials specified by 1C007;",
+                            "Label": "1.",
+                            "Description": "Metal “matrix” “composites” reinforced by any of the following:",
+                            "SubStructures": [
+                              {
+                                "Label": "a.",
+                                "Description": "Materials specified by 1C007;",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "b.",
+                                "Description": "“Fibrous or filamentary materials” specified by 1C010; or",
+                                "SubStructures": []
+                              },
+                              {
+                                "Label": "c.",
+                                "Description": "Aluminides specified by 1C002.a.; or",
+                                "SubStructures": []
+                              }
+                            ]
+                          },
+                          {
+                            "Label": "2.",
+                            "Description": "Ceramic “matrix” “composites” specified by 1C007; or",
                             "SubStructures": []
                           },
                           {
-                            "Label": "b.",
-                            "Description": "“Fibrous or filamentary materials” specified by 1C010; or",
+                            "Label": "3.",
+                            "Description": "c.\tStators, vanes, blades, tip seals (shrouds), rotating blings, rotating blisks, or ‘splitter ducts’, that are all of the following:",
                             "SubStructures": []
                           },
                           {
-                            "Label": "c.",
-                            "Description": "Aluminides specified by 1C002.a.; or",
+                            "Label": "1.",
+                            "Description": "Not specified by 9E003.a.3.a.;",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "2.",
+                            "Description": "Designed for compressors or fans; and",
+                            "SubStructures": []
+                          },
+                          {
+                            "Label": "3.",
+                            "Description": "Manufactured from material specified by 1C010.e. with resins specified by 1C008;",
                             "SubStructures": []
                           }
                         ]
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "Ceramic “matrix” “composites” specified by 1C007; or",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "3.",
-                        "Description": "c.\tStators, vanes, blades, tip seals (shrouds), rotating blings, rotating blisks, or ‘splitter ducts’, that are all of the following:",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "1.",
-                        "Description": "Not specified by 9E003.a.3.a.;",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "2.",
-                        "Description": "Designed for compressors or fans; and",
-                        "SubStructures": []
-                      },
-                      {
-                        "Label": "3.",
-                        "Description": "Manufactured from material specified by 1C010.e. with resins specified by 1C008;",
-                        "SubStructures": []
                       }
                     ]
                   },

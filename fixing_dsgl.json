@@ -1268,20 +1268,19 @@
                                     {
                                         "Label": "6.",
                                         "Description": "Titanium;",
-                                        "SubStructures": [
-                                            {
-                                                "Label": "b.",
-                                                "Description": "Particles specified by ML8.c.12.a. with a size less than 200 nm in any direction; and",
-                                                "SubStructures": []
-                                            },
-                                            {
-                                                "Label": "c.",
-                                                "Description": "Particles specified by ML8.c.12.a. with a metal content of 60% or greater;",
-                                                "SubStructures": []
-                                            }
-                                        ]
+                                        "SubStructures": []
                                     }
                                 ]
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Particles specified by ML8.c.12.a. with a size less than 200 nm in any direction; and",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Particles specified by ML8.c.12.a. with a metal content of 60% or greater;",
+                                "SubStructures": []
                             }
                         ]
                     }
@@ -1366,6 +1365,11 @@
                     {
                         "Label": "1.",
                         "Description": "AMMO (azidomethylmethyloxetane and its polymers)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "BAMO (3,3‑bis(azidomethyl)oxetane and its polymers) (CAS 17607‑20‑4) (see also ML8.g.1. for its “precursors”)",
                         "SubStructures": []
                     },
                     {
@@ -1509,6 +1513,11 @@
                     {
                         "Label": "1.",
                         "Description": "Basic copper salicylate (CAS 62320-94-9);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "2.",
+                        "Description": "BHEGA (bis‑(2‑hydroxyethyl) glycolamide) (CAS 17409‑41‑5);",
                         "SubStructures": []
                     },
                     {
@@ -1681,8 +1690,43 @@
                                 "Label": "a.",
                                 "Description": "1,1R,1S-trimesoyl-tris(2-ethylaziridine) (HX-868, BITA)",
                                 "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Polyfunctional aziridine amides with isophthalic, trimesic, isocyanuric or trimethyladipic backbone also having a 2‑methyl or 2‑ethyl aziridine group;",
+                                "SubStructures": []
                             }
                         ]
+                    },
+                    {
+                        "Label": "18.",
+                        "Description": "Propyleneimine (2‑methylaziridine) (CAS 75‑55‑8);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "19.",
+                        "Description": "Superfine iron oxide (Fe2O3) (CAS 1317‑60‑8) with a specific surface area more than 250 m2/g and an average particle size of 3.0 nm or less;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "20.",
+                        "Description": "TEPAN (tetraethylenepentaamineacrylonitrile) (CAS 68412‑45‑3); cyanoethylated polyamines and their salts;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "21.",
+                        "Description": "TEPANOL (tetraethylenepentaamineacrylonitrileglycidol) (CAS 68412‑46‑4); cyanoethylated polyamines adducted with glycidol and their salts;",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "22.",
+                        "Description": "TPB (triphenyl bismuth) (CAS 603‑33‑8);",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "23.",
+                        "Description": "TEPB (Tris (ethoxyphenyl) bismuth) (CAS 90591‑48‑3);",
+                        "SubStructures": []
                     }
                 ]
             },
@@ -1759,23 +1803,33 @@
                                 "Label": "c.",
                                 "Description": "Boron;",
                                 "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Zirconium;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "Magnesium;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "g.",
+                                "Description": "Tantalum;",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "i.",
+                                "Description": "Molybdenum; or",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "j.",
+                                "Description": "Hafnium;",
+                                "SubStructures": []
                             }
                         ]
-                    },
-                    {
-                        "Label": "e.",
-                        "Description": "Magnesium;",
-                        "SubStructures": []
-                    },
-                    {
-                        "Label": "g.",
-                        "Description": "Tantalum;",
-                        "SubStructures": []
-                    },
-                    {
-                        "Label": "i.",
-                        "Description": "Molybdenum; or",
-                        "SubStructures": []
                     },
                     {
                         "Label": "2.",
@@ -1783,11 +1837,6 @@
                         "SubStructures": []
                     }
                 ]
-            },
-            {
-                "Label": "j.",
-                "Description": "Hafnium;",
-                "SubStructures": []
             }
         ]
     },

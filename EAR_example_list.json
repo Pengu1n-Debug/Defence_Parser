@@ -1,0 +1,494 @@
+[
+    {
+        "Label": "Category 0",
+        "Description": "Nuclear Materials, Facilities, and Equipment, Firearms, Ammunition [and Miscellaneous Items]",
+        "SubStructures": [
+            {
+                "Label": "A.",
+                "Description": "“End Items,” “Equipment,” “Accessories,” “Attachments,” “Parts,” “Components,” and “Systems”",
+                "SubStructures": [
+                    {
+                        "Label": "0A002",
+                        "Description": "Power generating or propulsion equipment “specially designed” for use with space, marine or mobile “nuclear reactors”. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "0A501",
+                        "Description": "Firearms (except 0A502 shotguns, 0A506 semi-automatic rifles, 0A507 semi-automatic pistols, and 0A508 semi-automatic shotguns) and related commodities (except semi-automatic related commodities enumerated or otherwise described in Eccn 0A509 for Eccns 0A506, 0A507, or 0A508) as follows (see List of Items controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Non-automatic and non-semi-automatic firearms equal to .50 caliber (12.7 mm) or less.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Non-automatic and non-semi-automatic rifles, carbines, revolvers or pistols with a caliber greater than .50 inches (12.7 mm) but less than or equal to .72 inches (18.0 mm).",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "The following types of “parts” and “components” if “specially designed” for a commodity controlled by paragraph .a or .b of this entry or ECCNs 0A506 or 0A507, or USML Category I (unless otherwise enumerated or elsewhere specified on the USML or controlled under ECCN 0A509): Barrels, cylinders, barrel extensions, mounting blocks (trunnions), bolts, bolt carriers, operating rods, gas pistons, trigger housings, triggers, hammers/striker, sears, disconnectors, pistol grips that contain fire control “parts” or “components” (e.g., triggers, hammers/striker, sears, disconnectors) and buttstocks that contain fire control “parts” or “components.”",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Detachable magazines with a capacity of 17 to 50 rounds “specially designed” for a commodity controlled by paragraph .a or .b of this entry or controlled by ECCNs 0A506 or 0A507.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "Receivers (frames) and “complete breech mechanisms,” including castings, forgings, stampings, or machined items thereof, “specially designed” for a commodity controlled by paragraph .a or .b of this entry.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "f. through w.",
+                                "Description": "[Reserved]",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "x.",
+                                "Description": "“Parts” and “components” that are “specially designed” for a commodity classified under paragraphs .a through .c of this entry, a commodity classified under ECCNs 0A506 or 0A507, or the USML and not elsewhere specified on the USML or CCL or controlled under ECCN 0A509.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "y.",
+                                "Description": "Specific “parts,” “components,” “accessories” and “attachments” “specially designed” for a commodity subject to control in this ECCN, ECCNs 0A506, 0A507, or common to a defense article in USML Category I and not elsewhere specified in the USML or CCL as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor.",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Stocks (including adjustable, collapsible, blades and braces), grips, handguards, or forends, that do not contain any fire control “parts” or “components” (e.g., triggers, hammers/striker, sears, disconnectors);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2. through 5.",
+                                        "Description": "[Reserved]",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "6.",
+                                        "Description": "Bayonets; and",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "7.",
+                                        "Description": "Firearms manufactured from 1890 to 1898 and reproductions thereof.",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A502",
+                        "Description": "Shotguns; shotguns “parts” and “components,” consisting of complete trigger mechanisms; magazines and magazine extension tubes; “complete breech mechanisms;” except: semi-automatic shotguns controlled under Eccn 0A508; certain “parts,” components,” devices, “accessories,” and “attachments” for semi-automatic shotguns controlled under Eccn 0A509; equipment used to slaughter domestic animals or used exclusively to treat or tranquilize animals; and arms designed solely for signal, flare, or saluting use.",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "0A503",
+                        "Description": "Discharge type arms; non-lethal or less-lethal grenades and projectiles, and “specially designed” “parts” and “components” of those projectiles; and devices to administer electric shock, for example, stun guns, shock batons, shock shields, electric cattle prods, immobilization guns and projectiles; except equipment used to slaughter domestic animals or used exclusively to treat or tranquilize animals, and except arms designed solely for signal, flare, or saluting use; and “specially designed” “parts” and “components,” n.e.s.",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "0A504",
+                        "Description": "Optical sighting devices for firearms (including shotguns controlled by 0A502); and “components” as follows (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Telescopic sights.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Holographic sights.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Reflex or “red dot” sights.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Reticle sights.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "Other sighting devices that contain optical elements.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "f.",
+                                "Description": "Laser aiming devices or laser illuminators “specially designed” for use on firearms, and having an operational wavelength exceeding 400 nm but not exceeding 710 nm.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "g.",
+                                "Description": "Lenses, other optical elements and adjustment mechanisms for articles in paragraphs .a, .b, .c, .d, .e, or .i.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "h.",
+                                "Description": "[Reserved]",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "i.",
+                                "Description": "Riflescopes that were not “subject to the EAR” as of March 8, 2020 and are “specially designed” for use in firearms that are “subject to the ITAR.”",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A505",
+                        "Description": "Ammuntion as follows (see List of Items Controlled)",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Ammunition for firearms controlled by ECCNs 0A501, 0A506, or 0A507 or USML Category I and not enumerated in paragraph .b, .c, or .d of this entry or described in USML Category III.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Buckshot (No. 4 .24” diameter and larger, any material) shotgun shells and shotgun shells that contain only buckshot, or are for the dispersion of chemical irritants.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Shotgun shells (including less than lethal rounds) that do not contain buckshot; and “specially designed” “parts” and “components” of shotgun shells.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Blank ammunition for firearms controlled by ECCNs 0A501, 0A502, 0A506, 0A507, or 0A508 and not described in USML Category III.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e. through w.",
+                                "Description": "[Reserved]",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "x.",
+                                "Description": "“Parts” and “components” that are “specially designed” for a commodity subject to control in this ECCN or a defense article in USML Category III and not elsewhere specified on the USML or the CCL.",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A506",
+                        "Description": "Semi-Automatic Rifles as follows (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Semi-automatic centerfire (non-rimfire) rifles equal to .50 caliber (12.7 mm) or less.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Semi-automatic rimfire rifles equal to .50 caliber (12.7 mm) or less.",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A507",
+                        "Description": "Semi-Automatic Pistols as follows (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Semi-automatic centerfire (non-rimfire) pistols equal to .50 caliber (12.7 mm) or less.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Semi-automatic rimfire pistols equal to .50 caliber (12.7 mm) or less.",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A508",
+                        "Description": "Semi-Automatic Shotguns as follows (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Semi-automatic centerfire (non-rimfire) shotguns.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Semi-automatic rimfire shotguns.",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A509",
+                        "Description": "Certain “parts,” “components,” devices, “accessories,” and “attachments” for items controlled under ECCNs 0A506, 0A507, and 0A508 as follows (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Any “part,” “component,” device, “attachment,” or “accessory” not elsewhere specified on the USML that is designed or functions to convert a non-semi-automatic firearm controlled by 0A501 or 0A502 to semi-automatic or to accelerate the rate of fire of a semi-automatic firearm controlled by 0A506, 0A507, or 0A508.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Receivers (frames), including castings, forgings, stampings, or machined items thereof, “specially designed” for an item controlled by ECCN 0A506.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Receivers (frames), including castings, forgings, stampings, or machined items thereof, “specially designed” for an item controlled by ECCN 0A507.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Receivers (frames) and “specially designed” “complete breech mechanisms” for a commodity controlled by ECCN 0A508.",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A521",
+                        "Description": "Any commodity subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons.",
+                        "SubStructures": []
+                    },
+                    {
+                        "Label": "0A602",
+                        "Description": "Guns and Armament as follows (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Guns and armament manufactured between 1890 and 1919.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Military flame throwers with an effective range of less than 20 meters.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c. through w.",
+                                "Description": "[Reserved]",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "x.",
+                                "Description": "“Parts” and “components” that are “specially designed” for a commodity subject to control in paragraphs .a or .b of this ECCN or a defense article in USML Category II and not elsewhere specified on the USML or the CCL.",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A604",
+                        "Description": "Commodities related to military explosive devices and charges (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Demolition blocks, and detonators designed, modified, or adapted therefor.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Military explosive excavating devices.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Smoke hand grenades and stun hand grenades (e.g., “flashbangs”) not controlled by ECCN 1A984.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d. through w.",
+                                "Description": "[Reserved]",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "x.",
+                                "Description": "“Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity subject to control in paragraphs .a through .c of this ECCN, or for a defense article controlled under USML Category IV, and not specified elsewhere on the USML.",
+                                "SubStructures": []
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "0A606",
+                        "Description": "Ground vehicles and related commodities, as follows (see List of Items Controlled).",
+                        "SubStructures": [
+                            {
+                                "Label": "a.",
+                                "Description": "Ground vehicles, whether manned or unmanned, “specially designed” for a military use and not enumerated or otherwise described in USML Category VII.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "b.",
+                                "Description": "Other ground vehicles, “parts” and “components,” as follows:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Unarmed vehicles that are derived from civilian vehicles and that have all of the following:",
+                                        "SubStructures": [
+                                            {
+                                                "Label": "a.",
+                                                "Description": "Manufactured or fitted with materials or “components” other than reactive or electromagnetic armor to provide ballistic protection equal to or better than level III (National Institute of Justice standard 0108.01, September 1985) or “equivalent standards”;",
+                                                "SubStructures": []
+                                            },
+                                            {
+                                                "Label": "b.",
+                                                "Description": "A transmission to provide drive to both front and rear wheels simultaneously, including those for vehicles having additional wheels for load bearing purposes whether driven or not;",
+                                                "SubStructures": []
+                                            },
+                                            {
+                                                "Label": "c.",
+                                                "Description": "Gross vehicle weight rating (GVWR) greater than 4,500 kg; and",
+                                                "SubStructures": []
+                                            },
+                                            {
+                                                "Label": "d.",
+                                                "Description": "Designed or modified for off-road use.",
+                                                "SubStructures": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "“Parts” and “components” having all of the following:",
+                                        "SubStructures": [
+                                            {
+                                                "Label": "a.",
+                                                "Description": "“Specially designed” for vehicles specified in paragraph .b.1 of this entry; and",
+                                                "SubStructures": []
+                                            },
+                                            {
+                                                "Label": "b.",
+                                                "Description": "Providing ballistic protection equal to or better than level III (National Institute of Justice standard 0108.01, September 1985) or “equivalent standards”.",
+                                                "SubStructures": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Label": "c.",
+                                "Description": "Air-cooled diesel engines and engine blocks for armored vehicles that weigh more than 40 tons.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "d.",
+                                "Description": "Fully automatic continuously variable transmissions for tracked combat vehicles.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "e.",
+                                "Description": "Deep water fording kits “specially designed” for ground vehicles controlled by ECCN 0A606.a or USML Category VII.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "f.",
+                                "Description": "Self-launching bridge “components” not enumerated in USML Category VII(g) “specially designed” for deployment by ground vehicles enumerated in USML Category VII or this ECCN.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "g. through w.",
+                                "Description": "[Reserved]",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "x.",
+                                "Description": "“Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity enumerated or otherwise described in ECCN 0A606 (other than 0A606.b or 0A606.y) or a defense article enumerated in USML Category VII and not elsewhere specified on the USML or in 0A606.y.",
+                                "SubStructures": []
+                            },
+                            {
+                                "Label": "y.",
+                                "Description": "Specific “parts,” “components,” “accessories,” and “attachments” “specially designed” for a commodity enumerated or otherwise described in this ECCN (other than ECCN 0A606.b) or for a defense article in USML Category VII and not elsewhere specified on the USML or the CCL, as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor:",
+                                "SubStructures": [
+                                    {
+                                        "Label": "1.",
+                                        "Description": "Brake discs, rotors, drums, calipers, cylinders, pads, shoes, lines, hoses, vacuum boosters, and parts therefor;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "2.",
+                                        "Description": "Alternators and generators;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "3.",
+                                        "Description": "Axles;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "4.",
+                                        "Description": "Batteries;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "5.",
+                                        "Description": "Bearings (e.g., ball, roller, wheel);",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "6.",
+                                        "Description": "Cables, cable assembles, and connectors;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "7.",
+                                        "Description": "Cooling system hoses;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "8.",
+                                        "Description": "Hydraulic, fuel, oil, and air filters, not controlled by ECCN 1A004;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "9.",
+                                        "Description": "Gaskets and o-rings;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "10.",
+                                        "Description": "Hydraulic system hoses, fittings, couplings, adapters, and valves;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "11.",
+                                        "Description": "Latches and hinges;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "12.",
+                                        "Description": "Lighting systems, fuses, and “components;”",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "13.",
+                                        "Description": "Pneumatic hoses, fittings, adapters, couplings, and valves;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "14.",
+                                        "Description": "Seats, seat assemblies, seat supports, and harnesses;",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "15.",
+                                        "Description": "Tires, except run flat; and",
+                                        "SubStructures": []
+                                    },
+                                    {
+                                        "Label": "16.",
+                                        "Description": "Windows, except those for armored vehicles.",
+                                        "SubStructures": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
